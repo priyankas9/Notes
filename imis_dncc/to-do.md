@@ -44,7 +44,7 @@ miro - new functions for dncc schedule desludging
   make a route 
   make function that saves details to fsm.application table
  
-Form fields: - ui part done
+Form fields: - ui part done 
 -------------
 
 Applicant Details                               Same as owner (checkbox)
@@ -59,3 +59,9 @@ Application Details
 Proposed Emptying Date*    Prefilled (date)          proposed_emptying_date
 Service Provider Name*      (select option)          service_provider_id
 (Fetch service provider name where deleted_at is null)
+
+
+## to-do  Sunday 29.09.2024
+- make a route to submit the pop up form  (fsm.application) table 
+- make a corresponding form for it 
+- Fetch service provider name where deleted_at is null
