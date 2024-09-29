@@ -44,7 +44,7 @@ miro - new functions for dncc schedule desludging
   make a route 
   make function that saves details to fsm.application table
  
-Form fields:
+Form fields: - ui part done
 -------------
 
 Applicant Details                               Same as owner (checkbox)
