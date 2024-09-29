@@ -54,6 +54,7 @@ Service Provider Name*      (select option)          service_provider_id
 - make a route to submit the pop up form  (fsm.application) table  - Done
 - make a corresponding form for it  - Done
 - Fetch service provider name where deleted_at is null -Done 
-  (style should be fixed)
+  (style should be fixed) - Done
 - prefill proposed emptying input if there are data
-- Make the record not to get displayed in the datatable after the record has been successfully saved :)
+- Make the record not to get displayed in the datatable after the record has been successfully saved :) - Ask maharshi about it 
+ and also ask about the same as owner :)
