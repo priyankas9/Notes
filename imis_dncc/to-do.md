@@ -1,5 +1,4 @@
 # to-do 
-
 - export feature add for desludging schedule - Done
 - regenrate buttone by hitting the set emptying function 
   - button name Regnerate Next Emptying Date
@@ -59,6 +58,35 @@ Service Provider Name*      (select option)          service_provider_id
 - Make the record not to get displayed in the datatable after the record has been successfully saved :) - Ask maharshi about it 
  and also ask about the same as owner :)
 - validation of prefill proposed_emptying_date : a user cannot change it after the given next emptying date :) 
-----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 ## to-do 9.30.2024 Monday
-- Dncc export 
+- Dncc export - couldn't finish it :(
+----------------------------------------------------------------------------------------------
+# to-do 10.01.2024 Tuesday 
+- DNCC export 
+  NEW FIELDS 
+  -----------
+- Respondent contact, name and wasa status
+FORMAT OF EXCEL 
+![alt text](image.png)
+BACKEND Mapping
+---------------
+Zone Name - not found   
+Ward Number - ward
+BIN Number - bin        
+House Owner Name - owner_name(o)
+House owner Mobile Number - owner_contact(o)
+Structure type - structure_type_id 
+Number of Floor - floor_count
+Number of Toilet - toilet_count
+Functional Use - temp_functional_use_id
+Empty Status - emptied_status(c)
+Sanitation system - sanitation_system_id (s)
+Outlet of Containment Connection - type_id (c)
+WASA sewer bill status - wasa_status
+WASA Bill number - wasa_bill_no
+House Number - house_number
+Block Number - block_number
+Road Name - road_number
+Area Name - area_name
+
