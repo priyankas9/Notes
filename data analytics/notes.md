@@ -30,3 +30,15 @@ measres > r.c > create > groups
 # Sets
 measres > r.c > create > sets 
 and add that in colors
+# Aggregation : mathematical function 
+tabelau : by default aggregation garcha
+measuere ma chaneyk r.c > convert to dimenison 
+e.g profit > parameters
+measure dimension ????
+Steps :
+Set > r.c > create set > top--condition > by formula
+-join,lod
+# Dashboard
+navbar > options
+drop sheets
+story - multiple dashboards
