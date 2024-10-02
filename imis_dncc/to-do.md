@@ -92,4 +92,5 @@ Area Name - area_name
 ----------------------------------------------------------------------------------------------
 # to-do 10.02.2024 Wednesday
 - dncc work 
-- gmis
+- gmis - issue resolved fetched from direct table 
+- ISSUE : Dont display the issue directly to the swal
