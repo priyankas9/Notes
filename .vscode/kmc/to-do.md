@@ -7,7 +7,10 @@
 
 # to-do 10.04.2024 Friday
 
-- gmis map issue 
+- gmis map issue
+  specifically road and house search issue 
+  Problems faced: even though everything was right sometimes when we try to display the geom to our map 
+  Learning: do check the the geom value cause soemtimes the geom format may not be matched :)
 - gmis buffer popup and display
 - gmis road code display 
    edit page : disable & show as well
