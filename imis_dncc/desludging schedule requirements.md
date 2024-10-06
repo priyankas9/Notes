@@ -41,3 +41,17 @@ Application Details
 Proposed Emptying Date*    Prefilled (date)          proposed_emptying_date
 Service Provider Name*      (select option)          service_provider_id
 (Fetch service provider name where deleted_at is null)
+
+# 2024.10.06 Sunday Requirement
+
+## Confirm Emptying (pop up form)
+
+- When clicked same as owner do fetch all the seleted owners information
+  add new column that displays owner details
+  They are:
+  Owner Name *             varchar                     owner_name
+  Owner Gender *           option:m,f,other      owner_gender
+  Owner Contact *           integer                    owner_contact
+- ***LOGIC : Only display the field when smae as owner checkbox is clicked :)**
+  ***Issue : Fix proposed emptying -> date should be displayed as input type and prefilled value vanda before wala date halnu paryo** *
+  and do add a loading buffer when trying to reschedule the desludging vehicle
