@@ -17,8 +17,12 @@ TO-DO gmis
 - gmis road code display
   edit page : disable & show as well
 
-# to-do 10.06.2024 Friday
+# to-do 10.06.2024 Sunday
 
 - ~~gmis road search -Done~~
-- added footer copyright in map layout
-- change the favicon of display in tab (url tab)
+- ~~added footer copyright in map layout~~
+- ~~change the favicon of display in tab (url tab)~~
+
+# to-do 10.07.2024 Monday
+
+- search of building and road complete
