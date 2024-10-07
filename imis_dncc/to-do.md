@@ -1,28 +1,38 @@
-# to-do 
+# to-do
+
 - export feature add for desludging schedule - Done
-- regenrate buttone by hitting the set emptying function 
+- regenrate buttone by hitting the set emptying function
   - button name Regnerate Next Emptying Date
-  --features: page refresh
-- check miro and complete the made function now  
-- pass sql query for site setting table craetion 
-- add extra buttons for schedule desludgong 
-- check copy for more details to do for site settings 
-- db new task ask maharshi 
+    -- features: page refresh
+- check miro and complete the made function now
+- pass sql query for site setting table craetion
+- add extra buttons for schedule desludgong
+- check copy for more details to do for site settings
+- db new task ask maharshi
 - check miro board
-------------------------------------------------------------------------------------------
+
+---
+
 ## to-do thursday 2024.09.26
+
 dncc - site settings - DONE
-// error : didnot include all the columns before saving 
-site settings - validation 
+// error : didnot include all the columns before saving
+site settings - validation
+
 ## Validation to-do :
-working hours : 24 max 
-Next Emotying Date : 1 - 15 
+
+working hours : 24 max
+Next Emotying Date : 1 - 15
+
 ### Issue:::: validation fails but still the success message gets displayed :(
-  ++ changed contain_ward column to ward column in fsm.containment table
+
+++ changed contain_ward column to ward column in fsm.containment table
 miro function - compelete (reject count -- left)
-regenrate next emptying data compelete -- done almost 
---------------------------------------------------------------------------------------
+regenrate next emptying data compelete -- done almost
+-----------------------------------------------------
+
 ## to-do friday 2024.09.27
+
 sidebar - placement of sitessettings and removal of cwis setting - Done
 ++ buttons name:
 Confirm for Assessment (done)
@@ -31,52 +41,66 @@ Re-schedule Emptying Date
 Send Job Order for Emptying
 ++ button color changed
 miro - new functions for dncc schedule desludging
-- Button 2 
+
+- Button 2
 - Changed the button name form regnerate next emptying date to regenerate desludging schedule
   make popup form which has fileds for applicants and application details - Done
-  make a route 
+  make a route
   make function that saves details to fsm.application table
-Form fields: - ui part done 
--------------
-Applicant Details                               Same as owner (checkbox)
-----------------------------------------------------------------------------------------------
-Applicant Name *             varchar                applicant_name
-Applicant Gender *           option:m,f,other       applicant_gender
-Applicant Contact Number *   integer                applicant_contact
-Application Details
------------------------------------------------------------------------------------------------
-Proposed Emptying Date*    Prefilled (date)          proposed_emptying_date
-Service Provider Name*      (select option)          service_provider_id
-(Fetch service provider name where deleted_at is null)
------------------------------------------------------------------------------------------------
+  Form fields: - ui part done
+
+---
+
+### Applicant Details                               Same as owner (checkbox)
+
+### Applicant Name *                     varchar                     applicant_name
+Applicant Gender *                  option:m,f,other      applicant_gender
+Applicant Contact Number *   integer                     applicant_contact
+
+
+### Application Details
+
+### Proposed Emptying Date*    Prefilled (date)          proposed_emptying_date
+Service Provider Name*       (select option)           service_provider_id
+
+### (Fetch service provider name where deleted_at is null)
+
 ## to-do  Sunday 29.09.2024
-- make a route to submit the pop up form  (fsm.application) table  - Done
-- make a corresponding form for it  - Done
-- Fetch service provider name where deleted_at is null -Done 
-  (style should be fixed) - Done
+
+- ~~make a route to submit the pop up form  (fsm.application) table~~
+- ~~make a corresponding form for it~~
+- ~~Fetch service provider name where deleted_at is null
+  (style should be fixed~~)
 - prefill proposed emptying input if there are data
-- Make the record not to get displayed in the datatable after the record has been successfully saved :) - Ask maharshi about it 
- and also ask about the same as owner :)
-- validation of prefill proposed_emptying_date : a user cannot change it after the given next emptying date :) 
-----------------------------------------------------------------------------------------------
+- Make the record not to get displayed in the datatable after the record has been successfully saved 😄 - Ask maharshi about it
+  and also ask about the same as owner 😄
+- validation of prefill proposed_emptying_date : a user cannot change it after the given next emptying date 😄
+
+---
+
 ## to-do 9.30.2024 Monday
-- Dncc export - couldn't finish it :(
-----------------------------------------------------------------------------------------------
-# to-do 10.01.2024 Tuesday 
-- DNCC export 
-  NEW FIELDS 
-  -----------
+
+- Dncc export - couldn't finish it 😢
+
+---
+
+# to-do 10.01.2024 Tuesday
+
+- ##### DNCC export
+  NEW FIELDS
 - Respondent contact, name and wasa status
-FORMAT OF EXCEL 
-![alt text](image.png)
-BACKEND Mapping
----------------
-Zone Name - not found   
+  FORMAT OF EXCEL
+  ![alt text](image.png)
+  BACKEND Mapping
+
+---
+
+##### Zone Name - not found
 Ward Number - ward
-BIN Number - bin        
+BIN Number - bin
 House Owner Name - owner_name(o)
 House owner Mobile Number - owner_contact(o)
-Structure type - structure_type_id 
+Structure type - structure_type_id
 Number of Floor - floor_count
 Number of Toilet - toilet_count
 Functional Use - temp_functional_use_id
@@ -89,8 +113,29 @@ House Number - house_number
 Block Number - block_number
 Road Name - road_number
 Area Name - area_name
-----------------------------------------------------------------------------------------------
+
 # to-do 10.02.2024 Wednesday
-- dncc work 
-- gmis - issue resolved fetched from direct table 
+
+- dncc work
+- gmis - issue resolved fetched from direct table
 - ISSUE : Dont display the issue directly to the swal
+
+# to-do 10.07.2024 Monday
+
+- finish confirm emptying
+
+  -- same as owner
+  Make a form with owner details as:
+  Owner Name *             varchar                     owner_name
+  Owner Gender *           option:m,f,other      owner_gender
+  Owner Contact *           integer                    owner_contact
+
+  The main logic behind this is :
+  ***To only show this field if there exists owners data***
+
+  -- prefill validation for proposed emptying date
+  -- change the input field as date 😉
+
+  -- ~~input date fixation~~
+- reschedule logic finish
+- ADD processing in the datatable after clicking the button 😄
