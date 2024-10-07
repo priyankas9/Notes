@@ -126,15 +126,16 @@ Area Name - area_name
 
   -- same as owner
   Make a form with owner details as:
-  Owner Name *             varchar                     owner_name
-  Owner Gender *           option:m,f,other      owner_gender
-  Owner Contact *           integer                    owner_contact
+  Owner Name *             varchar                     customer_name
+  Owner Gender *           option:m,f,other      customer_gender
+  Owner Contact *           integer                    customer_contact
 
   The main logic behind this is :
   ***To only show this field if there exists owners data***
 
   -- prefill validation for proposed emptying date
   -- change the input field as date 😉
+  -- backend function fixation for saving this also update
 
   -- ~~input date fixation~~
 - reschedule logic finish
