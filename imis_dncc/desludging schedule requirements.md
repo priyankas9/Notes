@@ -31,9 +31,9 @@ Form fields:
 Applicant Details                               Same as owner (checkbox)
 ------------------------------------------------------------------------
 
-Applicant Name *             varchar                applicant_name
-Applicant Gender *           option:m,f,other       applicant_gender
-Applicant Contact Number *   integer                applicant_contact
+Applicant Name *                   varchar                     applicant_name
+Applicant Gender *                 option:m,f,other       applicant_gender
+Applicant Contact Number *   integer                     applicant_contact
 
 Application Details
 -------------------
@@ -54,4 +54,10 @@ Service Provider Name*      (select option)          service_provider_id
   Owner Contact *           integer                    owner_contact
 - ***LOGIC : Only display the field when smae as owner checkbox is clicked :)**
   ***Issue : Fix proposed emptying -> date should be displayed as input type and prefilled value vanda before wala date halnu paryo** *
-  and do add a loading buffer when trying to reschedule the desludging vehicle
+  and do add a loading buffer when trying to reschedule the desludging vehicle# 2024.10.07 Monday Requirement
+- add new column in containment
+  status varchar
+  sample data : 1 if confirm emptying is done
+  2 if disagree
+  - disagree button name: Disagree
+- once the user hits the button we remove the records 😄

@@ -54,13 +54,14 @@ miro - new functions for dncc schedule desludging
 ### Applicant Details                               Same as owner (checkbox)
 
 ### Applicant Name *                     varchar                     applicant_name
+
 Applicant Gender *                  option:m,f,other      applicant_gender
 Applicant Contact Number *   integer                     applicant_contact
-
 
 ### Application Details
 
 ### Proposed Emptying Date*    Prefilled (date)          proposed_emptying_date
+
 Service Provider Name*       (select option)           service_provider_id
 
 ### (Fetch service provider name where deleted_at is null)
@@ -87,6 +88,7 @@ Service Provider Name*       (select option)           service_provider_id
 # to-do 10.01.2024 Tuesday
 
 - ##### DNCC export
+
   NEW FIELDS
 - Respondent contact, name and wasa status
   FORMAT OF EXCEL
@@ -96,6 +98,7 @@ Service Provider Name*       (select option)           service_provider_id
 ---
 
 ##### Zone Name - not found
+
 Ward Number - ward
 BIN Number - bin
 House Owner Name - owner_name(o)
@@ -125,7 +128,7 @@ Area Name - area_name
 - finish confirm emptying
 
   -- same as owner
-  Make a form with owner details as:
+  ~~Make a form with owner details as:~~
   Owner Name *             varchar                     customer_name
   Owner Gender *           option:m,f,other      customer_gender
   Owner Contact *           integer                    customer_contact
@@ -133,10 +136,17 @@ Area Name - area_name
   The main logic behind this is :
   ***To only show this field if there exists owners data***
 
-  -- prefill validation for proposed emptying date
-  -- change the input field as date 😉
-  -- backend function fixation for saving this also update
+  -- ~~prefill validation for proposed emptying dat~~e
+
+  - ~~change the input field as date~~ 😉
+    - ~~backend function fixation for saving this also update~~
 
   -- ~~input date fixation~~
+- reschedule logic finish
+- ADD processing in the datatable after clicking the button 😄
+
+# to-do 10.08.2024 Tuesday
+
+- To only show this field if there exists owners data
 - reschedule logic finish
 - ADD processing in the datatable after clicking the button 😄
