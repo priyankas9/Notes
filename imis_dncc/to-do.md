@@ -147,6 +147,10 @@ Area Name - area_name
 
 # to-do 10.08.2024 Tuesday
 
-- To only show this field if there exists owners data
+- ~~To only show this field if there exists owners data       prefill?~~
 - reschedule logic finish
 - ADD processing in the datatable after clicking the button 😄
+- add new column in containment table as status
+  - which holds flag on hwther the schedule is emptied or not and 1 if confirm emptying is done
+    2 if disagree- disagree button name: Disagree
+  - Add button in desludging schedule to delet and when this button gets hit status column will get flagged as 2 and confirm emptying gets hit then flag as 1
