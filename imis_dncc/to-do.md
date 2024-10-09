@@ -150,7 +150,14 @@ Area Name - area_name
 - ~~To only show this field if there exists owners data       prefill?~~
 - reschedule logic finish
 - ADD processing in the datatable after clicking the button 😄
-- add new column in containment table as status
-  - which holds flag on hwther the schedule is emptied or not and 1 if confirm emptying is done
-    2 if disagree- disagree button name: Disagree
-  - Add button in desludging schedule to delet and when this button gets hit status column will get flagged as 2 and confirm emptying gets hit then flag as 1
+- ~~add new column in containment table as status~~
+  - ~~which holds flag on hwther the schedule is emptied or not and 1 if confirm emptying is done
+    2 if disagree- disagree button name: Disagree~~
+  - ~~Add button in desludging schedule to delete and when this button gets hit status column will get flagged as 2 and confirm emptying gets hit then flag as 1~~
+- query runned : [C:\xampp\htdocs\notes\Notes\imis_dncc\query\query.md]()
+- ecport to csv select query fixation/update according to the new datatable query 😄
+
+# to-do 10.09.2024 Wednesday
+
+- ecport to csv select query fixation/update according to the new datatable query 😄
+- prefilled proposed emptying validation

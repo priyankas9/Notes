@@ -52,9 +52,10 @@ Service Provider Name*      (select option)          service_provider_id
   Owner Name *             varchar                     owner_name
   Owner Gender *           option:m,f,other      owner_gender
   Owner Contact *           integer                    owner_contact
-- ***LOGIC : Only display the field when smae as owner checkbox is clicked :)**
+- ***LOGIC : Only display the field when same as owner checkbox is clicked :)**
   ***Issue : Fix proposed emptying -> date should be displayed as input type and prefilled value vanda before wala date halnu paryo** *
-  and do add a loading buffer when trying to reschedule the desludging vehicle# 2024.10.07 Monday Requirement
+  and do add a loading buffer when trying to reschedule the desludging vehicle
+- # 2024.10.07 Monday Requirement
 - add new column in containment
   status varchar
   sample data : 1 if confirm emptying is done
