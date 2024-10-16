@@ -1,8 +1,20 @@
 # desludging schedule requirements
 
-27.09.2024 friday
+---
+
+
+
+# 27.09.2024 friday
+
+---
+
+
 
 ## For Button 2
+
+---
+
+
 
 ~~Should display pop up form -Done~~
 ~~same as fsm > Application > add form - Done~~
@@ -44,7 +56,9 @@ Service Provider Name*      (select option)          service_provider_id
 
 # 2024.10.06 Sunday Requirement
 
-## Confirm Emptying (pop up form)
+---
+
+Confirm Emptying (pop up form)
 
 - When clicked same as owner do fetch all the seleted owners information
   add new column that displays owner details
@@ -52,13 +66,37 @@ Service Provider Name*      (select option)          service_provider_id
   Owner Name *             varchar                     owner_name
   Owner Gender *           option:m,f,other      owner_gender
   Owner Contact *           integer                    owner_contact
+- 
 - ***LOGIC : Only display the field when same as owner checkbox is clicked :)**
   ***Issue : Fix proposed emptying -> date should be displayed as input type and prefilled value vanda before wala date halnu paryo** *
   and do add a loading buffer when trying to reschedule the desludging vehicle
-- # 2024.10.07 Monday Requirement
-- add new column in containment
-  status varchar
+
+  # 2024.10.07 Monday Requirement
+
+  ---
+
+  add new column in containment
+- status varchar
   sample data : 1 if confirm emptying is done
   2 if disagree
+
   - disagree button name: Disagree
 - once the user hits the button we remove the records 😄
+
+
+# 2024.10.16 Wednesday Requirement
+
+---
+
+
+
+- rename the button name from disagree for confirm emptying to remove from desludging schedule
+- comment the field form sitesetting : Emptying Date Of Period
+- add remarks : same as description available at miro board
+- add new feature : multi-value input
+  (e.g: user needs to have  a value to get inserted multiple value )
+- proposed emptying date validation : remove the validation of user to only select date after not before
+- and fix swal
+- remove non-working buttons for desludging schedule 😄
+- display owner details and make it non editable
+- display details automatically don't just make it function with the checkbox
