@@ -2,8 +2,6 @@
 
 ---
 
-
-
 - export feature add for desludging schedule - Done
 - regenrate buttone by hitting the set emptying function
   - button name Regnerate Next Emptying Date
@@ -20,8 +18,6 @@
 ## to-do thursday 2024.09.26
 
 ---
-
-
 
 dncc - site settings - DONE
 // error : didnot include all the columns before saving
@@ -42,8 +38,6 @@ regenrate next emptying data compelete -- done almost
 ## to-do friday 2024.09.27
 
 ---
-
-
 
 sidebar - placement of sitessettings and removal of cwis setting - Done
 ++ buttons name:
@@ -82,8 +76,6 @@ Service Provider Name*       (select option)           service_provider_id
 
 ---
 
-
-
 - ~~make a route to submit the pop up form  (fsm.application) table~~
 - ~~make a corresponding form for it~~
 - ~~Fetch service provider name where deleted_at is null
@@ -104,8 +96,6 @@ Service Provider Name*       (select option)           service_provider_id
 # to-do 10.01.2024 Tuesday
 
 ---
-
-
 
 - ##### DNCC export
 
@@ -141,8 +131,6 @@ Area Name - area_name
 
 ---
 
-
-
 - dncc work
 - gmis - issue resolved fetched from direct table
 - ISSUE : Dont display the issue directly to the swal
@@ -150,8 +138,6 @@ Area Name - area_name
 # to-do 10.07.2024 Monday
 
 ---
-
-
 
 - finish confirm emptying
 
@@ -177,8 +163,6 @@ Area Name - area_name
 
 ---
 
-
-
 - ~~To only show this field if there exists owners data       prefill?~~
 - reschedule logic finish
 - ADD processing in the datatable after clicking the button 😄
@@ -193,27 +177,32 @@ Area Name - area_name
 
 ---
 
-
-
 - ~~ecport to csv select query fixation/update according to the new datatable query~~ 😄
 - ~~prefilled proposed emptying validation~~
-
 
 # to-do 10.16.2024 Wednesday
 
 ---
 
 - finish dncc as per the requirement :
-  - rename the button name from disagree for confirm emptying to remove from desludging schedule
-  - comment the field form sitesetting : Emptying Date Of Period
-  - add remarks : same as description available at miro board
+  - ~~rename the button name from disagree for confirm emptying to remove from desludging schedule~~
+  - ~~comment the field form sitesetting : Emptying Date Of Period~~
+  - ~~add remarks : same as description available at miro board~~
   - add new feature : multi-value input
     (e.g: user needs to have  a value to get inserted multiple value )
-  - proposed emptying date validation : remove the validation of user to only select date after not before
-  - and fix swal for remove button
-  - remove non-working buttons for desludging schedule 😄
-  - display owner details and make it non editable
-  - display details automatically don't just make it function with the checkbox
+  - ~~proposed emptying date validation : remove the validation of user to only select date after not before~~
+  - ~~and fix swal for remove button~~
+  - ~~remove non-working buttons for desludging schedule 😄~~
+  - ~~display owner details and make it non editable~~
+  - ~~display details automatically don't just make it function with the checkbox~~
 - push in github
 - site setting table creation
 - switch the database 😄
+  (didn't work cause had the table issue and i think the next emptying date data is not available 😢)
+
+# to-do 10.17.2024 Thursday
+
+---
+
+- add new feature : multi-value input
+  (e.g: user needs to have  a value to get inserted multiple value )
