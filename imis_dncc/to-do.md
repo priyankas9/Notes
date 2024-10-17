@@ -206,3 +206,4 @@ Area Name - area_name
 
 - add new feature : multi-value input
   (e.g: user needs to have  a value to get inserted multiple value )
+- added new table site settings in live db
