@@ -2,19 +2,13 @@
 
 ---
 
-
-
 # 27.09.2024 friday
 
 ---
 
-
-
 ## For Button 2
 
 ---
-
-
 
 ~~Should display pop up form -Done~~
 ~~same as fsm > Application > add form - Done~~
@@ -83,20 +77,17 @@ Confirm Emptying (pop up form)
   - disagree button name: Disagree
 - once the user hits the button we remove the records 😄
 
-
 # 2024.10.16 Wednesday Requirement
 
 ---
 
-
-
-- rename the button name from disagree for confirm emptying to remove from desludging schedule
-- comment the field form sitesetting : Emptying Date Of Period
-- add remarks : same as description available at miro board
+- ~~rename the button name from disagree for confirm emptying to remove from desludging schedule~~
+- ~~comment the field form sitesetting : Emptying Date Of Period~~
+- ~~add remarks : same as description available at miro board~~
 - add new feature : multi-value input
   (e.g: user needs to have  a value to get inserted multiple value )
-- proposed emptying date validation : remove the validation of user to only select date after not before
-- and fix swal
-- remove non-working buttons for desludging schedule 😄
-- display owner details and make it non editable
-- display details automatically don't just make it function with the checkbox
+- ~~proposed emptying date validation : remove the validation of user to only select date after not before~~
+- ~~and fix swal~~
+- ~~remove non-working buttons for desludging schedule~~ 😄
+- ~~display owner details and make it non editable~~
+- ~~display details automatically don't just make it function with the checkbox~~
