@@ -26,3 +26,9 @@ TO-DO gmis
 # to-do 10.07.2024 Monday
 
 - search of building and road complete
+
+# to-do 10.18,2024 Friday
+
+- view on map issue fixatiton for building table
+- 15 display on ward layer - remove
+- display information of building business while selecting buinding info
