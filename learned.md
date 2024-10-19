@@ -27,39 +27,10 @@ e.g :  $content.='<a title="Map" href="'.action("MapsController@index", ['layer'
 
 - if you want to zoom then work here
 
-    ** *varmap=newol.Map({***
+ functionzoomToCity() {
 
-** *controls:ol.control.defaults().extend([newol.control.ScaleLine()]),***
+    map.getView().setCenter(ol.proj.transform([85.29197216033933, 27.715958575192687], 'EPSG:4326', 'EPSG:3857')); //just add the long and lat
 
-** *interactions:ol.interaction.defaults({***
+    map.getView().setZoom(16); // You can adjust the zoom level if needed
 
-** *altShiftDragRotate:false,***
-
-** *dragPan:false,***
-
-** *rotate:false,***
-
-** *doubleClickZoom:false***
-
-** *}).extend([newol.interaction.DragPan({***
-
-** *kinetic:null***
-
-** *})]),***
-
-** *target:'olmap',***
-
-** *view:newol.View({***
-
-***minZoom:13,***
-
-** *
-    maxZoom:21, // set zoom here* **
-
-** *extent:ol.proj.transformExtent([85.28712272644042, 27.725009654030885, 85.30171394348145, 27.705092489448575], 'EPSG:4326', 'EPSG:3857') // add coordintates using the coordinate information tool***
-
-** *})***
-
-** *});***
-
----
+    }
