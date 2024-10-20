@@ -1,6 +1,5 @@
----
-TO-DO gmis
----
+
+
 # to-do 10.03.2024 Thursday
 
 - ~~gmis code road~~
@@ -32,3 +31,9 @@ TO-DO gmis
 - ~~view on map issue fixatiton for building table~~
 - ~~15 display on ward layer - remove~~
 - display information of building business while selecting buinding info
+
+# to-do 10.20.2024 Sunday
+
+- add new tool road buffer and buffer tool
+- display information of building business while selecting buinding info
+  - **ISSUE :** *LAYER LABEL DIDN'T GET WORKED AND WORK IN GEO SERVER*
