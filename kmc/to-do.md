@@ -40,3 +40,6 @@
 # to-do 10.21.2024 Monday
 
 - add new tool road buffer and buffer tool
+  - no need to do this 😄
+- **Footer change : Copyright innovative solution pvt.ltd , year**
+- **remove devloped by innovative solution -> supported by innovative solution**
