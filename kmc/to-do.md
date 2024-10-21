@@ -1,5 +1,3 @@
-
-
 # to-do 10.03.2024 Thursday
 
 - ~~gmis code road~~
@@ -35,5 +33,10 @@
 # to-do 10.20.2024 Sunday
 
 - add new tool road buffer and buffer tool
+  - road buffer pop up didn't work (modal)
 - display information of building business while selecting buinding info
   - **ISSUE :** *LAYER LABEL DIDN'T GET WORKED AND WORK IN GEO SERVER*
+
+# to-do 10.21.2024 Monday
+
+- add new tool road buffer and buffer tool
