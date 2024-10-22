@@ -40,6 +40,32 @@
 # to-do 10.21.2024 Monday
 
 - add new tool road buffer and buffer tool
+
   - no need to do this 😄
-- **Footer change : Copyright innovative solution pvt.ltd , year**
-- **remove devloped by innovative solution -> supported by innovative solution**
+- **~~Footer change : Copyright innovative solution pvt.ltd , year~~**
+- **~~remove devloped by innovative solution -> Supported by IMIS Software~~**
+- ~~login page -> gis ttile display - font fix and the label alignment~~
+- **Note : app.blade is used in login page**
+- Drone image lai euta chutai layer ma dalne (ask crisha di)
+
+  # to-do 10.22.2024 Tuesday
+- Add business as a seperate layer in map
+
+  - Add business as a seperate layer in map
+  - Rename reports tool in map as base
+
+    - **ADD ONS** : Building Business , Rented Buildings , old age , disable people
+    - **Export**
+    - pop up ko size thulo banune
+  - Drone image lai euta chutai layer ma dalne
+  - Map tool -> tootltip check ( shown as Dharan mUNICIPLAITY)
+  - BUILDING iNFO AND ROAD INFO SHOULD ONLY BE SHOWN IN ITS TAB
+  - Info tool should exclude to show information of pre-existed information
+  - Building image should be dsiplayed
+  - Business info tool should be added
+  - Remove unnecessary tools from spatial analysis except for report generation
+  - Map info display should be as base 👍
+
+    - Map -> label no repeat -> use css for not repeating label
+    - same for road style in map for only after 1 km display the road name
+  - name suggestion in road name
