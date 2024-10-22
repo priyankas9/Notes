@@ -7,7 +7,6 @@
 ---
 
 - **And for charts titles,x-axis label display do the same as mam's excel**
-
 - **Spelling Check**
 - **Every Dropdown options should be in an alphabetical order**
 - **Footer change : Copyright innovative solution pvt.ltd , year**
@@ -67,3 +66,4 @@
 
   - Map -> label no repeat -> use css for not repeating label
   - same for road style in map for only after 1 km display the road name
+- name suggestion in road name
