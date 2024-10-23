@@ -9,9 +9,9 @@
 - **And for charts titles,x-axis label display do the same as mam's excel**
 - **Spelling Check**
 - **Every Dropdown options should be in an alphabetical order**
-- **Footer change : Copyright innovative solution pvt.ltd , year**
+- **Footer change : Copyright year Dveloped by innovative solution pvt.ltd**
 
-  - **remove devloped by innovative solution -> supported by innovative solution**
+  - **remove devloped by innovative solution -> supported by ims Software**
 
   ---
 - Rename household count -> No.of household
