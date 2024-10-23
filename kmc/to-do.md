@@ -73,16 +73,16 @@
 
 # to-do 10.23.2024 Wednesday
 
-* Add business as a seperate layer in map
-
 * Rename reports tool in map as base
 
 - - **Export**
-  - pop up ko size thulo banune
+  - ~~pop up ko size thulo banune~~
 - BUILDING iNFO AND ROAD INFO SHOULD ONLY BE SHOWN IN ITS TAB
 - Info tool should exclude to show information of pre-existed information
 - Building image should be dsiplayed
-- Business info tool should be added
 - Map -> label no repeat -> use css for not repeating label
 - - same for road style in map for only after 1 km display the road name
 - name suggestion in road name
+- **Footer change : Copyright year Dveloped by innovative solution pvt.ltd**
+- **remove devloped by imis -> supported by ims Software**
+- Drone image lai euta chutai layer ma dalne below base layer
