@@ -21,7 +21,7 @@
   - Tax Last date -> Last Tax paid date (yyyy/mm/dd)
     - use varchar as its datatype
 - Legends of chart should align in one place either below or side
-- **ALL PAGES CRUD SHOULD BE ADD FREE AND VICEVERSA FOR OTHER FEATURES**
+- **ALL PAGES CRUD SHOULD BE ERROR FREE AND VICEVERSA FOR OTHER FEATURES**
 - In building table kunai pani building ma business cha bhayo bahne matra business view garne button rakhne
 
   - placement of this buton should be at last
