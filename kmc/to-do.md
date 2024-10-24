@@ -86,3 +86,14 @@
 - **~~Footer change : Copyright year Dveloped by innovative solution pvt.ltd~~**
 - **~~remove devloped by imis -> supported by ims Software~~**
 - ~~Drone image lai euta chutai layer ma dalne below base layer~~
+
+# to-do 10.24.2023 Thursday
+
+* Rename reports tool in map as base
+
+- - **Export**
+- BUILDING iNFO AND ROAD INFO SHOULD ONLY BE SHOWN IN ITS TAB
+- Info tool should exclude to show information of pre-existed information
+- Building image should be dsiplayed
+- name suggestion in road name
+- In form map display just make the map get dis[played in the ward 15 only
