@@ -1,13 +1,6 @@
-
-
-
-
 ---
-
 **map display from datatable**
-
 ---
-
 if u want to show on map from datatable : add in the fetch function
 
 e.g :  $content.='<a title="Map" href="'.action("MapsController@index", ['layer'=>'buildings', 'field'=>'bin', 'val'=>$model->bin]) .'" class="btn btn-info btn-xs">`<i class="fa fa-map-marker"><i>``</a>` ';
@@ -23,7 +16,7 @@ e.g :  $content.='<a title="Map" href="'.action("MapsController@index", ['layer'
 
 ---
 
-**Map zoom in initila load**
+**Map zoom in initial load**
 
 ---
 
