@@ -89,17 +89,17 @@
 
 # to-do 10.24.2023 Thursday
 
-* Rename reports tool in map as base -> Summary Information Tool
+* ~~Rename reports tool in map as base -> Summary Information Tool~~
 
-- - **Export**
+- - **Export -> nuildimg business issue ask crisha for this**
 - BUILDING iNFO AND ROAD INFO SHOULD ONLY BE SHOWN IN ITS TAB
-- Info tool should exclude to show information of pre-existed information
+- ~~Info tool should exclude to show information of pre-existed information (not needed since we are going to remove the info tool)~~
 - Building image should be dsiplayed
-- name suggestion in road name
+- ~~name suggestion in road name~~
 - In form map display just make the map get dis[played in the ward 15 only
-- swap postiton of business layer below building
-- comment info tool
-- check if forget password is working or not
+- ~~swap postiton of business layer below building~~
+- ~~comment info tool~~
+- ~~check if forget password is working or not (cannot create a user atm)~~
 - ~~label alaignment of filter in every model~~
 - ~~display of point of interest layer~~ - ~~new column point of interest~~
 - ~~swap datatble column~~
