@@ -89,7 +89,7 @@
 
 # to-do 10.24.2023 Thursday
 
-* Rename reports tool in map as base
+* Rename reports tool in map as base -> Summary Information Tool
 
 - - **Export**
 - BUILDING iNFO AND ROAD INFO SHOULD ONLY BE SHOWN IN ITS TAB
@@ -97,3 +97,10 @@
 - Building image should be dsiplayed
 - name suggestion in road name
 - In form map display just make the map get dis[played in the ward 15 only
+- swap postiton of business layer below building
+- comment info tool
+- check if forget password is working or not
+- label alaignment of filter in every model
+- display of point of interest layer -label
+- swap datatble column
+- chart labels padding
