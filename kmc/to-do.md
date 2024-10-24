@@ -100,7 +100,12 @@
 - swap postiton of business layer below building
 - comment info tool
 - check if forget password is working or not
-- label alaignment of filter in every model
-- display of point of interest layer -label
-- swap datatble column
-- chart labels padding
+- ~~label alaignment of filter in every model~~
+- ~~display of point of interest layer~~ - ~~new column point of interest~~
+- ~~swap datatble column~~
+- ~~chart labels padding~~
+- ~~login form label fixation~~
+- ~~building layer should also be on~~
+- ~~and zoom fixation~~
+- ~~and display of ward boundry properly~~
+- display all information in tab bar in map in specific
