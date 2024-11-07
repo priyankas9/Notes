@@ -82,12 +82,18 @@ new minimalist table
 
 - ~~finish making cwis dashboard chart static and cwis generator static finish
 
-
 # 2024.11.05 Tuesday To-do
 
 ---
 
-- cwis add button changes
+- ~~cwis add button changes~~
 - code clean up like remove the stsically calle j query cdn
 - make every iss module same as tax iss
 - add sample data in the place of iss module sample import excel file
+  **Column to be added
+  watersupply iss  -> bin
+  swm iss ->tax code**
+- runed query : ALTER TABLE swm_info.swmservice_payments
+  RENAME COLUMN bin TO tax_code;
+- AlterTableswm_info.swmservice_payment_status Add COLUMN tax_code character varying(50)
+-
