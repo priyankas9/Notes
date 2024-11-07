@@ -67,3 +67,26 @@
   - Map -> label no repeat -> use css for not repeating label
   - same for road style in map for only after 1 km display the road name
 - name suggestion in road name
+
+
+# 11.06.2024 Wedneday
+
+---
+
+- remove the legend from
+  Buildings by Number of Households and Building by use
+- bsiness main and sub in bsiness form ,, for filter as well for type
+- delete button aunu paryo
+- nabhako case ma disable
+- chnage he datatble for business
+- rename owner name to -> house owner name in business
+- datatble business name -> bsiness main type and business sub type chai display hunu paryo
+- registrarion -> registration no ( business)
+- and staus collm align in form (business)
+- add rent column in building
+- point of interest cha bilding bata nai aunu parcha hai
+- business ctegorization in map styling 1-> 5+
+- remove toilet from layer style
+- type ra subtype setting ma caiyoooooooo
+  rate business
+-
