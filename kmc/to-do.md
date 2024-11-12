@@ -109,3 +109,7 @@
 - ~~and zoom fixation~~
 - ~~and display of ward boundry properly~~
 - display all information in tab bar in map in specific
+
+# to-do 10.28.2024 Monday
+
+- export fixation and map tab display
