@@ -29,3 +29,9 @@ e.g :  $content.='<a title="Map" href="'.action("MapsController@index", ['layer'
     map.getView().setZoom(16); // You can adjust the zoom level if needed
 
     }
+
+
+---
+
+mapd -> label display
+change the scale in geoserver style (e.g sk 2k to 5k or so on )
