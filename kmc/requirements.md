@@ -68,25 +68,25 @@
   - same for road style in map for only after 1 km display the road name
 - name suggestion in road name
 
-
-# 11.06.2024 Wedneday
+# 11.06.2024 Wedneday TO-DO
 
 ---
 
-- remove the legend from
-  Buildings by Number of Households and Building by use
-- bsiness main and sub in bsiness form ,, for filter as well for type
-- delete button aunu paryo
-- nabhako case ma disable
-- chnage he datatble for business
-- rename owner name to -> house owner name in business
-- datatble business name -> bsiness main type and business sub type chai display hunu paryo
-- registrarion -> registration no ( business)
-- and staus collm align in form (business)
-- add rent column in building
-- point of interest cha bilding bata nai aunu parcha hai
-- business ctegorization in map styling 1-> 5+
-- remove toilet from layer style
-- type ra subtype setting ma caiyoooooooo
-  rate business
--
+- Business -> Add business main type and sub busines type datatable as well as fix the filter as well
+
+  - for business sub type please do make a look up table
+- Building -> Even if the building has business delete button should be displayed and if there is no business available then disable the button but show
+- Remove owner name and tax last date remove from business datable
+- datatable business name -> business main type and business sub type chai display hunu paryo
+- Rename registration -> registration no ( business forms) and align it with registration status
+- Add rent column in building
+
+  - where get rent from business where rent word is included
+- Point of interest should be fetched from building
+  **MAP**
+- Business Categorization in map  for busines styling 1 -> 5+
+- Remove toilet from style of building layer
+  **DASHBOARD**
+- Remove legend display from chart :
+
+  - Buildings by Number of Households and Building by use
