@@ -98,12 +98,18 @@ new minimalist table
 - AlterTableswm_info.swmservice_payment_status Add COLUMN tax_code character varying(50)
 - 
 
-
-2024.11.14 Thursday To-do
+# 2024.11.14 Thursday To-do
 
 ---
 
-- add cwis new indicator in docs,seeder
+- ~~add cwis new indicator in docs,seeder~~
 - finish the chart thing
-- mobile dev stuff
-- mobile source code as well
+- ~~mobile dev stuff~~
+- ~~mobile source code as well~~
+
+# 2024.11.15 Friday To- do
+
+---
+
+- chart finish -> just display above and below  & legend label should be limited
+- jira issues fixatiotn
