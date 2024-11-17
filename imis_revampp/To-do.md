@@ -96,7 +96,6 @@ new minimalist table
 - runed query : ALTER TABLE swm_info.swmservice_payments
   RENAME COLUMN bin TO tax_code;
 - AlterTableswm_info.swmservice_payment_status Add COLUMN tax_code character varying(50)
-- 
 
 # 2024.11.14 Thursday To-do
 
@@ -111,8 +110,8 @@ new minimalist table
 
 ---
 
-- chart finish -> just display above and below  & legend label should be limited
-- jira issues fixatiotn
+- ~~chart finish -> just display above and below  & legend label should be limited~~
+- ~~jira issues fixatiotn~~
 
 # 2024.11.17 Sunday To-do
 
