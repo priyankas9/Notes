@@ -113,3 +113,14 @@ new minimalist table
 
 - chart finish -> just display above and below  & legend label should be limited
 - jira issues fixatiotn
+
+# 2024.11.17 Sunday To-do
+
+---
+
+- chart -> tool tip fixation
+- display of chart in infop for buildings
+- on load pop up
+- cwis -> nan na hunda no percent display
+- firday requirement pdf
+- cwis pdf
