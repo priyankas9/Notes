@@ -117,9 +117,9 @@ new minimalist table
 
 ---
 
-- chart -> tool tip fixation
+- ~~chart -> tool tip fixation~~
 - display of chart in infop for buildings
 - on load pop up
 - cwis -> nan na hunda no percent display
-- firday requirement pdf
+- ~~firday requirement pdf~~
 - cwis pdf
