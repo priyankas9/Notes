@@ -18,3 +18,12 @@
 - mobile dev
 - capacity in tratmentplant filter
 - new db connection
+
+8th december Sunday
+
+---
+
+- history
+- mobile app
+- imis other issues
+- role wise testing
