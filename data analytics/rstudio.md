@@ -31,3 +31,4 @@ whisker
 - runif
 - preserve random numbers ? -> seed
 - library -> rgl
+- by ->outpt ko length kati dincha banera  bahnna ildiana d , length -> otput length kati cha bancha
