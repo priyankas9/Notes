@@ -12,3 +12,14 @@ alpha -> transperancy
 se-> standard error
 histogram,bar,line,point
 whisker
+
+
+12.10.2024 tuesday
+
+---
+
+- element.rect (all the topics will be 1marks qestions )
+- r and tableu ko start dekhi rn garney
+- sapply -> element wise function lie call garcha , avoid using loops
+  ()simplyfy apply)
+- Apply has a different family ->apply ( ),sapply (),laaply {} : list apply
