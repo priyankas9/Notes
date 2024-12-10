@@ -72,3 +72,11 @@ x_val <- seq(0,10,length.out = 100)
 y_val <- sin(x_val)
 z_val <- cos(x_val)
 plot3d(x_val,y_val,z_val,type = "l", col= "blue" , lwd = 2)
+
+# REP
+
+---
+
+x <- rep(1,100)
+y <- rnorm(100,0,1)
+plot(df$x, df$y)
