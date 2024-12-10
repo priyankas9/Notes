@@ -23,3 +23,11 @@ whisker
 - sapply -> element wise function lie call garcha , avoid using loops
   ()simplyfy apply)
 - Apply has a different family ->apply ( ),sapply (),laaply {} : list apply
+- plot : code link
+- abline -> satrting and end point
+  doesnot accept x and y variable
+  a to b ko location line
+- rnorm -> mean and standard deviation
+- runif
+- preserve random numbers ? -> seed
+- library -> rgl
