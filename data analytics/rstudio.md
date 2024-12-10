@@ -33,3 +33,4 @@ whisker
 - library -> rgl
 - by ->outpt ko length kati dincha banera  bahnna ildiana d , length -> otput length kati cha bancha
 - rep
+- forach
