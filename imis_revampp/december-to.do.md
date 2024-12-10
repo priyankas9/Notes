@@ -31,6 +31,12 @@
   Drain network
   Water supply
 * mobile app
-
 * imis other issues
 * role wise testing
+
+10th december tuesday
+
+---
+
+- owner -> bin id
+- kml previewer in building survey
