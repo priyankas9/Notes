@@ -47,9 +47,9 @@
 
 ---
 
-- > conatct  + , -
+- > ~~conatct  + , -~~
   >
-- popn of buili. alignment
+- ~~popn of buili. alignment and non editable~~
 - no.of floors -.5
 - containment volume non editable
 - input field ma gayera jata open gare pani open hunu paryo
