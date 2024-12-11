@@ -51,6 +51,6 @@
   >
 - ~~popn of buili. alignment and non editable~~
 - no.of floors -.5
-- containment volume non editable
+- ~~containment volume non editable~~
 - input field ma gayera jata open gare pani open hunu paryo
 - kml reminder message 5mb and kml nai hunu parcha messages
