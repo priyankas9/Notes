@@ -53,4 +53,16 @@
 - no.of floors -.5
 - ~~containment volume non editable~~
 - ~~input field ma gayera jata open gare pani open hunu paryo~~
-- kml reminder message 5mb and kml nai hunu parcha messages
+- kml re.
+- minder message 5mb and kml nai hunu parcha messages
+
+# 12th december Thursday
+
+---
+
+- contact number validation
+- population validation & containment volume validation
+- mobile api test
+- roles - doc check
+- minor validation
+- form validation for number of floors
