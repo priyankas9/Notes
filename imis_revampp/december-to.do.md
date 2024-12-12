@@ -60,7 +60,10 @@
 
 ---
 
-- contact number validation
+- contact number validation -> remove +,-
+  - building form
+  - service provider
+  - emptying
 - population validation & containment volume validation
 - mobile api test
 - roles - doc check
