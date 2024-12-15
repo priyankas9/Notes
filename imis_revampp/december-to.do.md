@@ -69,3 +69,13 @@
 - roles - doc check
 - minor validation
 - form validation for number of floors
+
+# 15th december Thursday
+
+---
+
+- date open
+- last updated
+- contact nu,ber validation
+- password format
+- user -> password field astrick
