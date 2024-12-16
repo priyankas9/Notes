@@ -84,9 +84,11 @@
 
 ---
 
-
-- date open
-- last updated
+- ~~date open~~ :  'onclick' => 'this.showPicker();' ,'max' => date('Y-m-d')
+- ~~last updated~~
 - contact nu,ber validation
 - password format
 - user -> password field astrick
+- sidebar validation
+- float value : 'oninput' => "this.value = this.value.replace(/[^0-9.]/g, ''); ",
+- containmebt -> prefill text validation issue
