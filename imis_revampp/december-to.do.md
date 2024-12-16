@@ -70,9 +70,20 @@
 - minor validation
 - form validation for number of floors
 
-# 15th december Thursday
+# 15th december Sunday
 
 ---
+
+- date open
+- last updated
+- contact nu,ber validation
+- password format
+- user -> password field astrick
+
+# 16th december Monday
+
+---
+
 
 - date open
 - last updated
