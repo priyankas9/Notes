@@ -101,6 +101,7 @@
 
 
 
-- password format
-- user -> password field astrick
+- ~~password format~~
+- ~~header validation~~
+- ~~user -> password field astrick~~
 - containmebt -> prefill text validation issue
