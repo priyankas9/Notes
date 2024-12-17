@@ -92,3 +92,15 @@
 - sidebar validation
 - float value : 'oninput' => "this.value = this.value.replace(/[^0-9.]/g, ''); ",
 - containmebt -> prefill text validation issue
+- integer : 'oninput' => "this.value = this.value < 0 ? '' : this.value",
+
+
+# 17th december Tuesday
+
+---
+
+
+
+- password format
+- user -> password field astrick
+- containmebt -> prefill text validation issue
