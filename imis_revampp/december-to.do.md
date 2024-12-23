@@ -94,14 +94,26 @@
 - containmebt -> prefill text validation issue
 - integer : 'oninput' => "this.value = this.value < 0 ? '' : this.value",
 
-
 # 17th december Tuesday
 
 ---
 
-
-
 - ~~password format~~
 - ~~header validation~~
 - ~~user -> password field astrick~~
-- containmebt -> prefill text validation issue
+- ~~containmebt -> prefill text validation issue~~
+
+# 18th december Wednesday
+
+---
+
+* api
+  - disposal place
+  - multiple containment
+  - containment size
+* jira ticket issues
+* roles -> infrast,tax dept,water biling,service -> admin.emptying,help desk
+
+![Avatar for Priyanka Shakya](https://avatars.githubusercontent.com/u/e?email=100750349%2Bpriyankas9%40users.noreply.github.com&s=64)
+
+Priyanka Shakya
