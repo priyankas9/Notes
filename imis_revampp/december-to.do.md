@@ -117,3 +117,13 @@
 ![Avatar for Priyanka Shakya](https://avatars.githubusercontent.com/u/e?email=100750349%2Bpriyankas9%40users.noreply.github.com&s=64)
 
 Priyanka Shakya
+
+
+# 24/12/2024 december Tuesday 
+
+---
+
+- api changes
+- api error essage changs \
+- jira ticket
+- building survey
