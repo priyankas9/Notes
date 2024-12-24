@@ -126,4 +126,4 @@ Priyanka Shakya
 - ~~api changes~~ -> IMIS-1578
 - ~~api error essage changs~~ 
 - *~~jira ticket~~*
-- building survey
+- ~~building survey~~
