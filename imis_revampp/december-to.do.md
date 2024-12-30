@@ -118,12 +118,19 @@
 
 Priyanka Shakya
 
-
-# 24/12/2024 december Tuesday 
+# 24/12/2024 december Tuesday
 
 ---
 
 - ~~api changes~~ -> IMIS-1578
-- ~~api error essage changs~~ 
+- ~~api error essage changs~~
 - *~~jira ticket~~*
 - ~~building survey~~
+
+# 27/12/2024 december friday
+
+---
+
+~~-Assignmentsssssssssssssssssssssss~~
+
+- ~~code pushes~~
