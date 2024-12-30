@@ -142,3 +142,4 @@ Priyanka Shakya
 - ~~cwis filter~~
 - cwis pdf loading
 - tax collection import
+- cwis rwove nan % from the pdf
