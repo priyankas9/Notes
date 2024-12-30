@@ -12,9 +12,9 @@ enumeration
 
 ---
 
--> ip address haru patai lagauney : informationpatta lagaune , network ma ,server 
+-> ip address haru patai lagauney : informationpatta lagaune , network ma ,server
 
-getting to know vulnerabilities and resources 
+getting to know vulnerabilities and resources
 
 key areas : username,running services,network devices,open port,shared resources/folders
 
@@ -31,8 +31,10 @@ snmp -.for netwrok devices -> roter,switch (simple netwrok mang protocol)
 
 ldap user,grop,info
 
-dns enumeration : domains record 
+dns enumeration : domains record
 
 smtp : email  sambandi
 
 website -
+
+chap 1,2,3,4,5
