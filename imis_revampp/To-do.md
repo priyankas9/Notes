@@ -128,24 +128,22 @@ new minimalist table
 
 ---
 
-
-
 **Dashboard:**
 
 * ~~Clicked "Distribution of Water Supply Payment Dues" but downloaded both "Distribution of Water Supply Payment Dues" and, "Outstanding Payments for Solid Waste Management Services"~~
-* Outstanding Payments for Solid Waste Management Services --> clicked but not downloading
-* Ward-Wise Revenue Collected from Emptying Services  --> not matching
-* Ward-Wise Distribution of Containment Types --> not matching
-* Building Connections to Sanitation system Types ---> not matching
-* Building Use Composition --> not matching
-* Ward-Wise Distribution of Buildings --> not matching
-* Proportion of Different Containment Types --> Types s is missing
+* ~~Outstanding Payments for Solid Waste Management Services --> clicked but not downloading~~
+* ~~Ward-Wise Revenue Collected from Emptying Services  --> not matching~~
+* ~~Ward-Wise Distribution of Containment Types --> not matching~~
+* ~~Building Connections to Sanitation system Types ---> not matching~~
+* ~~Building Use Composition --> not matching~~
+* ~~Ward-Wise Distribution of Buildings --> not matching~~
+* ~~Proportion of Different Containment Types --> Types s is missing~~
 
 **FSM:**
 
-* Applications, Emptying Services, Sludge Disposed, Feedbacks Details  --> not matching
-* Monthly Application Requests Emptied by Operator/ Service Provider ---> not matching
-* Number of Emptying Requests by Low Income and other communities ---> not matching
-* Ward-Wise Distribution of Containment Types  --> not matching
-* Containment Types (Residentials)  --> not matching
-* Proportion of Different Containment Types --> Types s is missing.
+* ~~Applications, Emptying Services, Sludge Disposed, Feedbacks Details  --> not matching~~
+* ~~Monthly Application Requests Emptied by Operator/ Service Provider ---> not matching~~
+* ~~Number of Emptying Requests by Low Income and other communities ---> not matching~~
+* ~~Ward-Wise Distribution of Containment Types  --> not matching~~
+* ~~Containment Types (Residentials)  --> not matching~~
+* ~~Proportion of Different Containment Types --> Types s is missing.~~
