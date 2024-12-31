@@ -339,3 +339,7 @@ If you often perform `INDEX-MATCH`, you can create a macro for it.
    End Sub
    </code></div></div></pre>
 3. Run the macro and enter the lookup value (e.g., "Banana").
+
+# conditional formatting 
+
+---

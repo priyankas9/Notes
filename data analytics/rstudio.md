@@ -13,7 +13,6 @@ se-> standard error
 histogram,bar,line,point
 whisker
 
-
 12.10.2024 tuesday
 
 ---
