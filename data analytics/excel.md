@@ -1,4 +1,4 @@
-#   17/12/2024 Tuesday
+# 17/12/2024 Tuesday
 
 ---
 
@@ -63,7 +63,6 @@ The *MATCH function searches for a specified item in a range of cells, and then 
 ---
 
 The **`INDEX`** function in Excel is used to return a value or the reference to a value within a specific range or table.
-
 
 ### **1. COUNT()**
 
@@ -176,3 +175,9 @@ The **`INDEX`** function in Excel is used to return a value or the reference to 
   If A1 = "Hello" and B1 = "World" →  **Result = "Hello World"** .
 * **Alternative** : Use the `&` operator:
   `=A1 & " " & B1` → Combines A1 and B1 with a space.
+
+# 31/12/2024 december tuesday 
+
+---
+
+- pivot table and charts
