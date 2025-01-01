@@ -143,3 +143,12 @@ Priyanka Shakya
 - cwis pdf loading
 - ~~tax collection import~~
 - ~~cwis rwove nan % from the pdf~~
+
+# 31/12/2024 december Tuesday
+
+---
+
+- help desk id 2 ta bhayo
+- ~~help desk distinct only
+  - service provider help desk pai un help dsk sekct garad bugreko~~
+  - help desk $mun
