@@ -13,3 +13,13 @@
 
 - user module : state mangement , help desk validation
 - [Application new changes ](C:\xampp\htdocs\notes\Notes\imis_revampp\application-1jan-requirement.md "New requirement")
+
+# 03/01/2025 january Friday 💯
+
+---
+
+- user module : state mangement , help desk validation
+
+- [Application new changes ](C:\xampp\htdocs\notes\Notes\imis_revampp\application-1jan-requirement.md "New requirement")
+
+(compelete it all 🆗)
