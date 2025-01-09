@@ -19,7 +19,18 @@
 ---
 
 - user module : state mangement , help desk validation
-
-- [Application new changes ](C:\xampp\htdocs\notes\Notes\imis_revampp\application-1jan-requirement.md "New requirement")
+- [~~Application new changes~~
+  ](C:\xampp\htdocs\notes\Notes\imis_revampp\application-1jan-requirement.md "New requirement")~~- save form~~
+- ~~emptying false and also display the proper message~~
+- ~~display of datatable~~
 
 (compelete it all 🆗)
+
+
+# 09/01/2025 January Thursday 
+
+---
+
+- user
+- treatment issue
+- application containment
