@@ -1,92 +1,29 @@
-current imis-base dev building :
+#  imis-base dev building :
 
+| bin | building_associated_to | ward | road_code | house_number | house_locality | tax_code | structure_type_id | surveyed_date | floor_count | construction_year | functional_use_id | use_category_id | office_business_name | household_served | population_served | male_population | female_population | other_population | diff_abled_male_pop | diff_abled_female_pop | diff_abled_others_pop | low_income_hh | lic_id | water_source_id | watersupply_pipe_code | water_customer_id | well_presence_status | distance_from_well | swm_customer_id | toilet_status | toilet_count | household_with_private_toilet | population_with_private_toilet | sanitation_system_id | sewer_code | drain_code | desludging_vehicle_accessible | geom | verification_status | estimated_area | user_id | created_at | updated_at | deleted_at |
+| --- | ---------------------- | ---- | --------- | ------------ | -------------- | -------- | ----------------- | ------------- | ----------- | ----------------- | ----------------- | --------------- | -------------------- | ---------------- | ----------------- | --------------- | ----------------- | ---------------- | ------------------- | --------------------- | --------------------- | ------------- | ------ | --------------- | --------------------- | ----------------- | -------------------- | ------------------ | --------------- | ------------- | ------------ | ----------------------------- | ------------------------------ | -------------------- | ---------- | ---------- | ----------------------------- | ---- | ------------------- | -------------- | ------- | ---------- | ---------- | ---------- |
 
-    bin varchar(254) NOTNULL,
+# ward 35 phase 1 & 2
 
-    building_associated_to varchar(254),
+| OBJECTID_1 | Ward_No | BIN | Remarks | OBJECTID | Sl_No | BIN_Number | Y | X | Name_of_th | Mobile_Num | Email_Addr | House_Numb | Road_Numbe | Block_Numb | Ward_Numbe | Area_Name | Building_C | Uses_of_th | If_Others_ | Number_of_ | Number_of1 | Total_Popu | Number_o_1 | Do_You_Kno | Do_You_Pay | Do_You_hav | When_was_t | Desludging | If_Others1 | How_did_yo | Last_Date_ | Do_You_h_1 | Where_Sull | Easy_Acces | If_No_Reas | Others_rea | Tank_Clean | Road_Width | Design_Vol | Total_Cove | Actual_Len | Actual_Wid | Actual_Hei | Actual_Vol | Freeboard_ | Liquid_hei | Correlatio | Correlat_1 | If_Other_1 | Is_it_Two_ | Length_of_ | Length_of1 | Correlat_2 | Estimated_ | Soak_Pit_D | Distance_o | Building_S | WASA_Bill_ | Water_Bill | Organizati | Gender_of_ | Respondent | Propertier | Owner_Chai | Gender_of1 | Mobile_No_ | Building_1 | Building_T | Shared_Tan | Shape_Area |
+| ---------- | ------- | --- | ------- | -------- | ----- | ---------- | - | - | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 
-    ward integer,
+# ward 35
 
-    road_code varchar(254),
+| BIN | Ward_Numbe | Condition | Type | Res_Avail | Remarks_No | Area | Address |
+| --- | ---------- | --------- | ---- | --------- | ---------- | ---- | ------- |
 
-    house_number varchar,
+# ward 23
 
-    house_locality varchar,
+| OBJECTID | BIN | Ward_Numbe | Pic_Buildi | Pic_Draina | Condition | Con_Other | Type | Type_Other | Res_Avail | Remarks_No | Res_Name | Res_Gender | Res_Mbl_No | Res_Email | Res_Own_Ot | Buil_Res | Buil_res_N | Buil_Res_G | Buil_Res_M | Buil_Res_E | Buil_Block | Buil_Area | Buil_Con_Y | Buil_Cat | Buil_Cat_O | Buil_Hold | Bui_Hol_Ot | Flr_Num | Flat_Num | Pop_Number | Toi_Num | Secu_No | Secu_Toi | Dis_Point | Toi_Sew_Go | Con_Year | Sew_Access | Sew_Acc_No | Sew_No_Oth | Emp_Contan | Desld_Mon | Desld_Date | Desld_Tec | Desld_Org | Desld_Pay | Kit_Ba_Wat | Kit_Ba_Oth | Dis_Line | Sep_Space | Water_Bill | Sewer_Bill | WASA_Bill | Shared_Bin | Rd_Wid_ft | Outlet_Con | Res_Owner | Buil_Name | Buil_Road | Observatio | Shape_Leng | Shape_Area |
+| -------- | --- | ---------- | ---------- | ---------- | --------- | --------- | ---- | ---------- | --------- | ---------- | -------- | ---------- | ---------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | -------- | ---------- | --------- | ---------- | ------- | -------- | ---------- | ------- | ------- | -------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | --------- | --------- | --------- | ---------- | ---------- | -------- | --------- | ---------- | ---------- | --------- | ---------- | --------- | ---------- | --------- | --------- | --------- | ---------- | ---------- | ---------- |
 
-    tax_code varchar(254),
+# ward 21
 
-    structure_type_id integer,
+| OBJECTID | BIN | Ward_Numbe | Pic_Buildi | Pic_Draina | Condition | Con_Other | Type | Type_Other | Res_Avail | Remarks_No | Res_Name | Res_Gender | Res_Mbl_No | Res_Email | Res_Own_Ot | Buil_Res | Buil_res_N | Buil_Res_G | Buil_Res_M | Buil_Res_E | Buil_Block | Buil_Area | Buil_Con_Y | Buil_Cat | Buil_Cat_O | Buil_Hold | Bui_Hol_Ot | Flr_Num | Flat_Num | Pop_Number | Toi_Num | Secu_No | Secu_Toi | Dis_Point | Toi_Sew_Go | Con_Year | Sew_Access | Sew_Acc_No | Sew_No_Oth | Emp_Contan | Desld_Mon | Desld_Date | Desld_Tec | Desld_Org | Desld_Pay | Kit_Ba_Wat | Kit_Ba_Oth | Dis_Line | Sep_Space | Water_Bill | Sewer_Bill | WASA_Bill | Shared_Bin | Rd_Wid_ft | Outlet_Con | Shape_Leng | Shape_Area | Res_Owner | Buil_Name | Buil_Road | Observatio |
+| -------- | --- | ---------- | ---------- | ---------- | --------- | --------- | ---- | ---------- | --------- | ---------- | -------- | ---------- | ---------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | -------- | ---------- | --------- | ---------- | ------- | -------- | ---------- | ------- | ------- | -------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | --------- | --------- | --------- | ---------- | ---------- | -------- | --------- | ---------- | ---------- | --------- | ---------- | --------- | ---------- | ---------- | ---------- | --------- | --------- | --------- | ---------- |
 
-    surveyed_date date,
+# ward 35 phase 3 
 
-    floor_count numeric,
-
-    construction_year date,
-
-    functional_use_id integer,
-
-    use_category_id integer,
-
-    office_business_name varchar(254),
-
-    household_served integer,
-
-    population_served integer,
-
-    male_population integer,
-
-    female_population integer,
-
-    other_population integer,
-
-    diff_abled_male_pop integer,
-
-    diff_abled_female_pop integer,
-
-    diff_abled_others_pop integer,
-
-    low_income_hh boolean,
-
-    lic_id integer,
-
-    water_source_id integer,
-
-    watersupply_pipe_code varchar(255),
-
-    water_customer_id varchar,
-
-    well_presence_status boolean,
-
-    distance_from_well numeric,
-
-    swm_customer_id varchar,
-
-    toilet_status boolean,
-
-    toilet_count integer,
-
-    household_with_private_toilet integer,
-
-    population_with_private_toilet integer,
-
-    sanitation_system_id integer,
-
-    sewer_code varchar(254),
-
-    drain_code varchar(254),
-
-    desludging_vehicle_accessible boolean,
-
-    geom public.geometry,
-
-    verification_status boolean,
-
-    estimated_area numeric(10,2),
-
-    user_id integer,
-
-    created_at timestampwithouttimezone,
-
-    updated_at timestampwithouttimezone,
-
-    deleted_at timestampwithouttimezone,
+| BIN | Ward_Numbe | Condition | Type | Res_Avail | Res_Name | Res_Gender | Res_Mbl_No | Res_Email | Buil_Res | Buil_res_N | Buil_Res_G | Buil_Res_M | Buil_Res_E | Buil_Name | Buil_Road | Buil_Block | Buil_Area | Buil_Con_Y | Buil_Cat | Buil_Hold | Flr_Num | Flat_Num | Pop_Number | Toi_Num | Secu_No | Secu_Toi | Dis_Point | Toi_Sew_Go | Con_Year | Sew_Access | Sew_Acc_No | Emp_Contan | Desld_Mon | Desld_Date | Desld_Tec | Desld_Org | Desld_Pay | Kit_Ba_Wat | Kit_Ba_Oth | Dis_Line | Sep_Space | Water_Bill | Sewer_Bill | WASA_Bill | Rd_Wid_ft | Outlet_Con | Remarks | Shared_Bin | Area | Res_Owner |
+| --- | ---------- | --------- | ---- | --------- | -------- | ---------- | ---------- | --------- | -------- | ---------- | ---------- | ---------- | ---------- | --------- | --------- | ---------- | --------- | ---------- | -------- | --------- | ------- | -------- | ---------- | ------- | ------- | -------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | --------- | ---------- | --------- | --------- | --------- | ---------- | ---------- | -------- | --------- | ---------- | ---------- | --------- | --------- | ---------- | ------- | ---------- | ---- | --------- |
