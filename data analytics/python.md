@@ -18,8 +18,8 @@ for loop
 
 ---
 
-
-num py -> numerial python
+slice 
+num py -> numerial python (importatant)
 mathematical easynes achieve garn ako lagi gareko
 memory ma strctre garne bela ma afno najik rakekeo hncha
 c++
@@ -36,7 +36,7 @@ for something in a
 print something
 
 while loop
-list comprehension -> eutai line of code le garne 
+list comprehension -> eutai line of code le garne
 a = [1,2,3,4]
 b = [2,4,6,8]
 x in a :
@@ -70,7 +70,7 @@ np.array([1,2,3],[4,5,6],[7,8,9])
 a = a^4
 
 a[1,2] 3,5,5,6
-a[*1,1]->first ma chai 1 samma and last k chai 1 dekhi ja samma jana milcha tya samma 
+a[*1,1]->first ma chai 1 samma and last k chai 1 dekhi ja samma jana milcha tya samma
 
 | 1 | 2 | 3 |
 | - | - | - |
