@@ -26,8 +26,7 @@
 
 (compelete it all 🆗)
 
-
-# 09/01/2025 January Thursday 
+# 09/01/2025 January Thursday
 
 ---
 
