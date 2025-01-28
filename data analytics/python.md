@@ -43,10 +43,25 @@ x in a :
 c - x * 2
 b.append(c)
 
+**Broadcast**
+rule: right bata herdai anda either value equal or duita madey eta one hnu paryo
+(2,2)
+(1,2)
+e.g mildaina but
+(2,3)
+(3,4)
+but 1 bhako bahye milcha
+(2,3)
+(3,1)
+a = np.array([1,3,4] , [5,6,7])
+b = np.arrat([2,3],[4,6],[7,8])
+c = a * b
+
 Array
 a = np.array([1,2[,[3,4])
 b = np.array([10,20])
 c = a + b
+c.shape
 s = a * b
 
 -> b = [2x for x in a if x = 3 ]
