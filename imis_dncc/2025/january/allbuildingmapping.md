@@ -18,10 +18,18 @@
 
 ---
 
-
-
-
-
+| Building  | imis_base            | ward 23    |
+| --------- | -------------------- | ---------- |
+|           | bin                  | BIN        |
+|           | ward                 | Ward_Numbe |
+| add-on    | house_image          | Pic_Buildi |
+|           | structure_type_id    | Type       |
+| road_Name | road_code            | Buil_Area  |
+|           | construction_year    | Buil_Con_Y |
+|           | use_category_id      | Buil_Cat   |
+|           | floor_count          | Flr_Num    |
+|           | population_served    | Pop_Number |
+|           | sanitation_system_id | Toi_Sew_Go |
 
 # ward 35
 
