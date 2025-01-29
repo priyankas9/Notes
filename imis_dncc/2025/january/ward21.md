@@ -1,7 +1,19 @@
-# imis-base dev building :
+# imis-base dev
+
+# building :
 
 | bin | building_associated_to | ward | road_code | house_number | house_locality | tax_code | structure_type_id | surveyed_date | floor_count | construction_year | functional_use_id | use_category_id | office_business_name | household_served | population_served | male_population | female_population | other_population | diff_abled_male_pop | diff_abled_female_pop | diff_abled_others_pop | low_income_hh | lic_id | water_source_id | watersupply_pipe_code | water_customer_id | well_presence_status | distance_from_well | swm_customer_id | toilet_status | toilet_count | household_with_private_toilet | population_with_private_toilet | sanitation_system_id | sewer_code | drain_code | desludging_vehicle_accessible | geom | verification_status | estimated_area | user_id | created_at | updated_at | deleted_at |
 | --- | ---------------------- | ---- | --------- | ------------ | -------------- | -------- | ----------------- | ------------- | ----------- | ----------------- | ----------------- | --------------- | -------------------- | ---------------- | ----------------- | --------------- | ----------------- | ---------------- | ------------------- | --------------------- | --------------------- | ------------- | ------ | --------------- | --------------------- | ----------------- | -------------------- | ------------------ | --------------- | ------------- | ------------ | ----------------------------- | ------------------------------ | -------------------- | ---------- | ---------- | ----------------------------- | ---- | ------------------- | -------------- | ------- | ---------- | ---------- | ---------- |
+
+# build contains : 
+
+| id | bin | containment_id | created_at | updated_at | deleted_at |
+| -- | --- | -------------- | ---------- | ---------- | ---------- |
+
+# containments :
+
+| id | type_id | location | size | pit_diameter | tank_length | tank_width | depth | septic_criteria | construction_date | emptied_status | last_emptied_date | next_emptying_date | no_of_times_emptied | surveyed_at | toilet_count | distance_closest_well | geom | user_id | verification_required | responsible_bin | created_at | updated_at | deleted_at |
+| -- | ------- | -------- | ---- | ------------ | ----------- | ---------- | ----- | --------------- | ----------------- | -------------- | ----------------- | ------------------ | ------------------- | ----------- | ------------ | --------------------- | ---- | ------- | --------------------- | --------------- | ---------- | ---------- | ---------- |
 
 # ward 21
 
@@ -19,3 +31,11 @@
 | floor_count          | Flr_Num    |
 | population_served    | Pop_Number |
 | sanitation_system_id | Toi_Sew_Go |
+
+# build contain
+
+| imis base | ward 21 |
+| --------- | ------- |
+| bin       | BIN     |
+
+testt
