@@ -37,11 +37,13 @@ BUILD CONTAIN
 
 Containment
 
-| imis base | ward 35 phase 3 |
-| --------- | --------------- |
-|           |                 |
-|           |                 |
-
+| imis base      | ward 35 phase 3 |
+| -------------- | --------------- |
+| emptied_status | Emp_Contan      |
+| ?              | Outlet_Con      |
+| ?              | Sep_Space       |
+| size?          | Area            |
+| toilet_count   | Toi_Num         |
 
 
 test
