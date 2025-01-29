@@ -64,10 +64,17 @@
 
 ---
 
-| building | imis base | ward 35 phase 3 |
-| -------- | --------- | --------------- |
-|          |           |                 |
-|          |           |                 |
-|          |           |                 |
+| building | imis base            | ward 35 phase 3          |
+| -------- | -------------------- | ------------------------ |
+|          | bin                  | BIN                      |
+|          | ward                 | Ward_Numbe               |
+|          | structure_type_id    | Type                     |
+|          | house_number         | Buil_Name                |
+|          | road_code            | Buil_Road<br />Buil_Area |
+|          | use_category_id      | Buil_Cat                 |
+|          | population_served    | Pop_Number               |
+|          | floor_count          | Flr_Num                  |
+|          | sanitation_system_id | Toi_Sew_Go               |
+|          | estimated_area       | area                     |
 
 ward
