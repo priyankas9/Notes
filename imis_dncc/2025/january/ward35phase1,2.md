@@ -8,7 +8,7 @@
 | OBJECTID_1 | Ward_No | BIN | Remarks | OBJECTID | Sl_No | BIN_Number | Y | X | Name_of_th | Mobile_Num | Email_Addr | House_Numb | Road_Numbe | Block_Numb | Ward_Numbe | Area_Name | Building_C | Uses_of_th |
 | ---------- | ------- | --- | ------- | -------- | ----- | ---------- | - | - | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | ---------- |
 
-# common columns : 
+# common columns :
 
 * **BIN** :
   `imis-base dev building`: `bin`
@@ -43,6 +43,9 @@
 * estimated area:
   phase : Shape_Area
   imis_base : estimated_area
+* structure type
+  imis base : st_type_id
+  phase 1&2 : Building_T
 
 **OWNER DETAILS ?????
 
@@ -50,3 +53,14 @@
 - OWNER CONTACT
 - EMAIL
 - gender
+
+# build contain
+
+| imis base | ward phase 1 & 2 |
+| --------- | ---------------- |
+| bin       | BIN              |
+
+# containment
+
+shape area -> size ??????
+ghfvgtfvgh

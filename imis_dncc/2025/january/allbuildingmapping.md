@@ -77,5 +77,6 @@
 |          | floor_count          | Flr_Num                  |
 |          | sanitation_system_id | Toi_Sew_Go               |
 |          | estimated_area       | area                     |
+|          | construction_year    | Buil_Con_Y               |
 
 ward
