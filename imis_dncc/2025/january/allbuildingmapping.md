@@ -47,15 +47,27 @@
 
 ---
 
+| building | imis base            | ward 35 phase1&2         |
+| -------- | -------------------- | ------------------------ |
+|          | `bin`              | `BIN` / `BIN_Number` |
+|          | `ward`             | `Ward_No`              |
+|          | `house_number`     | `House_Numb`           |
+|          | `road_code`        | `Road_Numbe`r          |
+|          | use_category_id      | Building_C               |
+|          | population_served    | Total_Popu               |
+|          | house_locality       | Area_Name                |
+|          | sanitation_system_id | Do_You_Kno               |
+|          | distance_from_well   | Distance_o               |
+|          | estimated area       | Shape_Area               |
 
+# ward 35 phase3
 
+---
 
-
-
-
-
-
-
-
+| building | imis base | ward 35 phase 3 |
+| -------- | --------- | --------------- |
+|          |           |                 |
+|          |           |                 |
+|          |           |                 |
 
 ward
