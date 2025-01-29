@@ -8,8 +8,6 @@
 | BIN | Ward_Numbe | Condition | Type | Res_Avail | Remarks_No | Area | Address |
 | --- | ---------- | --------- | ---- | --------- | ---------- | ---- | ------- |
 
-common columns:
-
 | imisbasedev       | ward35     |
 | ----------------- | ---------- |
 | bin               | BIN        |
@@ -17,3 +15,32 @@ common columns:
 | structure_type_id | Type       |
 | estimated_area    | Area       |
 | house_number      | Address    |
+
+# containment
+
+| id | type_id | location | size | pit_diameter | tank_length | tank_width | depth | septic_criteria | construction_date | emptied_status | last_emptied_date | next_emptying_date | no_of_times_emptied | surveyed_at | toilet_count | distance_closest_well | geom | user_id | verification_required | responsible_bin | created_at | updated_at | deleted_at |
+| -- | ------- | -------- | ---- | ------------ | ----------- | ---------- | ----- | --------------- | ----------------- | -------------- | ----------------- | ------------------ | ------------------- | ----------- | ------------ | --------------------- | ---- | ------- | --------------------- | --------------- | ---------- | ---------- | ---------- |
+
+area ??? - size ????
+condition ????
+
+# build contain
+
+| id | bin | containment_id | created_at | updated_at | deleted_at |
+| -- | --- | -------------- | ---------- | ---------- | ---------- |
+
+| imis base | ward 32 |
+| --------- | ------- |
+| bin       | BIN     |
+
+
+
+
+
+
+
+
+
+
+
+test
