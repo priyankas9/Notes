@@ -30,6 +30,7 @@
 |           | floor_count          | Flr_Num    |
 |           | population_served    | Pop_Number |
 |           | sanitation_system_id | Toi_Sew_Go |
+|           | construction_year    | Con_Year   |
 
 # ward 35 not compiled
 

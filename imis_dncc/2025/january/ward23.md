@@ -8,7 +8,6 @@
 | OBJECTID | BIN | Ward_Numbe | Pic_Buildi | Pic_Draina | Condition | Con_Other | Type | Type_Other | Res_Avail | Remarks_No | Res_Name | Res_Gender | Res_Mbl_No | Res_Email | Res_Own_Ot | Buil_Res | Buil_res_N | Buil_Res_G | Buil_Res_M | Buil_Res_E | Buil_Block | Buil_Area | Buil_Con_Y | Buil_Cat | Buil_Cat_O | Buil_Hold | Bui_Hol_Ot | Flr_Num | Flat_Num | Pop_Number | Toi_Num | Secu_No | Secu_Toi | Dis_Point | Toi_Sew_Go | Con_Year | Sew_Access | Sew_Acc_No | Sew_No_Oth | Emp_Contan | Desld_Mon | Desld_Date | Desld_Tec | Desld_Org | Desld_Pay | Kit_Ba_Wat | Kit_Ba_Oth | Dis_Line | Sep_Space | Water_Bill | Sewer_Bill | WASA_Bill | Shared_Bin | Rd_Wid_ft | Outlet_Con | Res_Owner | Buil_Name | Buil_Road | Observatio | Shape_Leng | Shape_Area |
 | -------- | --- | ---------- | ---------- | ---------- | --------- | --------- | ---- | ---------- | --------- | ---------- | -------- | ---------- | ---------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | -------- | ---------- | --------- | ---------- | ------- | -------- | ---------- | ------- | ------- | -------- | --------- | ---------- | -------- | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | --------- | --------- | --------- | ---------- | ---------- | -------- | --------- | ---------- | ---------- | --------- | ---------- | --------- | ---------- | --------- | --------- | --------- | ---------- | ---------- | ---------- |
 
-
 | imis-base            | ward 23    |
 | -------------------- | ---------- |
 | bin                  | BIN        |
@@ -21,3 +20,12 @@
 | floor_count          | Flr_Num    |
 | population_served    | Pop_Number |
 | sanitation_system_id | Toi_Sew_Go |
+| construction_year    | Con_Year   |
+
+# build contain
+
+| imis base | ward 23 |
+| --------- | ------- |
+| bin       | BIN     |
+
+test
