@@ -31,13 +31,17 @@
 |           | population_served    | Pop_Number |
 |           | sanitation_system_id | Toi_Sew_Go |
 
-# ward 35
+# ward 35 not compiled
 
 ---
 
-
-
-
+| building | imis base         | ward 35    |
+| -------- | ----------------- | ---------- |
+|          | bin               | BIN        |
+|          | ward              | Ward_Numbe |
+|          | structure_type_id | Type       |
+|          | estimated_area    | Area       |
+|          | house_number      | Address    |
 
 # ward 35 phase 1 & 2
 
