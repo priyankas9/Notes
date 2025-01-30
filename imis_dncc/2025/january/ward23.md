@@ -28,4 +28,13 @@
 | --------- | ------- |
 | bin       | BIN     |
 
+# containment
+
+| imis base      | ward 23    |
+| -------------- | ---------- |
+| toilet_count   | Toi_Num    |
+| emptied_status | Emp_Contan |
+| tank_length    | Shape_Leng |
+| size           | Shape_Area |
+
 test
