@@ -5,7 +5,7 @@
 | bin | building_associated_to | ward | road_code | house_number | house_locality | tax_code | structure_type_id | surveyed_date | floor_count | construction_year | functional_use_id | use_category_id | office_business_name | household_served | population_served | male_population | female_population | other_population | diff_abled_male_pop | diff_abled_female_pop | diff_abled_others_pop | low_income_hh | lic_id | water_source_id | watersupply_pipe_code | water_customer_id | well_presence_status | distance_from_well | swm_customer_id | toilet_status | toilet_count | household_with_private_toilet | population_with_private_toilet | sanitation_system_id | sewer_code | drain_code | desludging_vehicle_accessible | geom | verification_status | estimated_area | user_id | created_at | updated_at | deleted_at |
 | --- | ---------------------- | ---- | --------- | ------------ | -------------- | -------- | ----------------- | ------------- | ----------- | ----------------- | ----------------- | --------------- | -------------------- | ---------------- | ----------------- | --------------- | ----------------- | ---------------- | ------------------- | --------------------- | --------------------- | ------------- | ------ | --------------- | --------------------- | ----------------- | -------------------- | ------------------ | --------------- | ------------- | ------------ | ----------------------------- | ------------------------------ | -------------------- | ---------- | ---------- | ----------------------------- | ---- | ------------------- | -------------- | ------- | ---------- | ---------- | ---------- |
 
-# build contains : 
+# build contains :
 
 | id | bin | containment_id | created_at | updated_at | deleted_at |
 | -- | --- | -------------- | ---------- | ---------- | ---------- |
@@ -31,11 +31,20 @@
 | floor_count          | Flr_Num    |
 | population_served    | Pop_Number |
 | sanitation_system_id | Toi_Sew_Go |
+| construction_year    | Buil_Con_Y |
 
 # build contain
 
 | imis base | ward 21 |
 | --------- | ------- |
 | bin       | BIN     |
+
+containment
+
+| imis base    | ward 21      |
+| ------------ | ------------ |
+| toilet_count | Toi_Num      |
+| size         | shape_area?? |
+| tank_length  | Shape_Leng   |
 
 testt
