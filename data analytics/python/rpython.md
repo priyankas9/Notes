@@ -36,3 +36,15 @@ yo chai sidai string ma ni dina milcha
 example : plt.plot(rain,years.'s-r')
 
 plt.figure(figsize=(12, 6))
+
+# Seaborn
+
+---
+
+[seaborn collab](https://colab.research.google.com/drive/12_LSWDdaWMNddYuIlgEkFXFhV4-zeaay#scrollTo=NHiP3vBkvaXd "clcik me")
+
+easy, on top of matplot
+just visualization seaborn ko
+
+bins control it width and length
+plt histogram
