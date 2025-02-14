@@ -2,4 +2,7 @@
 
 - Create its view and fix its sidebar
   - add in sidebar
+  - Craete a route
+  - controller
+  - model
 - add the regenerate code and export csv
