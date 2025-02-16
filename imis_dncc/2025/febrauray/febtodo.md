@@ -18,3 +18,8 @@ block_number -> house_number ????
 area_name -> house_locality
 road_number -> road_code
 ~~status~~
+
+# Added Columns
+
+block number in buildings
+fstp distance and priority in containments
