@@ -6,8 +6,15 @@ deply in new port
 
 ---
 
--> finish transfer of code in the dncc code base 
+-> finish transfer of code in the dncc code base
 
--> make necessary changes in the query for get all in dncc code 
+-> make necessary changes in the query for get all in dncc code
 
 ->rename the column name in the get all query
+
+## changed column mapping:
+
+block_number -> house_number ????
+area_name -> house_locality
+road_number -> road_code
+~~status~~
