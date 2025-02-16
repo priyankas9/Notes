@@ -6,3 +6,4 @@
   - controller
   - model
 - add the regenerate code and export csv
+- Site Settings
