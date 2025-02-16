@@ -7,3 +7,9 @@
   - model
 - add the regenerate code and export csv
 - Site Settings
+
+->create a db 
+
+-> create model,controller and service
+
+-> create a view file
