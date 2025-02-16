@@ -1,3 +1,13 @@
 create a doc for teh new project setup
 
 deply in new port
+
+# 16 th feb Sunday
+
+---
+
+-> finish transfer of code in the dncc code base 
+
+-> make necessary changes in the query for get all in dncc code 
+
+->rename the column name in the get all query
