@@ -1,4 +1,3 @@
-
 # Migration Process: Base IMIS to IMIS DNCC
 
 ## Overview
