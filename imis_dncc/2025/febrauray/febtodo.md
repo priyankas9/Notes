@@ -23,3 +23,4 @@ road_number -> road_code
 
 block number in buildings
 fstp distance and priority in containments
+status -> containments
