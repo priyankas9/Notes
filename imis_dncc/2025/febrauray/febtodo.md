@@ -24,3 +24,9 @@ road_number -> road_code
 block number in buildings
 fstp distance and priority in containments
 status -> containments
+
+# 18th feb Tuesday
+
+---
+
+docs follow garera business process follow docs
