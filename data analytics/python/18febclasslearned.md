@@ -59,3 +59,10 @@ for openening image using PIL
 
 
 ![1739845235302](image/18febclasslearned/1739845235302.png)
+
+pil bata ayeko value chai jahile ni rgb matra hncha
+fetches protion 
+
+plt.imshow(img_array[125-300 ,200-400])
+arrray ma lagna use numpy array
+![1739845915691](image/18febclasslearned/1739845915691.png)
