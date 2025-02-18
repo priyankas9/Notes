@@ -77,3 +77,12 @@ postion starts from 0
 height 
 
 ![1739846647016](image/18febclasslearned/1739846647016.png)
+
+# Helper
+
+---
+
+- helps sub plot
+- sns.pairplot
+
+  ![1739847255803](image/18febclasslearned/1739847255803.png)
