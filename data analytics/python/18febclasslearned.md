@@ -22,3 +22,9 @@ plt.grid(True)
 # Show plot
 
 plt.show()
+
+---
+
+# Pivot
+
+![1739843784650](image/18febclasslearned/1739843784650.png)
