@@ -40,4 +40,9 @@ use df.head to print as well
 for density
 ![1739844010883](image/18febclasslearned/1739844010883.png)
 
-importances :
+* [ ] importances :
+
+![1739844254837](image/18febclasslearned/1739844254837.png)
+
+fmt : d for decimal
+can also plot add x and y value titles as well
