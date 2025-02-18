@@ -46,3 +46,16 @@ for density
 
 fmt : d for decimal
 can also plot add x and y value titles as well
+
+# import url lib
+
+# url retrieve
+
+---
+
+![1739844985754](image/18febclasslearned/1739844985754.png)
+
+for openening image using PIL
+
+
+![1739845235302](image/18febclasslearned/1739845235302.png)
