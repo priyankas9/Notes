@@ -66,3 +66,14 @@ fetches protion
 plt.imshow(img_array[125-300 ,200-400])
 arrray ma lagna use numpy array
 ![1739845915691](image/18febclasslearned/1739845915691.png)
+
+# subplot
+
+![1739846371618](image/18febclasslearned/1739846371618.png)
+
+retruns figre and axes first row count secondly column count fig size : size of entire plot
+can control every axes
+postion starts from 0
+height 
+
+![1739846647016](image/18febclasslearned/1739846647016.png)
