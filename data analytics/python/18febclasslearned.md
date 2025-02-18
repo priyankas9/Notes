@@ -27,4 +27,17 @@ plt.show()
 
 # Pivot
 
+---
+
 ![1739843784650](image/18febclasslearned/1739843784650.png)
+
+use df.head to print as well
+
+# HeatMap
+
+---
+
+for density
+![1739844010883](image/18febclasslearned/1739844010883.png)
+
+importances :
