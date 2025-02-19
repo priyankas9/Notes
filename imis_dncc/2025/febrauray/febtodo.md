@@ -1,4 +1,4 @@
-create a doc for teh new project setup
+ue columns prescreate a doc for teh new project setup
 
 deply in new port
 
@@ -36,3 +36,86 @@ docs follow garera business process follow docs
 ---
 
 Follow docs and start completing the business process 1
+fields present in old imis dncc table 
+
+
+| **Column Name** | **Data Type** |
+| --------------------- | ------------------- |
+
+| `no_hh_shared_toilet` | `integer` |
+| ----------------------- | ----------- |
+
+| `population_shared_toilet` | `integer` |
+| ---------------------------- | ----------- |
+
+| `toilet_for_security` | `integer` |
+| ----------------------- | ----------- |
+
+| `security_guard_count` | `integer` |
+| ------------------------ | ----------- |
+
+| `discharge_points` | `integer` |
+| -------------------- | ----------- |
+
+| `temp_functional_use_id` | `varchar` |
+| -------------------------- | ----------- |
+
+| `temp_use_category_id` | `varchar` |
+| ------------------------ | ----------- |
+
+| `remarks` | `text` |
+| ----------- | -------- |
+
+| `discharge_line` | `varchar` |
+| ------------------ | ----------- |
+
+| `sullage_graywater_outlet` | `varchar` |
+| ---------------------------- | ----------- |
+
+| `connected_road_width` | `numeric` |
+| ------------------------ | ----------- |
+
+| `building_status` | `varchar` |
+| ------------------- | ----------- |
+
+| `owner_representative` | `varchar` |
+| ------------------------ | ----------- |
+
+| `address` | `varchar` |
+| ----------- | ----------- |
+
+| `house_number_survey` | `varchar` |
+| ----------------------- | ----------- |
+
+| `road_number` | `varchar` |
+| --------------- | ----------- |
+
+| `area_name` | `varchar` |
+| ------------- | ----------- |
+
+| `wasa_status` | `varchar` |
+| --------------- | ----------- |
+
+| `water_status` | `varchar` |
+| ---------------- | ----------- |
+
+| `wasa_bill_no` | `varchar` |
+| ---------------- | ----------- |
+
+| `septic_tank_status` | `varchar` |
+| ---------------------- | ----------- |
+
+| `respondent_name` | `varchar` |
+| ------------------- | ----------- |
+
+| `respondent_contact` | `bigint` |
+| ---------------------- | ---------- |
+
+| `respondent_email` | `varchar` |
+| -------------------- | ----------- |
+
+| `respondent_gender` | `varchar` |
+| --------------------- | ----------- |
+
+| `respondent_identification` | `varchar` |
+| ----------------------------- | ----------- |
