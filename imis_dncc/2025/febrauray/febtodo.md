@@ -30,3 +30,9 @@ status -> containments
 ---
 
 docs follow garera business process follow docs
+
+# 19th feb Wedneday
+
+---
+
+Follow docs and start completing the business process 1
