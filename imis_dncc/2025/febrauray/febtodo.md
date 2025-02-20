@@ -36,8 +36,7 @@ docs follow garera business process follow docs
 ---
 
 Follow docs and start completing the business process 1
-fields present in old imis dncc table 
-
+fields present in old imis dncc table
 
 | **Column Name** | **Data Type** |
 | --------------------- | ------------------- |
@@ -117,5 +116,11 @@ fields present in old imis dncc table
 | `respondent_gender` | `varchar` |
 | --------------------- | ----------- |
 
-| `respondent_identification` | `varchar` |
-| ----------------------------- | ----------- |
+| `respondent_identification` | `varchar`<br /><br /><br /> |
+| ----------------------------- | ----------------------------- |
+
+# 20.04.2025 Thursday
+
+---
+
+- add the new column in the building table and update the get all function
