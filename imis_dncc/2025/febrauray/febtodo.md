@@ -124,3 +124,4 @@ fields present in old imis dncc table
 ---
 
 - add the new column in the building table and update the get all function
+- added wasa_status varchar for now in new dncc
