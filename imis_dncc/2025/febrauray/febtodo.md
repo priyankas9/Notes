@@ -140,9 +140,14 @@ fields present in old imis dncc table
 ### **UI Implementation:**
 
 * **Cross Icon Behavior:**
+
   * Normal (default state) → No disagreement
   * **Orange (pending renotification)** → First disagreement
   * **Remove from table (if disagrees again)** → Second disagreement
 * **DataTable Handling:**
+
   * Show all buildings in the desludging schedule, including those that disagreed once (with orange cross).
   * If the owner disagrees again, remove the record from the table dynamically via AJAX.
+
+  **Rough Sketch**
+* fetch those with null status and single desludged
