@@ -151,3 +151,4 @@ fields present in old imis dncc table
 
   **Rough Sketch**
 * fetch those with null status and single desludged
+* after the user clicks on the disagree button fsm.containments status upgrades to 1 and it displays You will be renotified after some days and the sttaus 1 data should be displayed in different view and the button has that have certain  ping and once again if the user click on the disagree button then the record will get removed with sstas 2 and then the record should be removed form schedule desludging table
