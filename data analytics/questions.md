@@ -32,3 +32,10 @@ assignment 1 & 2
 (yo dubai ko bata euta code auna sakcha )
 
 # tableu : dual axis step
+
+# chap 1 & 2 
+
+---
+
+- in your opin ion , what criteria determine the quality of data ?
+- write a structred plan/thought proces you go through while choosing dv/infographic also write type of audience
