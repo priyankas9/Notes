@@ -19,3 +19,5 @@ Outcome
 Value
 equity
 safety
+FS Generation From Containment Not Connected To Sewer (LPCD)
+FS Generation From Permeable/ Unlined Pit (LPCD)
