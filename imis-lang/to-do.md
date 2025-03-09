@@ -2,7 +2,7 @@
 
 ---
 
-~~Sewer Connection
+Sewer Connection
 Filter
 Sewer Connection IMS
 Utility IMS
@@ -20,7 +20,7 @@ Value
 equity
 safety
 FS Generation From Containment Not Connected To Sewer (LPCD)
-FS Generation From Permeable/ Unlined Pit (LPCD)~~
+FS Generation From Permeable/ Unlined Pit (LPCD)
 Existing Sanitation of Building will be updated as Sewer Network and corresponding containment connection (if any) will be removed !
 Are you sure?
 No
