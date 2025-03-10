@@ -9,6 +9,7 @@
 * If the user clicks on  *Reschedule* , display the form but allow the *Proposed Emptying Date* to be changed.
 * If the user selects the *Disagree* button, do not display the form.
 * Add a new label,  *Supervisory Assessment Date* , before the  *Proposed Emptying Date* .
+* create an enum to store the status
 
 In the **Application** table, add new columns: **Supervisory Assessment Date** and **Supervisory Assessment Status** in the **datatable** as well, similar to the **Emptying** table.
 
