@@ -10,9 +10,15 @@
 * If the user selects the *Disagree* button, do not display the form.
 * Add a new label,  *Supervisory Assessment Date* , before the  *Proposed Emptying Date* .
 
+In the **Application** table, add new columns: **Supervisory Assessment Date** and **Supervisory Assessment Status** in the **datatable** as well, similar to the **Emptying** table.
+
+In the **Supervisory Assessment Status** column, when clicking on the icon button, display an **edit form** with **pre-filled values** from the  **database** .
+
 # New column added 
 
 ---
 
 - **Table : fsm.applications
-  supervisory_assessment_date date**
+  supervisory_assessment_date date   Supervisory Assessment Date**
+- query : Alter table fsm.applications Add column supervisory_assessment_date date
+- Alter table fsm.applications Add column supervisory_assessment_status boolean
