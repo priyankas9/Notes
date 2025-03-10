@@ -9,3 +9,10 @@
 * If the user clicks on  *Reschedule* , display the form but allow the *Proposed Emptying Date* to be changed.
 * If the user selects the *Disagree* button, do not display the form.
 * Add a new label,  *Supervisory Assessment Date* , before the  *Proposed Emptying Date* .
+
+# New column added 
+
+---
+
+- **Table : fsm.applications
+  supervisory_assessment_date date**
