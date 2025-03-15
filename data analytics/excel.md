@@ -186,7 +186,7 @@ The **`INDEX`** function in Excel is used to return a value or the reference to 
 
 **## What is a Pivot Table?
 
-A pivot table is a powerful data analysis tool found in spreadsheet applications like Microsoft Excel. It allows users to summarize, analyze, and visualize large datasets interactively. Unlike traditional tables, which present data in a fixed format, pivot tables enable users to rearrange data dynamically, facilitating better insights into relationships between variables. This capability to "pivot" or rotate data makes it easier to compare and contrast different aspects of the dataset without altering the original data source[1](https://study.com/academy/lesson/pivot-table-definition-uses-examples.html)[6](https://mobisystems.com/en-eu/blog/tutorials/what-is-a-pivot-table-and-how-to-create-one).
+A pivot table is a powerful data analysis tool found in spreadsheet applications like Microsoft Excel. It allows users to summarize, analyze, and visualize large datasets interactively. Unlike traditional tables, which present data in a fixed format, pivot tables enable users to rearrange data dynamically, facilitating better insights into relationships between variables. This capability to "pivot" or rotate data makes it easier to compare and contrast different aspects of the dataset without altering the original data source.
 
 ## Importance of Pivot Tables
 
@@ -233,11 +233,10 @@ Share
 **
 
 # msdos
+
 index match
 
 ---
-
-
 
 ### Using `INDEX-MATCH` in Excel
 
@@ -291,11 +290,9 @@ Suppose you have the following table:
 
    This will dynamically return `1.20`
 
-# macros - repetitve task 
+# macros - repetitve task
 
 ---
-
-
 
 Macros are used to automate repetitive tasks in Excel using VBA (Visual Basic for Applications).
 
@@ -340,6 +337,6 @@ If you often perform `INDEX-MATCH`, you can create a macro for it.
    </code></div></div></pre>
 3. Run the macro and enter the lookup value (e.g., "Banana").
 
-# conditional formatting 
+# conditional formatting
 
 ---
