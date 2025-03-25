@@ -45,3 +45,18 @@ Supervisory Assessment Form Data Points
   supervisory_assessment_date date   Supervisory Assessment Date**
 - query : Alter table fsm.applications Add column supervisory_assessment_date date
 - Alter table fsm.applications Add column supervisory_assessment_status boolean
+
+# NEW NEW REQUIREMENT
+
+---
+
+- remove service provider form the form -> schedule desludging
+- place schedule desludging inside -> emptying section
+- when clicking on th confirm emptying and those options when closed and opened the butto should go back to the initila page
+- deploy imis-dncc
+- requirement for spervisory assement mbile app
+- aba regenerate desldging schedule garne bela ma next emying date assign garnu agadi proposed empyting date of application and containment ko next emtying date chai  less or eual to trip capacity per day hunu paryo
+- ani when omeone wants to re schedule the proposed emtying date it should be less or eqaal to trip capacity and check i the proposed emtying date in applicatin is fullfilled or not
+- ani paila ko next emotying date schedule hune bela ma pailai fix bhayeko next emying date sanga milaunu paryo
+- ani feri if the schedule is open in the application table ten fix it accordingly
+-
