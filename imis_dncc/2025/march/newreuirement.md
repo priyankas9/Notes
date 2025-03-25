@@ -55,8 +55,13 @@ Supervisory Assessment Form Data Points
 - when clicking on th confirm emptying and those options when closed and opened the butto should go back to the initila page
 - deploy imis-dncc
 - requirement for spervisory assement mbile app
-- aba regenerate desldging schedule garne bela ma next emying date assign garnu agadi proposed empyting date of application and containment ko next emtying date chai  less or eual to trip capacity per day hunu paryo
-- ani when omeone wants to re schedule the proposed emtying date it should be less or eqaal to trip capacity and check i the proposed emtying date in applicatin is fullfilled or not
-- ani paila ko next emotying date schedule hune bela ma pailai fix bhayeko next emying date sanga milaunu paryo
-- ani feri if the schedule is open in the application table ten fix it accordingly
--
+
+* When regenerating the desludging schedule, before assigning the next emptying date:
+
+  * The proposed emptying date from the application and the containment’s next emptying date should be within the daily trip capacity limit.
+* If someone wants to reschedule the proposed emptying date:
+
+  * The new proposed emptying date should also be within the trip capacity limit.
+  * It should check whether the proposed emptying date in the application has already been fulfilled.
+* While scheduling the next emptying date, it should align with any previously fixed emptying dates.
+* If the schedule is still open in the application table, it should be adjusted accordingly.
