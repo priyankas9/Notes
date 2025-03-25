@@ -35,3 +35,10 @@ fields :
 | Advance Paid Amount                                                                                                                    | Advance paid amount for desludging, at least one trip                                                  |                        |
 
 # New column added
+
+# 2025.03.25 Tuesday
+
+---
+
+- after add application make the supervisory assessment successflly editable as well
+- after the sstaus is success then display different icon and dsabe the previously dsplayed icon
