@@ -42,3 +42,10 @@ fields :
 
 - after add application make the supervisory assessment successflly editable as well
 - after the sstaus is success then display different icon and dsabe the previously dsplayed icon
+
+# 2025.03.26 Wednesday
+
+---
+
+- make a function for above requirements 
+- start woring on the hostong the code chnages
