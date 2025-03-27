@@ -47,5 +47,16 @@ fields :
 
 ---
 
-- make a function for above requirements 
+- make a function for above requirements
 - start woring on the hostong the code chnages
+- doc for new imis -dncc mobile app
+- create a new branc in github repo stdm v 1.0
+
+# 2025.03.27 Thursday
+
+---
+
+- start woring on the hostong the code chnages
+
+- doc for new imis -dncc mobile app
+- create a new branc in github repo stdm v 1.0
