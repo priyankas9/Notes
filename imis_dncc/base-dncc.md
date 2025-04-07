@@ -1,4 +1,3 @@
-
 **Site Settings Module Implementation**
 
 ### 1. Creation of the Site Settings Module
@@ -42,7 +41,6 @@ The initial data for the site settings module is provided in a  **CSV file** .
 
 ### 2. Schedule Desludging Enhancements
 
-
 #### **Containments Table (`fsm.containments`)**
 
 ```sql
@@ -65,9 +63,31 @@ ADD COLUMN wasa_status BOOLEAN;
 
 ### 3. Supervisory Assessment Enhancements
 
-
 ```sql
 ALTER TABLE fsm.applications 
 ADD COLUMN supervisory_assessment_date DATE,
 ADD COLUMN supervisory_assessment_status BOOLEAN;
 ```
+
+### 4.dynamic pdf - business process 5 
+
+---
+
+create table :
+
+```
+CREATE TABLE IF NOT EXISTS public.pdf_body_data
+(
+    id bigint NOT NULL DEFAULT nextval('pdf_body_data_id_seq'::regclass),
+    subject character varying(255) COLLATE pg_catalog."default" NOT NULL,
+    paragraph text COLLATE pg_catalog."default" NOT NULL,
+    created_at timestamp(0) without time zone,
+    updated_at timestamp(0) without time zone,
+    deleted_at timestamp(0) without time zone,
+    date character varying COLLATE pg_catalog."default",
+    unique_ref character varying COLLATE pg_catalog."default",
+    CONSTRAINT pdf_body_data_pkey PRIMARY KEY (id)
+)
+```
+
+controller , model ,view
