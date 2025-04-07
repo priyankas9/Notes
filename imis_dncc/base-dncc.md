@@ -88,6 +88,12 @@ CREATE TABLE IF NOT EXISTS public.pdf_body_data
     unique_ref character varying COLLATE pg_catalog."default",
     CONSTRAINT pdf_body_data_pkey PRIMARY KEY (id)
 )
+CREATE SEQUENCE IF NOT EXISTS public.pdf_body_data_id_seq
+    INCREMENT 1
+    START 1
+    MINVALUE 1
+    MAXVALUE 9223372036854775807
+    CACHE 1
 ```
 
 controller , model ,view
