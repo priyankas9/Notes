@@ -2,5 +2,5 @@
 
 ---
 
-* [ ] install fullcalender
+* [X] install fullcalender
 * [ ] add new inputs in application
