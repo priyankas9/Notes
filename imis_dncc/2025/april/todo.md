@@ -2,8 +2,8 @@
 
 ---
 
-* [ ] install fullcalender
-* [ ]  add new inputs in application
+* [X] install fullcalender
+* [X]  add new inputs in application
 
 # to-do 2025.04.11
 
