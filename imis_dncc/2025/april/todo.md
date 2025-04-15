@@ -19,4 +19,6 @@
 * [ ] desludging table -> application form redirection
 
   * [ ] reschedule / emtying
-* [ ] disalyinf prefilled values in an input
+* [ ] disalying prefilled values in an input
+
+  - Datas that is passed : bin , owner name ,owner contact and next emtoying date (proposed emtying date)
