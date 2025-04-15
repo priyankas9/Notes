@@ -11,3 +11,12 @@
 
 * [X] application save
 * [ ] desludging table -> application form redirection
+
+# to-do 2025.04.15 Tuesday
+
+---
+
+* [ ] desludging table -> application form redirection
+
+  * [ ] reschedule / emtying
+* [ ] disalyinf prefilled values in an input
