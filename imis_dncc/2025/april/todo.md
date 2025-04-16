@@ -35,7 +35,7 @@
 
 * [X] display input value by prefilling it
 
-  - [ ] while prefilling value look for multi elect and how to display it
+  - [X] while prefilling value look for multi elect and how to display it
 * [ ] calender -> fullcalender app for reschedule
 * [ ] javascript logic : when emtying disable input of proposed emtying date
 * [ ] save application form after the redirection & update the ststus flag accordingly 😄
