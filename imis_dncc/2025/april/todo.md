@@ -36,3 +36,4 @@
 * [ ] display input value by prefilling it
 * [ ] calender -> fullcalender app for reschedule
 * [ ] javascript logic : when emtying disable input of proposed emtying date
+* [ ] save application form after the redirection & update the ststus flag accordingly 😄
