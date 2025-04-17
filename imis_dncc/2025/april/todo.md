@@ -39,3 +39,17 @@
 * [ ] calender -> fullcalender app for reschedule
 * [ ] javascript logic : when emtying disable input of proposed emtying date
 * [ ] save application form after the redirection & update the ststus flag accordingly 😄
+
+# to-do 2025.04.17 Thursday
+
+---
+
+* [ ] calender -> fullcalender app for reschedule
+
+* [X] javascript logic : when emtying disable input of proposed emtying date
+* [X] save application form after the redirection & update the ststus flag accordingly 😄
+
+**issue Faced:**
+while passing the data / prefilling it applicatin's orms value is not being passsed due to which it says the data is required validation error
+proposed emtying date had the strict validation for after or equal of thr todays date
+supervioy date should be before proposed emtying date
