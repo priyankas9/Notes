@@ -52,4 +52,18 @@
 **issue Faced:**
 while passing the data / prefilling it applicatin's orms value is not being passsed due to which it says the data is required validation error
 proposed emtying date had the strict validation for after or equal of thr todays date
-supervioy date should be before proposed emtying date
+supervioy date should be before proposed emtying date 
+
+**CALENDER-FEATURE**
+
+---
+
+
+
+| Feature                                      | Support |
+| -------------------------------------------- | ------- |
+| Full calendar view with day/week/month       | ✅      |
+| Disable weekends and custom dates (holidays) | ✅      |
+| Show events as**slots per date**       | ✅      |
+| Handle click events to open forms/modals     | ✅      |
+| Integration with Laravel (via Ajax or Blade) | ✅      |
