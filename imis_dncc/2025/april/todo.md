@@ -70,7 +70,9 @@ supervioy date should be before proposed emtying date
 ---
 
 * [ ] calender -> reschedule (flatpickr)
-* [ ] Display the **day of the week** in brackets next to the date
+* [ ] uninstall full calender
+* [ ] install flatpickr
+* [X] Display the **day of the week** in brackets next to the date
 * [ ] Search for a new **calendar component** (e.g., Flatpickr, FullCalendar) that:* [ ] Displays **available slots**
 * [ ] Shows **available dates** (based on site logic)
 * [ ] **Disables holidays and weekends**
