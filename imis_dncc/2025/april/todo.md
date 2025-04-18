@@ -45,20 +45,17 @@
 ---
 
 * [ ] calender -> fullcalender app for reschedule
-
 * [X] javascript logic : when emtying disable input of proposed emtying date
 * [X] save application form after the redirection & update the ststus flag accordingly 😄
 
 **issue Faced:**
 while passing the data / prefilling it applicatin's orms value is not being passsed due to which it says the data is required validation error
 proposed emtying date had the strict validation for after or equal of thr todays date
-supervioy date should be before proposed emtying date 
+supervioy date should be before proposed emtying date
 
 **CALENDER-FEATURE**
 
 ---
-
-
 
 | Feature                                      | Support |
 | -------------------------------------------- | ------- |
@@ -67,3 +64,15 @@ supervioy date should be before proposed emtying date
 | Show events as**slots per date**       | ✅      |
 | Handle click events to open forms/modals     | ✅      |
 | Integration with Laravel (via Ajax or Blade) | ✅      |
+
+# to-do 2025.04.18 Friday
+
+---
+
+* [ ] calender -> reschedule (flatpickr)
+* [ ] Display the **day of the week** in brackets next to the date
+* [ ] Search for a new **calendar component** (e.g., Flatpickr, FullCalendar) that:* [ ] Displays **available slots**
+* [ ] Shows **available dates** (based on site logic)
+* [ ] **Disables holidays and weekends**
+* [ ] **Highlights important dates**
+* [ ] Uses values from **site settings** (`holiday_list`, `weekends`, etc.)
