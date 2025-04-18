@@ -70,9 +70,10 @@ supervioy date should be before proposed emtying date
 ---
 
 * [ ] calender -> reschedule (flatpickr)
-* [ ] uninstall full calender
-* [ ] install flatpickr
+* [X] uninstall full calender
+* [X] install flatpickr
 * [X] Display the **day of the week** in brackets next to the date
+* [ ] logical flaw issue : when clicking reshdule the only make proposed emtying date's take valu and work accordingly and only different calender when clciking by reschedule button
 * [ ] Search for a new **calendar component** (e.g., Flatpickr, FullCalendar) that:* [ ] Displays **available slots**
 * [ ] Shows **available dates** (based on site logic)
 * [ ] **Disables holidays and weekends**
