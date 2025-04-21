@@ -86,9 +86,16 @@ supervioy date should be before proposed emtying date
 
 calender -> reschedule (flatpickr)
 
+* [X] Shows **available dates** (based on site logic)
+* [X] **Disables holidays and weekends**
+* [X] **Highlights important dates**
+* [X] Uses values from **site settings** (`holiday_list`, `weekends`, etc.)
 
-* [ ] Shows **available dates** (based on site logic)
+# to-do 2025.04.21 Monday
 
-* [ ] **Disables holidays and weekends**
-* [ ] **Highlights important dates**
-* [ ] Uses values from **site settings** (`holiday_list`, `weekends`, etc.)
+---
+
+* [ ] calender for trips to be disabled only be shown in proposed not in supervisory assessment date
+* [ ] the new calender should be also be displayed while doing application create
+* [ ] the calender doesnot dispay the cureent disablity in the dates and all //Issue 😠😢
+* [ ] display of holiday and weekend ( in calender and schedule desludging datatable 😄 )
