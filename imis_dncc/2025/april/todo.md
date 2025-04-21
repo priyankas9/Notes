@@ -95,7 +95,8 @@ calender -> reschedule (flatpickr)
 
 ---
 
-* [ ] calender for trips to be disabled only be shown in proposed not in supervisory assessment date
+* [X] calender for trips to be disabled only be shown in proposed not in supervisory assessment date
 * [ ] the new calender should be also be displayed while doing application create
-* [ ] the calender doesnot dispay the cureent disablity in the dates and all //Issue 😠😢
-* [ ] display of holiday and weekend ( in calender and schedule desludging datatable 😄 )
+* [X] the calender doesnot dispay the cureent disablity in the dates and all //Issue 😠😢
+* [X] display of holiday and weekend ( in calender and schedule desludging datatable 😄 )
+* [ ] controller logic -> service (desludging)
