@@ -55,3 +55,10 @@
 * [ ] All **role restrictions** (enable/disable UI) are enforced
 * [ ] Test everything thoroughly — QA before mid-week next week
 * [ ] Fix bugs immediately and re-test
+
+# 2025.04.21 Code changes
+
+---
+
+* [ ] application -> add application -> flat pickr for dates
+* [ ] data table dates -> editable and deletable
