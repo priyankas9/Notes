@@ -4,29 +4,29 @@
 
 ### ✅ Confirm Emptying → Application Form Flow
 
-* [ ] When clicking on the **Confirm Emptying** button in  *Reschedule* :
-  * [ ] Trigger **Add Application Form** submission.
-  * [ ] In the Application Form, add new fields:
-    * [ ] `supervisory_assessment_date`
-    * [ ] `proposed_emptying_date` (if not already present)
-    * [ ] `emergency_desludging` (optional, not required field)
+* [X] When clicking on the **Confirm Emptying** button in  *Reschedule* :
+  * [X] Trigger **Add Application Form** submission.
+  * [X] In the Application Form, add new fields:
+    * [X] `supervisory_assessment_date`
+    * [X] `proposed_emptying_date` (if not already present)
+    * [X] `emergency_desludging` (optional, not required field)
 
 ---
 
 ### 📅 Reschedule Calendar (New UI Needed)
 
-* [ ] Search for a new **calendar component** (e.g., Flatpickr, FullCalendar) that:
-  * [ ] Displays **available slots**
-  * [ ] Shows **available dates** (based on site logic)
-  * [ ] **Disables holidays and weekends**
-  * [ ] **Highlights important dates**
-  * [ ] Uses values from **site settings** (`holiday_list`, `weekends`, etc.)
+* [X] Search for a new **calendar component** (e.g., Flatpickr, FullCalendar) that:
+  * [X] Displays **available slots**
+  * [X] Shows **available dates** (based on site logic)
+  * [X] **Disables holidays and weekends**
+  * [X] **Highlights important dates**
+  * [X] Uses values from **site settings** (`holiday_list`, `weekends`, etc.)
 
 ---
 
 ### 🗓️ Desludging Schedule Module
 
-* [ ] Display the **day of the week** in brackets next to the date
+* [X] Display the **day of the week** in brackets next to the date
 
   Example: `2025-04-12 (Saturday)`
 
@@ -62,3 +62,4 @@
 
 * [ ] application -> add application -> flat pickr for dates
 * [ ] data table dates -> editable and deletable
+* [ ] display of holiday and weekend ( in calender and schedule desludging datatable 😄
