@@ -100,3 +100,11 @@ calender -> reschedule (flatpickr)
 * [X] the calender doesnot dispay the cureent disablity in the dates and all //Issue 😠😢
 * [X] display of holiday and weekend ( in calender and schedule desludging datatable 😄 )
 * [ ] controller logic -> service (desludging)
+
+# to-do 2025.04.22 Tuesday
+
+---
+
+* [ ] the new calender should be also be displayed while doing application create
+* [ ] controller logic -> service (desludging)
+* [ ] display of weekedn and holidays in different color
