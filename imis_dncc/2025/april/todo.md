@@ -105,6 +105,6 @@ calender -> reschedule (flatpickr)
 
 ---
 
-* [ ] the new calender should be also be displayed while doing application create
+* [X] the new calender should be also be displayed while doing application create
 * [ ] controller logic -> service (desludging)
-* [ ] display of weekedn and holidays in different color
+* [X] display of weekedn and holidays in different color
