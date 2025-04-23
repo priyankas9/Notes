@@ -34,7 +34,7 @@
 
 ### 📄 Application Module Logic
 
-* [ ] Disable the **Emptying button** if the user is eligible to use **Supervisory Assessment**
+* [X] Disable the **Emptying button** if the user is eligible to use **Supervisory Assessment**
 * [ ] Disable **edit access** to the application if the user **cannot use** Supervisory Assessment
 
 ---
@@ -48,11 +48,11 @@
 
 ### 🚨 Final Checklist
 
-* [ ] Ensure **date picker or calendar** is fully functional with:
+* [X] Ensure **date picker or calendar** is fully functional with:
   * Site setting validations (weekends, holidays)
   * Slot logic
 * [ ] All **form validations** in Application Form are in place
-* [ ] All **role restrictions** (enable/disable UI) are enforced
+* [X] All **role restrictions** (enable/disable UI) are enforced
 * [ ] Test everything thoroughly — QA before mid-week next week
 * [ ] Fix bugs immediately and re-test
 
