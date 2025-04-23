@@ -108,3 +108,12 @@ calender -> reschedule (flatpickr)
 * [X] the new calender should be also be displayed while doing application create
 * [ ] controller logic -> service (desludging)
 * [X] display of weekedn and holidays in different color
+
+# to-do 2025.04.23 Wednesday
+
+---
+
+* [ ] controller logic -> service (desludging)
+* [ ] supervisory assessment matrix
+* [ ] deployment of imis-dncc???
+* [ ] display of ed date in range
