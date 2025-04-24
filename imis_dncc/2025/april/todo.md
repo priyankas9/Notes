@@ -113,7 +113,7 @@ calender -> reschedule (flatpickr)
 
 ---
 
-* [ ] controller logic -> service (desludging)
+* [X] controller logic -> service (desludging)
 * [X] supervisory assessment matrix
 * [ ] deployment of imis-dncc???
 * [ ] display of ed date in range
