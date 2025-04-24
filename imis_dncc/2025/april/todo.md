@@ -125,4 +125,4 @@ calender -> reschedule (flatpickr)
 
 * [ ] deployment of imis-dncc???
 * [ ] display of end date in trips date
-* [ ] edit application -> display of flat picker
+* [X] edit application -> display of flat picker
