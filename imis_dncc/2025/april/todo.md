@@ -118,3 +118,11 @@ calender -> reschedule (flatpickr)
 * [ ] deployment of imis-dncc???
 * [ ] display of ed date in range
 * [X] supervisory assessment date logic
+
+# to-do 2025.04.24 Thursday
+
+---
+
+* [ ] deployment of imis-dncc???
+* [ ] display of end date in trips date
+* [ ] edit application -> display of flat picker
