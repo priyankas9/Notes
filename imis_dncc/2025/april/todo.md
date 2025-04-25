@@ -126,3 +126,11 @@ calender -> reschedule (flatpickr)
 * [ ] deployment of imis-dncc???
 * [ ] display of end date in trips date
 * [X] edit application -> display of flat picker
+
+# to-do 2025.04.25 Friday
+
+---
+
+* [ ] display of end date in range
+* [ ] test cases for testing imis-dncc
+* [ ] deployyyy
