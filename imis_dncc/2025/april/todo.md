@@ -134,3 +134,11 @@ calender -> reschedule (flatpickr)
 * [ ] display of end date in range
 * [ ] test cases for testing imis-dncc
 * [ ] deployyyy
+
+# to-do 2025.04.28 Monday
+
+---
+
+* [ ] deployment of dncc
+* [ ] test cases for testing imis-dncc
+* [ ] file mapping
