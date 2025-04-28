@@ -139,6 +139,6 @@ calender -> reschedule (flatpickr)
 
 ---
 
-* [ ] deployment of dncc
-* [ ] test cases for testing imis-dncc
+* [X] deployment of dncc
+* [X] test cases for testing imis-dncc
 * [ ] file mapping
