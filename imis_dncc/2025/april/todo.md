@@ -142,3 +142,23 @@ calender -> reschedule (flatpickr)
 * [X] deployment of dncc
 * [X] test cases for testing imis-dncc
 * [ ] file mapping
+
+# to-do 2025.04.29 Tuesday
+
+---
+
+* [ ] deployment finish
+* [ ] test cases compelete
+* [ ] file mapping
+* [ ] pdf geenration
+
+
+
+# to-do 2025.04.30 Wednesday
+
+---
+
+* [ ] deployment finish
+* [ ] test cases compelete
+* [ ] file mapping
+* [ ] pdf geenration
