@@ -152,13 +152,11 @@ calender -> reschedule (flatpickr)
 * [ ] file mapping
 * [ ] pdf geenration
 
-
-
 # to-do 2025.04.30 Wednesday
 
 ---
 
-* [ ] deployment finish
+* [X] deployment finish
 * [ ] test cases compelete
 * [ ] file mapping
-* [ ] pdf geenration
+* [X] pdf geenration
