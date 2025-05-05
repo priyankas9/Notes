@@ -3,4 +3,4 @@
 ---
 
 * [X] site setting multi select date  -> flat picker
-* [ ] Desludging schedule generate
+* [X] Desludging schedule generate
