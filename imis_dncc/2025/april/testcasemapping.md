@@ -1,4 +1,3 @@
-
 ## 📑 QA Test Plan: **Desludging Management System**
 
 ---
@@ -64,7 +63,7 @@ Validate desludging scheduling based on site settings and system constraints.
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Confirm Emptying**    | Navigates to the**Application Add**page with all inputs prefilled and disabled except required fields. <br />Proposed Emptying Date is non-editable.<br /> Supervisory Assessment Date must be ≤ Proposed Emptying Date.                                                                          |
 | **Reschedule Emptying** | Navigates to**Application Add**view. Inputs prefilled and disabled except **Proposed Emptying Date** .<br /> Calendar should show: <br />Trip availability (with color codes)<br />Weekends and holidays highlighted <br /> Supervisory Assessment Date should be ≤ Proposed Emptying Date. |
-| **Disagree Emptying**   | On first click, a confirmation (Swal) appears. <br />If confirmed, record remains. <br />On second click, record is removed from**Desludging Schedule**datatable.                                                                                                                                  |
+| **Disagree Emptying**   | On first click, a confirmation (Swal) appears.<br />If confirmed, record remains. <br />On second click, record is removed from**Desludging Schedule**datatable.                                                                                                                                   |
 
 ---
 
@@ -129,3 +128,45 @@ Verify the new supervisory assessment fields and action workflows.
 * User fills form and saves.
 * Post-save, icon updates to a tick and button gets disabled.
 * Only after this, the **Emptying Status** button is enabled for action.
+
+
+### 📌 **Module: Supervisory Assessment**
+
+---
+
+**Objective:**
+
+Verify the CRUD operations, form validations, workflow, and API integrations for the Supervisory Assessment module, ensuring it functions seamlessly with the Desludging Management workflow.
+
+**Test Steps:**
+
+* Open the **Supervisory Assessment** module.
+* Confirm listing of all Application records where:
+  * Supervisory Assessment Status is **Pending** (shown with a cross icon in Application Datatable).
+* Click the action button to navigate to **Supervisory Assessment Add** page.
+* Verify form fields are:
+  * Application details are prefilled and non-editable.
+  * Supervisory Assessment Date is required.
+  * Other assessment inputs (like status, remarks, or findings) are fillable as per the requirements.
+* Submit the form.
+
+**Expected Outcomes:**
+
+* Form validates all required fields.
+* On successful save:
+  * The respective record in **Application Datatable** updates:
+    * Supervisory Assessment Status icon changes to a  **tick** .
+    * Action button for Supervisory Assessment gets disabled.
+    * **Emptying Status** button becomes enabled.
+* API endpoints for:
+  * Fetching assessment records
+  * Creating new assessments
+  * Updating existing assessments
+
+    are verified for expected response codes (`200 OK`, `201 Created`, `400 Bad Request` on validation failure, etc.) and correct payload structures.
+
+**Additional Notes:**
+
+* Validate error handling when submitting incomplete or invalid data.
+* Confirm reassessment is restricted once an assessment has been saved (button disabled post-save).
+* Test reintegration of disagreed applications back into the workflow once supervisory assessments are completed.
