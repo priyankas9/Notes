@@ -13,11 +13,10 @@
 * [ ] supervisory assessment api
 * [ ] supervisory assessment mobile reqiremnt and deal with mobile dev 😄
 
-
 ## 2025.05.07 Wednesday to-do
 
 ---
 
-* [ ] supervisory assessment crud
-* [ ] supervisory assessment api
-* [ ] supervisory assessment mobile reqiremnt and deal with mobile dev 😄
+* [X] supervisory assessment crud
+* [X] supervisory assessment api
+* [X] supervisory assessment mobile reqiremnt and deal with mobile dev 😄
