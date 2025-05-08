@@ -20,3 +20,11 @@
 * [X] supervisory assessment crud
 * [X] supervisory assessment api
 * [X] supervisory assessment mobile reqiremnt and deal with mobile dev 😄
+
+## 2025.05.08 Thursday to-do
+
+---
+
+* [ ] pdf generation
+* [ ] supervisory assessment -> csv export
+* [ ] qa meeting for set emtying date function update
