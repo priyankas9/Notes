@@ -26,5 +26,5 @@
 ---
 
 * [ ] pdf generation
-* [ ] supervisory assessment -> csv export
+* [X] supervisory assessment -> csv export
 * [ ] qa meeting for set emtying date function update
