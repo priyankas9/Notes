@@ -28,3 +28,13 @@
 * [ ] pdf generation
 * [X] supervisory assessment -> csv export
 * [ ] qa meeting for set emtying date function update
+
+
+
+## 2025.05.09 Friday to-do
+
+---
+
+* [ ] pdf generation
+* [ ] qa meeting for set emtying date function update
+* [ ] geo server setup for imis-dncc
