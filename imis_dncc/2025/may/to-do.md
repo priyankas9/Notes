@@ -29,8 +29,6 @@
 * [X] supervisory assessment -> csv export
 * [ ] qa meeting for set emtying date function update
 
-
-
 ## 2025.05.09 Friday to-do
 
 ---
@@ -38,3 +36,12 @@
 * [ ] pdf generation
 * [ ] qa meeting for set emtying date function update
 * [ ] geo server setup for imis-dncc
+
+## 2025.05.11 Sunday to-do
+
+---
+
+* [ ] pdf generation -> bangladeshi  translation
+* [ ] pdf generation
+* [ ] trips allocation ko end date mapping in application form
+* [ ] prajit mobile app status
