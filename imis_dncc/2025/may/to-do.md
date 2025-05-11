@@ -42,6 +42,6 @@
 ---
 
 * [ ] pdf generation -> bangladeshi  translation
-* [ ] pdf generation
+* [X] pdf generation
 * [ ] trips allocation ko end date mapping in application form
 * [ ] prajit mobile app status
