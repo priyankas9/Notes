@@ -51,6 +51,7 @@
 ---
 
 * [ ] trips allocation ko end date mapping in application form
-* [ ] prajit mobile app status
+* [X] prajit mobile app status
 * [ ] site setting issue fixation for set emptying date
 * [ ] geo server setup for project
+* [ ] dncc project review with maharshi dai
