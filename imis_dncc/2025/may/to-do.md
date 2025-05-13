@@ -45,3 +45,11 @@
 * [X] pdf generation
 * [ ] trips allocation ko end date mapping in application form
 * [ ] prajit mobile app status
+
+## 2025.05.13 Tuesday to-do
+
+---
+
+* [ ] trips allocation ko end date mapping in application form
+* [ ] prajit mobile app status
+* [ ] site setting issue fixation for set emptying date
