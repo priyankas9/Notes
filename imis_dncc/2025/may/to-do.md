@@ -55,3 +55,9 @@
 * [ ] site setting issue fixation for set emptying date
 * [ ] geo server setup for project
 * [ ] dncc project review with maharshi dai
+
+## 2025.05.14 Wednesday to-do
+
+---
+
+* [ ] dncc project review with mahrshi dai
