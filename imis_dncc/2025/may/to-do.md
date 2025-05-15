@@ -61,3 +61,9 @@
 ---
 
 * [X] dncc project review with mahrshi dai
+
+## 2025.05.15 Thursday to-do
+
+---
+
+* [ ] finish the requirememnts
