@@ -60,4 +60,4 @@
 
 ---
 
-* [ ] dncc project review with mahrshi dai
+* [X] dncc project review with mahrshi dai
