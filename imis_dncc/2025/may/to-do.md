@@ -74,8 +74,9 @@
 ---
 
 * [ ] Even if the error is dispalying the form is getting saved . Fix it (site settings)
-* [ ] Fix the **Sidebar page open issue** (active state and page load behavior).
-* [ ] In the  **Supervisory Assessment filter** , add filters for:* [ ] Holding Number (House Number)
+* [X] Fix the **Sidebar page open issue** (active state and page load behavior).
+* [X] In the  **Supervisory Assessment filter** , add filters for:
 
-  * [ ] Owner Name
-  * [ ] Bin Number
+  * [X] Owner Name
+  * [X] Bin Number/Application ID
+  * [X] Holding Number (House Number)
