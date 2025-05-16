@@ -67,4 +67,15 @@
 ---
 
 * [ ] finish the requirememnts
-* [ ]
+  almost done few left
+
+## 2025.05.16 Friday TO-DO
+
+---
+
+* [ ] Even if the error is dispalying the form is getting saved . Fix it (site settings)
+* [ ] Fix the **Sidebar page open issue** (active state and page load behavior).
+* [ ] In the  **Supervisory Assessment filter** , add filters for:* [ ] Holding Number (House Number)
+
+  * [ ] Owner Name
+  * [ ] Bin Number
