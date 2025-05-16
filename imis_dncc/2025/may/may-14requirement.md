@@ -38,7 +38,7 @@
 ### ⚙️ Site Settings & Sidebar
 
 * [X] Remove fields from the **Site Settings module** that are no longer in use.
-* [ ] Fix the **Sidebar page open issue** (active state and page load behavior).
+* [X] Fix the **Sidebar page open issue** (active state and page load behavior).
 * [X] Rearrange the **Schedule** menu in the sidebar according to the new feedback structure, reintegrating after the  **Feedback module** .
 
 ---
@@ -48,14 +48,14 @@
 * [X] Remove the **Household Details block** from the  **Application form** .
 * [X] Fix the date format of **Supervisory Assessment Date** in the  **Applications table** .
 * [X] When the user tries to  **save the application form reschedule** , display the selected **date** properly.
-* [ ] In the  **Supervisory Assessment filter** , add filters for:
-  * [ ] Holding Number (House Number)
-  * [ ] Owner Name
-  * [ ] Bin Number
+* [X] In the  **Supervisory Assessment filter** , add filters for:
+  * [X] Holding Number (House Number)
+  * [X] Owner Name
+  * [X] Bin Number/Application ID
 
 ---
 
-### 🔄 Reschedule Generation Modal
+ 🔄 Reschedule Generation Modal
 
 * [X] In the  **Reschedule Generation modal** :
   * [X] Add a new  **Confirm Schedule button that leads to application form page** .
