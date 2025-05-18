@@ -80,3 +80,12 @@
   * [X] Owner Name
   * [X] Bin Number/Application ID
   * [X] Holding Number (House Number)
+
+## 2025.05.18 Sunday TO-DO
+
+---
+
+* [ ] jira
+* [ ] meeting with maahrshi
+* [ ] work log update
+* [ ] role and permission fixes
