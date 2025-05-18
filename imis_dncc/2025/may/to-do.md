@@ -86,6 +86,6 @@
 ---
 
 * [ ] jira
-* [ ] meeting with maahrshi
+* [X] meeting with maahrshi
 * [ ] work log update
 * [ ] role and permission fixes
