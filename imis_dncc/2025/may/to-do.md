@@ -85,7 +85,15 @@
 
 ---
 
-* [ ] jira
+* [X] jira
 * [X] meeting with maahrshi
-* [ ] work log update
+* [X] work log update
 * [ ] role and permission fixes
+
+## 2025.05.19 Monday TO-DO
+
+---
+
+* [ ] role and permission
+* [ ] api
+* [ ] desludging not displaying issue
