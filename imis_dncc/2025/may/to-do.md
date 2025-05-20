@@ -98,3 +98,11 @@
 * [ ] api
 * [X] desludging not displaying issue
 * [ ] filter add in desludging schedule
+
+## 2025.05.20 Tuesday TO-DO
+
+---
+
+* [ ] api
+* [ ] geoserver local
+* [ ] filter desludging
