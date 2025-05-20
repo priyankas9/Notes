@@ -96,5 +96,5 @@
 
 * [ ] role and permission
 * [ ] api
-* [ ] desludging not displaying issue
+* [X] desludging not displaying issue
 * [ ] filter add in desludging schedule
