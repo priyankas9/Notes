@@ -19,3 +19,11 @@ TRUNCATE TABLE fsm.sludge_collections RESTART IDENTITY CASCADE;
 TRUNCATE TABLE fsm.supervisory_assessment RESTART IDENTITY CASCADE;
 TRUNCATE TABLE fsm.emtyings RESTART IDENTITY CASCADE;
 TRUNCATE TABLE fsm.applications RESTART IDENTITY CASCADE;
+
+
+## Update application table
+
+---
+
+ALTER TABLE fsm.applications
+ALTER COLUMN supervisory_assessment_status SET DEFAULT false;
