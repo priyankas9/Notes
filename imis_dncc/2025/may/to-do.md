@@ -106,3 +106,11 @@
 * [X] api
 * [ ] geoserver local
 * [ ] filter desludging
+
+## 2025.05.21 Wednesday TO-DO
+
+---
+
+* [ ] geoserver setup local
+* [ ] filter desludging + csv
+* [ ] jira issue fixes
