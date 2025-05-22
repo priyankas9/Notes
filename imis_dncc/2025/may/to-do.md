@@ -114,3 +114,10 @@
 * [X] geoserver setup local
 * [ ] filter desludging + csv
 * [X] jira issue fixes
+
+## 2025.05.22 Thursday TO-DO
+
+---
+
+* [ ] filter desludging + csv
+* [ ] geoserver map layers and style
