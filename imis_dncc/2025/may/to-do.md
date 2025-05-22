@@ -111,6 +111,6 @@
 
 ---
 
-* [ ] geoserver setup local
+* [X] geoserver setup local
 * [ ] filter desludging + csv
-* [ ] jira issue fixes
+* [X] jira issue fixes
