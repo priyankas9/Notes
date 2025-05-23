@@ -119,5 +119,5 @@
 
 ---
 
-* [ ] filter desludging + csv
-* [ ] geoserver map layers and style
+* [X] filter desludging + csv
+* [X] geoserver map layers and style
