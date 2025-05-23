@@ -121,3 +121,9 @@
 
 * [X] filter desludging + csv
 * [X] geoserver map layers and style
+
+## 2025.02.23 Friday TO-DO
+
+---
+
+* [ ] geoserverr
