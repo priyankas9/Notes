@@ -126,4 +126,13 @@
 
 ---
 
-* [ ] geoserverr
+* [X] geoserverr
+
+## 2025.02.25 Thursday TO-DO
+
+---
+
+* [ ] geoserver fixes
+* [ ] supervisory assesment delete logic
+* [ ] add application fixes
+* [ ] application logic fixes
