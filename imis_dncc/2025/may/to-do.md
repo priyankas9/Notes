@@ -128,7 +128,7 @@
 
 * [X] geoserverr
 
-## 2025.02.25 Thursday TO-DO
+## 2025.02.25 Sunday TO-DO
 
 ---
 
@@ -137,3 +137,11 @@
 * [X] add application fixes
 * [X] application logic fixes
 * [ ] worklog maintain
+
+## 2025.02.26 Monday TO-DO
+
+---
+
+* [ ] WORKLOGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+* [X] BUGSSS
+* [ ] API
