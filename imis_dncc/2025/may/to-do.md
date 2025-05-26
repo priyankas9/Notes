@@ -133,7 +133,7 @@
 ---
 
 * [ ] geoserver fixes
-* [ ] supervisory assesment delete logic
-* [ ] add application fixes
-* [ ] application logic fixes
+* [X] supervisory assesment delete logic
+* [X] add application fixes
+* [X] application logic fixes
 * [ ] worklog maintain
