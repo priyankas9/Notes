@@ -150,6 +150,12 @@
 
 ---
 
-* [ ] WORKLOGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
-* [ ] API
-* [ ] BUGS
+* [X] WORKLOGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+* [X] API
+* [X] BUGS
+
+## 2025.02.28 Wednesday TO-DO
+
+---
+
+* [ ] Bug fixing solve everything
