@@ -158,4 +158,5 @@
 
 ---
 
-* [ ] Bug fixing solve everything
+* [X] Bug fixing solve everything
+* [ ] null case handlation in dashboard chart
