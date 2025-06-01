@@ -67,9 +67,10 @@ ADD COLUMN wasa_status BOOLEAN;
 ALTER TABLE fsm.applications 
 ADD COLUMN supervisory_assessment_date DATE,
 ADD COLUMN supervisory_assessment_status BOOLEAN;
+ALTER COLUMN supervisory_assessment_status SET DEFAULT false;
 ```
 
-### 4.dynamic pdf - business process 5 
+### 4.dynamic pdf - business process 5
 
 ---
 
