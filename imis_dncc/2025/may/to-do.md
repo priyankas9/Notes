@@ -161,7 +161,7 @@
 * [X] Bug fixing solve everything
 * [ ] null case handlation in dashboard chart
 
-## 2025.02.28 Wednesday TO-DO
+## 2025.02.29 Thursday TO-DO
 
 ---
 
