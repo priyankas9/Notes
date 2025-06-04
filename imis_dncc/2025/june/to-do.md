@@ -17,6 +17,13 @@
 
 ---
 
-* [ ] error log dncc
+* [X] error log dncc
 * [ ] cambodia meting
-* [ ] jenish form
+* [X] jenish form
+
+# 2025.06.04 Wedsnesday
+
+---
+
+* [ ] cambodia shitss
+* [ ] dncc error + roles nd permission
