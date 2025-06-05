@@ -25,5 +25,12 @@
 
 ---
 
-* [ ] cambodia shitss
+* [X] cambodia shitss
 * [ ] dncc error + roles nd permission
+
+# 2025.06.05 Thursday
+
+---
+
+* [ ] cambodia
+* [ ] imis-dncc
