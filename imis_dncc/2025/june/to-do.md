@@ -40,3 +40,10 @@
 ---
 
 * [X] cambodia
+
+# 2025.06.08 Sunday
+
+---
+
+* [ ] cambodia
+* [ ] prajit mobile dev
