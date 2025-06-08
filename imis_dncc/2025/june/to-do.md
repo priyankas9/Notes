@@ -39,4 +39,4 @@
 
 ---
 
-* [ ] cambodia
+* [X] cambodia
