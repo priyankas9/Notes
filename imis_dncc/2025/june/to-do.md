@@ -34,8 +34,7 @@
 
 * [X] cambodia
 * [ ] imis-dncc
-
-# 2025.06.06 Friday
+* [ ] 2025.06.06 Friday
 
 ---
 
@@ -53,3 +52,4 @@
 ---
 
 * [ ] cambodia jenish task
+* [ ] geoserver
