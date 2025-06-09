@@ -46,4 +46,10 @@
 ---
 
 * [ ] cambodia
-* [ ] prajit mobile dev
+* [X] prajit mobile dev
+
+# 2025.06.09 Monday
+
+---
+
+* [ ] cambodia jenish task
