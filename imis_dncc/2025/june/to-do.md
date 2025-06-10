@@ -53,3 +53,10 @@
 
 * [ ] cambodia jenish task
 * [ ] geoserver
+
+# 2025.06.10 Tuesday
+
+---
+
+* [ ] dncc
+* [ ] cambodia
