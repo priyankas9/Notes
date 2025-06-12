@@ -67,3 +67,10 @@
 
 * [ ] cambodia scheduling and map part
 * [ ] dncc logic
+* [X] work lg
+
+# 2025.06.12 Thursday
+
+---
+
+* [ ] cambodia scheduling compeleely finish
