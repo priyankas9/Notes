@@ -1,4 +1,4 @@
-# 2025.06.01 Sunday
+# 62025.06.01 Sunday
 
 ---
 
@@ -73,4 +73,10 @@
 
 ---
 
-* [ ] cambodia scheduling compeleely finish
+* [X] cambodia scheduling compeleely finish
+
+# 2025.06.13 Friday 
+
+---
+
+* [ ] cambodia schedule part 2
