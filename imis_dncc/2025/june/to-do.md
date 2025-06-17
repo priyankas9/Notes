@@ -75,8 +75,18 @@
 
 * [X] cambodia scheduling compeleely finish
 
-# 2025.06.13 Friday 
+# 2025.06.13 Friday
 
 ---
 
 * [ ] cambodia schedule part 2
+
+# 2025.06.17 Tuesday 
+
+---
+
+* [ ] cambodia schedule finish
+* [ ] dncc demo plan
+* [ ] dncc spplicaion delete + status verify
+* [ ] maharshi dai lai review
+* [ ] work log planning
