@@ -1,4 +1,4 @@
-# 62025.06.01 Sunday
+# 2025.06.01 Sunday
 
 ---
 
@@ -90,3 +90,13 @@
 * [X] dncc spplicaion delete + status verify
 * [ ] maharshi dai lai review
 * [ ] work log planning
+
+# 2025.06.18 Wednesday
+
+---
+
+* [ ] cambodia schedule finish
+* [ ] dncc demo plan
+* [ ] maharshi dai lai review
+* [ ] work log planning
+* [ ] building survey of cambodia
