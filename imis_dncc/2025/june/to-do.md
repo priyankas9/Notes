@@ -100,3 +100,11 @@
 * [ ] maharshi dai lai review
 * [ ] work log planning
 * [ ] building survey of cambodia
+
+## 2025.06.20 Friday
+
+---
+
+* [ ] api issue imis-dncc
+* [ ] building survey form for cambodia
+* [ ] toastr setup
