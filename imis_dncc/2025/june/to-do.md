@@ -109,10 +109,16 @@
 * [ ] building survey form for cambodia
 * [ ] toastr setup
 
-# 2025.06.22 Sunday 
+# 2025.06.22 Sunday
 
 ---
 
 * [ ] work loggg pls
 * [ ] api issue
 * [ ] cambodia jenish building form
+
+# 2025.06.23 Monday
+
+---
+
+* [ ] geoserver live setup
