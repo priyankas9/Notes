@@ -122,3 +122,11 @@
 ---
 
 * [ ] geoserver live setup
+
+# 2025.06.24 Tuesday 
+
+---
+
+* [ ] geoserver live
+* [ ] db as per prajit ji schedule
+* [ ] building surve cambodia
