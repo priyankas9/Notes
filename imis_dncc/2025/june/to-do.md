@@ -131,3 +131,12 @@
 * [ ] db as per prajit ji schedule
 * [X] building surve cambodia
 * [ ] report for dncc
+
+# 2025.06.25 Wednesday
+
+---
+
+* [ ] db change for prajit ji
+* [ ] report dncc
+* [ ] toastr for cambodia
+* [ ] select 2 package for cambodia
