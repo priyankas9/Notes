@@ -123,11 +123,11 @@
 
 * [ ] geoserver live setup
 
-# 2025.06.24 Tuesday 
+# 2025.06.24 Tuesday
 
 ---
 
-* [ ] geoserver live
+* [X] geoserver live
 * [ ] db as per prajit ji schedule
-* [ ] building surve cambodia
+* [X] building surve cambodia
 * [ ] report for dncc
