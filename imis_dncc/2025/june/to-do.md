@@ -136,7 +136,8 @@
 
 ---
 
-* [ ] db change for prajit ji
-* [ ] report dncc
+* [X] db change for prajit ji (updated db:dncc-updated)
+* [X] report dncc(almost demo left to add )
 * [ ] toastr for cambodia
 * [ ] select 2 package for cambodia
+* [ ] workflow update 😢
