@@ -148,5 +148,13 @@
 
 * [ ] toastr for cambodia
 * [ ] select 2 package for cambodia
-* [ ] show page fixes
+* [X] show page fixes
 * [ ] workflow update 😢
+
+# 2025.06.29 Sunday
+
+---
+
+* [ ] toastr for cambodia
+* [ ] select 2 package for cambodia
+* [ ] workflow update
