@@ -19,20 +19,23 @@
 | 1 | Meeting with maharshi dai for further dncc changes | 30   |
 | 2 | Imis-revamp map coded remodeling                   | 3    |
 | 3 | Requirement docs as per meeting for imis-dncc      | 30   |
-| 3 | select 2 & taostr pacakge installation bugs        | 2    |
+| 4 | Bug fixes for smis                                 | 30   |
+| 5 | Meeting with mobile developer for smis             | 30   |
+| 6 | select 2 & taostr pacakge installation bugs        | 1    |
 
-### Dncc Requirements 
+### Dncc Requirements
 
-| To-do                              | Description                          |
-| ---------------------------------- | ------------------------------------ |
-| Look at business process 5 of dncc | basically pdf module for imis dncc   |
-| Data dictionary                    | Look up at imis -base as a reference |
-| Technical docs                     | Look up at imis -base as a reference |
-| geoserver                          | Crisha di                            |
-| Db -> change for kabin             | Clean db for ease of kabin to test   |
-| Api issues                         | Supervisory Assessment               |
-| Demo Plan                          | Kabin sop                            |
-| Roles & permission                 | Look at the previous matrix          |
+| To-do                              | Description                          | Status |
+| ---------------------------------- | ------------------------------------ | ------ |
+| Look at business process 5 of dncc | basically pdf module for imis dncc   |        |
+| Data dictionary                    | Look up at imis -base as a reference |        |
+| Technical docs                     | Look up at imis -base as a reference |        |
+| geoserver                          | Crisha di                            |        |
+| Db -> change for kabin             | Clean db for ease of kabin to test   |        |
+| Api issues                         | Supervisory Assessment               |        |
+| Demo Plan                          | Kabin sop                            |        |
+| Mobile and web code                | Ask Prajit                           |        |
+| Roles & permission                 | Look at the previous matrix          |        |
 
 ---
 
@@ -40,11 +43,12 @@
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                         | Done ✅ |
+| :-: | :------------------------------------------- | :------ |
+| 1 | Data dictionary(dncc)                        |         |
+| 2 | Technical docs (dncc)                        |         |
+| 3 | Customer and Building Survey form (Cambodia) |         |
+| 4 | Live db chnage in dncc                       |         |
 
 ### ✅ Done Activities Log
 
