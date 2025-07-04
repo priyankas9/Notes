@@ -88,17 +88,17 @@
 
 | # | Task                                     | Done ✅ |
 | :-: | :--------------------------------------- | :------ |
-| 1 | Dncc roles and permission live and local |         |
-| 2 | Api roles and permission                 |         |
+| 1 | Dncc roles and permission live and local | ✅      |
+| 2 | Api roles and permission                 | ✅      |
 | 3 | Apli supervisory issue fixes             |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                           | Hour |
-| :-: | :--------------------------------- | :--- |
-| 1 | Roles and permissio setuo for dncc | 3    |
-| 2 |                                    |      |
-| 3 |                                    |      |
+| # | Activity                                           | Hour |
+| :-: | :------------------------------------------------- | :--- |
+| 1 | Roles and permissio setuo for dncc (local & live ) | 5    |
+| 2 | Wireframe for cbs and frontend change              | 1    |
+| 3 |                                                    |      |
 
 ---
 
