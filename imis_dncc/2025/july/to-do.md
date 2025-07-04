@@ -48,15 +48,17 @@
 | 1 | Data dictionary(dncc)                        |         |
 | 2 | Technical docs (dncc)                        |         |
 | 3 | Customer and Building Survey form (Cambodia) |         |
-| 4 | Live db chnage in dncc                       |         |
+| 4 | Live db chnage in dncc                       | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                     | Hour |
+| :-: | :------------------------------------------- | :--- |
+| 1 | DNCC db changes                              | 1    |
+| 2 | Meeting with bhusan sir for cambodia         | 1    |
+| 3 | Wireframe for cambodia                       | 1    |
+| 4 | Customer and building survey form changes    | 2    |
+| 5 | Wire frame changes as per bhusan sir request | 1    |
 
 ---
 
@@ -66,17 +68,17 @@
 
 | # | Task | Hour | Done ✅ |
 | :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
+| 1 | dncc |      |         |
 | 2 |      |      |         |
 | 3 |      |      |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                  | Hour |
+| :-: | :------------------------ | :--- |
+| 1 | Meeting with bhusan sir   | 2    |
+| 2 | Wirframe and code chnages | 1    |
+| 3 | Dncc roles & permission   | 3    |
 
 ---
 
@@ -84,19 +86,19 @@
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                     | Done ✅ |
+| :-: | :--------------------------------------- | :------ |
+| 1 | Dncc roles and permission live and local |         |
+| 2 | Api roles and permission                 |         |
+| 3 | Apli supervisory issue fixes             |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                           | Hour |
+| :-: | :--------------------------------- | :--- |
+| 1 | Roles and permissio setuo for dncc | 3    |
+| 2 |                                    |      |
+| 3 |                                    |      |
 
 ---
 
