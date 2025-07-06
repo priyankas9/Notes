@@ -108,19 +108,20 @@
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                              | Done ✅ |
+| :-: | :-------------------------------- | :------ |
+| 1 | dncc summary matrix               |         |
+| 2 | dncc dictionary and tchnical docs |         |
+| 3 | api issue fixes                   |         |
+| 4 | worklog                           |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity        | Hour |
+| :-: | :-------------- | :--- |
+| 1 | summary matrix  | 1.30 |
+| 2 | Api issue fixes | 3    |
+| 3 |                 |      |
 
 ---
 
