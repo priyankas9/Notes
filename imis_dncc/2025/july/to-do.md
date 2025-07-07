@@ -110,18 +110,18 @@
 
 | # | Task                              | Done ✅ |
 | :-: | :-------------------------------- | :------ |
-| 1 | dncc summary matrix               |         |
+| 1 | dncc summary matrix               | ✅      |
 | 2 | dncc dictionary and tchnical docs |         |
 | 3 | api issue fixes                   |         |
 | 4 | worklog                           |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity        | Hour |
-| :-: | :-------------- | :--- |
-| 1 | summary matrix  | 1.30 |
-| 2 | Api issue fixes | 3    |
-| 3 |                 |      |
+| # | Activity                                        | Hour |
+| :-: | :---------------------------------------------- | :--- |
+| 1 | summary matrix                                  | 1.30 |
+| 2 | Api issue fixes + unit testing (live and local) | 1.30 |
+| 3 | Phone meeting with maahrshi dai                 | 20   |
 
 ---
 
@@ -131,11 +131,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task               | Done ✅ |
+| :-: | :----------------- | :------ |
+| 1 | Dncc databse fixes |         |
+| 2 | Dncc map fixes     |         |
+| 3 | WORKLOG PLSSSSSS   |         |
 
 ### ✅ Done Activities Log
 
