@@ -165,23 +165,23 @@
 | 2 |                                    |      |
 | 3 |                                    |      |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 9, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task             | Done ✅ |
+| :-: | :--------------- | :------ |
+| 1 | DNcc error fixes |         |
+| 2 | Workloggggggg   |         |
+| 3 |                  |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                       | Hour   |
+| :-: | :----------------------------- | :----- |
+| 1 | dncc : error fixes + map fixes | 6 hr  |
+| 2 |                                |        |
+| 3 |                                |        |
 
 ## 📓 July 8, 2025 (Tuesday)
 
