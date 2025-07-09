@@ -133,8 +133,8 @@
 
 | # | Task               | Done ✅ |
 | :-: | :----------------- | :------ |
-| 1 | Dncc databse fixes |         |
-| 2 | Dncc map fixes     |         |
+| 1 | Dncc databse fixes | ✅      |
+| 2 | Dncc map fixes     | ✅      |
 | 3 | WORKLOG PLSSSSSS   |         |
 
 ### ✅ Done Activities Log
@@ -171,8 +171,8 @@
 
 | # | Task             | Done ✅ |
 | :-: | :--------------- | :------ |
-| 1 | DNcc error fixes |         |
-| 2 | Workloggggggg   |         |
+| 1 | DNcc error fixes | ✅      |
+| 2 | Workloggggggg    | ✅      |
 | 3 |                  |         |
 
 ### ✅ Done Activities Log
