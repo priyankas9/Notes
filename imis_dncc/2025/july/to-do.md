@@ -183,15 +183,15 @@
 | 2 |                                |      |
 | 3 |                                |      |
 
-## 📓 July 10, 2025 (Tuesday)
+## 📓 July 10, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task              | Done ✅ |
-| :-: | :---------------- | :------ |
-| 1 | dncc requirement  |         |
-| 2 | cbs requirement  |         |
-| 3 |                   |         |
+| # | Task                  | Done ✅ |
+| :-: | :-------------------- | :------ |
+| 1 | dncc requirement      |         |
+| 2 | cbs requirement       |         |
+| 3 | feedback form for cbs |         |
 
 ### ✅ Done Activities Log
 
