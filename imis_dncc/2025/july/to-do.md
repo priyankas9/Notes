@@ -177,21 +177,21 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                       | Hour   |
-| :-: | :----------------------------- | :----- |
-| 1 | dncc : error fixes + map fixes | 6 hr  |
-| 2 |                                |        |
-| 3 |                                |        |
+| # | Activity                       | Hour |
+| :-: | :----------------------------- | :--- |
+| 1 | dncc : error fixes + map fixes | 6 hr |
+| 2 |                                |      |
+| 3 |                                |      |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 10, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task              | Done ✅ |
+| :-: | :---------------- | :------ |
+| 1 | dncc requirement  |         |
+| 2 | cbs requirement  |         |
+| 3 |                   |         |
 
 ### ✅ Done Activities Log
 
