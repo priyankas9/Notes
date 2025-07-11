@@ -195,21 +195,21 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity          | Hour |
+| :-: | :---------------- | :--- |
+| 1 | cbs feedback form | 1.30 |
+| 2 | dncc meeting      | 30   |
+| 3 |                   |      |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 11, 2025 (Friday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                | Done ✅ |
+| :-: | :---------------------------------- | :------ |
+| 1 | Cbs Feedback form                   |         |
+| 2 | Dncc process 5 + new module listing |         |
+| 3 |                                     |         |
 
 ### ✅ Done Activities Log
 
