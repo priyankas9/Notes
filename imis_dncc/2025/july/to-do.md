@@ -213,11 +213,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                | Hour |
+| :-: | :-------------------------------------- | :--- |
+| 1 | toastr an select 2 pcage issue fixes    | 3    |
+| 2 | Feedback form cambodia fixes            | 1    |
+| 3 | Dncc new moduels listed for multilingal | 2    |
 
 ## 📓 July 8, 2025 (Tuesday)
 
