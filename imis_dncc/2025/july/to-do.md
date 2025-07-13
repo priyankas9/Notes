@@ -219,15 +219,15 @@
 | 2 | Feedback form cambodia fixes            | 1    |
 | 3 | Dncc new moduels listed for multilingal | 2    |
 
-## 📓 July 8, 2025 (Tuesday)
+## * [ ] 📓 July 13, 2025 (Sunday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task              | Done ✅ |
+| :-: | :---------------- | :------ |
+| 1 | dncc multilingual |         |
+| 2 | Wokload           |         |
+| 3 | Cambodiaaa        |         |
 
 ### ✅ Done Activities Log
 
