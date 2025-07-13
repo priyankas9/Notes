@@ -226,16 +226,16 @@
 | # | Task              | Done ✅ |
 | :-: | :---------------- | :------ |
 | 1 | dncc multilingual |         |
-| 2 | Wokload           |         |
+| 2 | Woklog            |         |
 | 3 | Cambodiaaa        |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                               | Hour | Issues                               |
+| :-: | :------------------------------------- | :--- | ------------------------------------ |
+| 1 | Cambodia tostr package install         | 1    | Laravel version issue + code overlap |
+| 2 | New Strcture Type Update for imis-dncc | 2    |                                      |
+| 3 |                                        |      |                                      |
 
 ## 📓 July 8, 2025 (Tuesday)
 

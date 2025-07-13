@@ -1,4 +1,3 @@
-
 ## DNCC – New Module Documentation
 
 ---
@@ -79,4 +78,6 @@
   * Wards for Schedule Desludging
   * Holiday Dates
   * Weekend
-  * Schedule Regeneration Period
+  * Schedule Regeneration Period'**💬 Pop-up Messages***
+  * Site settings updated successfully!
+  * No changes were made to site settings.
