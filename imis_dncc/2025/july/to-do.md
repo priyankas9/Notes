@@ -223,11 +223,11 @@
 
 ### 📝 To-Do List
 
-| # | Task              | Done ✅ |
-| :-: | :---------------- | :------ |
-| 1 | dncc multilingual |         |
-| 2 | Woklog            |         |
-| 3 | Cambodiaaa        |         |
+| # | Task              | Done ✅           |
+| :-: | :---------------- | :---------------- |
+| 1 | dncc multilingual |                   |
+| 2 | Woklog            |                   |
+| 3 | Cambodiaaa        | ✅ did the toastr |
 
 ### ✅ Done Activities Log
 
@@ -235,25 +235,26 @@
 | :-: | :------------------------------------- | :--- | ------------------------------------ |
 | 1 | Cambodia tostr package install         | 1    | Laravel version issue + code overlap |
 | 2 | New Strcture Type Update for imis-dncc | 2    |                                      |
-| 3 |                                        |      |                                      |
+| 3 | Business Process 5 study               | 1    |                                      |
+| 4 | Cambodia select 2 packge issue         | 2    | Laravel version issue                |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 14, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                     | Done ✅ |
+| :-: | :----------------------- | :------ |
+| 1 | Toastr push for cambodia |         |
+| 2 | Select 2 add             |         |
+| 3 | DNCC site setting fixes  |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity | Hour | Issues |
+| :-: | :------- | :--- | ------ |
+| 1 |          |      |        |
+| 2 |          |      |        |
+| 3 |          |      |        |
 
 ## 📓 July 8, 2025 (Tuesday)
 
