@@ -248,13 +248,23 @@
 | 2 | Select 2 add             |         |
 | 3 | DNCC site setting fixes  |         |
 
+### Site Settings Requirements
+
+---
+
+* [ ] Make from's value non-removable when validation issue arises
+* [ ] Ward fecth form ward coloumn
+* [ ] Auto Assign Service Provider (yes/no)
+* [ ] If yes then Service Provider selectable
+* [ ] If no then Service Provider auto assign as per the selected (Can take birendranagar as a reference)
+
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Issues |
-| :-: | :------- | :--- | ------ |
-| 1 |          |      |        |
-| 2 |          |      |        |
-| 3 |          |      |        |
+| # | Activity                                | Hour | Issues |
+| :-: | :-------------------------------------- | :--- | ------ |
+| 1 | Site Settign dncc requirements listings | 1   |        |
+| 2 |                                         |      |        |
+| 3 |                                         |      |        |
 
 ## 📓 July 8, 2025 (Tuesday)
 
