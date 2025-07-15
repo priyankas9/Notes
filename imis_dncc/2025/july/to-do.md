@@ -242,11 +242,11 @@
 
 ### 📝 To-Do List
 
-| # | Task                     | Done ✅ |
-| :-: | :----------------------- | :------ |
-| 1 | Toastr push for cambodia |         |
-| 2 | Select 2 add             |         |
-| 3 | DNCC site setting fixes  |         |
+| # | Task                     | Done ✅    |
+| :-: | :----------------------- | :--------- |
+| 1 | Toastr push for cambodia | ✅         |
+| 2 | Select 2 add             |            |
+| 3 | DNCC site setting fixes  | ✅ not all |
 
 ### Site Settings Requirements
 
@@ -254,35 +254,36 @@
 
 * [ ] Make from's value non-removable when validation issue arises
 * [ ] Ward fecth form ward coloumn
-* [ ] Auto Assign Service Provider (yes/no)
+* [X] Auto Assign Service Provider (yes/no) -> should also need a db change +
 * [ ] If yes then Service Provider selectable
 * [ ] If no then Service Provider auto assign as per the selected (Can take birendranagar as a reference)
 
 ### ✅ Done Activities Log
 
-| # | Activity                                | Hour | Issues |
-| :-: | :-------------------------------------- | :--- | ------ |
-| 1 | Site Settign dncc requirements listings | 1   |        |
-| 2 |                                         |      |        |
-| 3 |                                         |      |        |
+| # | Activity                                           | Hour | Issues                                    |
+| :-: | :------------------------------------------------- | :--- | ----------------------------------------- |
+| 1 | Site Settings dncc requirements listings           | 1    |                                           |
+| 2 | SIte setting validation issue                      | 30   | Loss of data when validation issue arises |
+| 3 | Added new field for site settings -db chnages+code | 2.30 |                                           |
+| 4 | Auto assign service provider requirement study     | 2    |                                           |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 15, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                   | Done ✅ |
+| :-: | :--------------------- | :------ |
+| 1 | Select 2 add cambodia  |         |
+| 2 | Site settings continue |         |
+| 3 | Maharshi dai meeting   |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                               | Hour | Issues |
+| :-: | :------------------------------------- | :--- | ------ |
+| 1 | Cmabodia datatble issue                | 30   |        |
+| 2 | Dncc mobile repo fixes for mobile code | 30   |        |
+| 3 |                                        |      |        |
 
 ## 📓 July 8, 2025 (Tuesday)
 
