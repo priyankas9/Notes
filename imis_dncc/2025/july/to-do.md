@@ -275,25 +275,27 @@
 | :-: | :--------------------- | :------ |
 | 1 | Select 2 add cambodia  |         |
 | 2 | Site settings continue |         |
-| 3 | Maharshi dai meeting   |         |
+| 3 | Maharshi dai meeting   | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity                               | Hour | Issues |
-| :-: | :------------------------------------- | :--- | ------ |
-| 1 | Cmabodia datatble issue                | 30   |        |
-| 2 | Dncc mobile repo fixes for mobile code | 30   |        |
-| 3 |                                        |      |        |
+| # | Activity                                               | Hour | Issues |
+| :-: | :----------------------------------------------------- | :--- | ------ |
+| 1 | Cmabodia datatble issue research                       | 30   |        |
+| 2 | Dncc mobile repo fixes for mobile code                 | 30   |        |
+| 3 | Meeting with maahrshi dai for new requirements of dncc | 30   |        |
+| 4 | Listing requirements as per meeting                    | 1.30 |        |
+| 5 | Cambia live issue debugging                            | 3    |        |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 16, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                            | Done ✅ |
+| :-: | :------------------------------ | :------ |
+| 1 | Site settings continue          |         |
+| 2 | Select 2 add cambodia           |         |
+| 3 | Structure Type update code push |         |
 
 ### ✅ Done Activities Log
 
