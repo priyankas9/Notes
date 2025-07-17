@@ -293,35 +293,35 @@
 
 | # | Task                            | Done ✅ |
 | :-: | :------------------------------ | :------ |
-| 1 | Site settings continue          |         |
+| 1 | Site settings continue          | ✅      |
 | 2 | Select 2 add cambodia           |         |
-| 3 | Structure Type update code push |         |
+| 3 | Structure Type update code push | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                                          | Hour | Issues |
+| :-: | :---------------------------------------------------------------- | :--- | ------ |
+| 1 | Asssited Jenish for setup of smis website server                  | 4.30 |        |
+| 2 | Meeting with maahrshi dai abaout new auto assign service provider | 30   |        |
+| 3 | Auto assign service provider feature in dncc                      | 1    |        |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 17, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                        | Done ✅ |
+| :-: | :-------------------------- | :------ |
+| 1 | WorkLOGGGGGG                |         |
+| 2 | Application - auto assign  |         |
+| 3 |                             |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity | Hour | Issues |
+| :-: | :------- | :--- | ------ |
+| 1 |          |      |        |
+| 2 |          |      |        |
+| 3 |          |      |        |
 
 ## 📓 July 8, 2025 (Tuesday)
 
