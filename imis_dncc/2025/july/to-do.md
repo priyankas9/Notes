@@ -309,29 +309,31 @@
 
 ### 📝 To-Do List
 
-| # | Task                        | Done ✅ |
-| :-: | :-------------------------- | :------ |
-| 1 | WorkLOGGGGGG                |         |
-| 2 | Application - auto assign  |         |
-| 3 |                             |         |
+| # | Task                      | Done ✅ |
+| :-: | :------------------------ | :------ |
+| 1 | WorkLOGGGGGG              |         |
+| 2 | Application - auto assign | ✅      |
+| 3 | Logo update               | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Issues |
-| :-: | :------- | :--- | ------ |
-| 1 |          |      |        |
-| 2 |          |      |        |
-| 3 |          |      |        |
+| # | Activity                                                                              | Hour | Issues | Changes To Apply👿                                              |
+| :-: | :------------------------------------------------------------------------------------ | :--- | ------ | --------------------------------------------------------------- |
+| 1 | Site setting & Application form chnages for new feature auto asssign service provider | 2    |        | Add new row as  Auto Assign Service Provider -> boolean -> 0,1 |
+| 2 | Logo chnage fr imis-dncc from logo of imis to logo of dncc                            | 2    |        |                                                                 |
+| 3 | Meeting with maharshi dai & rajan dai for mobile app dncc                             | 1    |        |                                                                 |
+| 4 | Building form changes                                                                 | 1    |        | Add new fields                                                  |
 
 ## 📓 July 8, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                                    | Done ✅ |
+| :-: | :------------------------------------------------------ | :------ |
+| 1 | Edit form of application                                |         |
+| 2 | Building form changes                                   |         |
+| 3 | Meeting with maharshi dai about the further wor of dncc |         |
+| 4 | Error mapping -> multi lingual                          |         |
 
 ### ✅ Done Activities Log
 
