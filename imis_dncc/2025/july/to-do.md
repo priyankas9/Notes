@@ -324,34 +324,35 @@
 | 3 | Meeting with maharshi dai & rajan dai for mobile app dncc                             | 1    |        |                                                                 |
 | 4 | Building form changes                                                                 | 1    |        | Add new fields                                                  |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 18, 2025 (Friday)
 
 ### 📝 To-Do List
 
-| # | Task                                                    | Done ✅ |
-| :-: | :------------------------------------------------------ | :------ |
-| 1 | Edit form of application                                |         |
-| 2 | Building form changes                                   |         |
-| 3 | Meeting with maharshi dai about the further wor of dncc |         |
-| 4 | Error mapping -> multi lingual                          |         |
+| # | Task                                                                                   | Done ✅ |
+| :-: | :------------------------------------------------------------------------------------- | :------ |
+| 1 | Edit form of application                                                               | ✅      |
+| 2 | Building form changes<br />Added new columns in building table : <br />block_number  |         |
+| 3 | Meeting with maharshi dai about the further wor of dncc                                |         |
+| 4 | Error mapping -> multi lingual                                                         |         |
+| 5 |                                                                                        |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                                                                 | Hour | Issues                                          |
+| :-: | :--------------------------------------------------------------------------------------- | :--- | ----------------------------------------------- |
+| 1 | Edit form Application                                                                    | 1    | Undefined auto assign service provider fucntion |
+| 2 | Building form changes add + edit                                                         | 3    |                                                 |
+| 3 | Multilingual transition /  merge in dncc web app with thenhelp of priya and crisha di  | 3    |                                                 |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 20, 2025 (Sunday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                            | Done ✅ |
+| :-: | :------------------------------ | :------ |
+| 1 | Database fixes for multilingual |         |
+| 2 | Data mapping for multilingual   |         |
+| 3 | Meeting with maahrshi dai       |         |
 
 ### ✅ Done Activities Log
 
