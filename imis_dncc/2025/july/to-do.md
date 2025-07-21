@@ -338,11 +338,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                                                                 | Hour | Issues                                          |
-| :-: | :--------------------------------------------------------------------------------------- | :--- | ----------------------------------------------- |
-| 1 | Edit form Application                                                                    | 1    | Undefined auto assign service provider fucntion |
-| 2 | Building form changes add + edit                                                         | 3    |                                                 |
-| 3 | Multilingual transition /  merge in dncc web app with thenhelp of priya and crisha di  | 3    |                                                 |
+| # | Activity                                                                               | Hour | Issues                                          |
+| :-: | :------------------------------------------------------------------------------------- | :--- | ----------------------------------------------- |
+| 1 | Edit form Application                                                                  | 1    | Undefined auto assign service provider fucntion |
+| 2 | Building form changes add + edit                                                       | 3    |                                                 |
+| 3 | Multilingual transition /  merge in dncc web app with thenhelp of priya and crisha di | 3    |                                                 |
 
 ## 📓 July 20, 2025 (Sunday)
 
@@ -350,27 +350,28 @@
 
 | # | Task                            | Done ✅ |
 | :-: | :------------------------------ | :------ |
-| 1 | Database fixes for multilingual |         |
-| 2 | Data mapping for multilingual   |         |
+| 1 | Database fixes for multilingual | ✅      |
+| 2 | Data mapping for multilingual   | ✅      |
 | 3 | Meeting with maahrshi dai       |         |
+| 4 | WORKLOGGGGGG :SAD:              |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                                                                                                    | Hour |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------- | :--- |
+| 1 | DB transition as per mulitlingial and dncc needs                                                                            | 3    |
+| 2 | Live fixes + setup for dncc and mutilingual merge                                                                           | 2    |
+| 3 | Service Provider new field contract document upload<br />db chnages : new column contract_document in fsm.service_providers | 1    |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 21, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                         | Done ✅ |
+| :-: | :------------------------------------------- | :------ |
+| 1 | Meeting with maahrshi dai                    |         |
+| 2 | Worklog update                               |         |
+| 3 | Building form - dynamic form display check  |         |
 
 ### ✅ Done Activities Log
 
