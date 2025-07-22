@@ -367,29 +367,32 @@
 
 ### 📝 To-Do List
 
-| # | Task                                         | Done ✅ |
-| :-: | :------------------------------------------- | :------ |
-| 1 | Meeting with maahrshi dai                    |         |
-| 2 | Worklog update                               |         |
-| 3 | Building form - dynamic form display check  |         |
+| # | Task                                                                                                                             | Done ✅             |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
+| 1 | Meeting with maahrshi dai                                                                                                        | busy just discussed |
+| 2 | Worklog update                                                                                                                   |                     |
+| 3 | Building form - dynamic form display check                                                                                       | ✅                  |
+| 4 | Category in building form<br />for toilet category columns added -> toilet_category<br />for containment -> containment_category | ✅                  |
+| 5 | Pdf save in edit of service provider                                                                                             | ✅                  |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                                                   | Hour |
+| :-: | :------------------------------------------------------------------------- | :--- |
+| 1 | Fixed he issue of dynamoc field not woking and buttons not working in dncc | 3    |
+| 2 | Service Provider edit -> document upload fixes                             | 1.30 |
+| 3 | Category in building form for toilect connection added                     | 1.30 |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 23, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                           | Done ✅ |
+| :-: | :--------------------------------------------- | :------ |
+| 1 | Create a chnages done doc for qa               |         |
+| 2 | Building form category display for containment |         |
+| 3 | Rajan dai mobile chnages                       |         |
+| 4 | Error message mapping                          |         |
 
 ### ✅ Done Activities Log
 
