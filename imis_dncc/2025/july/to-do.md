@@ -383,42 +383,44 @@
 | 2 | Service Provider edit -> document upload fixes                             | 1.30 |
 | 3 | Category in building form for toilect connection added                     | 1.30 |
 
-## 📓 July 23, 2025 (Tuesday)
+## 📓 July 22, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task                                           | Done ✅ |
-| :-: | :--------------------------------------------- | :------ |
-| 1 | Create a chnages done doc for qa               |         |
-| 2 | Building form category display for containment |         |
-| 3 | Rajan dai mobile chnages                       |         |
-| 4 | Error message mapping                          |         |
+| # | Task                                           | Done ✅ |
+| :-: | :--------------------------------------------- | :------- |
+| 1 | Create a chnages done doc for qa               | ✅       |
+| 2 | Building form category display for containment |          |
+| 3 | Rajan dai mobile chnages                       |          |
+| 4 | Error message mapping                          |          |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                          | Hour |
+| :-: | :------------------------------------------------ | :--- |
+| 1 | Create a chnages done doc for qa (test case )     | 1    |
+| 2 | Assisted Jenish with deployement of smis          | 1    |
+| 3 | Containment category display in cointainment type | 2    |
+| 4 | Assite jenish with deployment of smis             | 1    |
+| 5 | SMIS  code chnages for map                       | 1    |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 23, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                        | Done ✅ |
+| :-: | :-------------------------- | :------ |
+| 1 | Meeting with maharshi daiii | ✅      |
+| 2 | New changes lists           |         |
+| 3 | Button in cambodia          |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                    | Hour | Issues |
+| :-: | :-------------------------- | :--- | ------ |
+| 1 | Meeting with maharshi daiii | 1.30 |        |
+| 2 | New chnages lists           |      |        |
+| 3 |                             |      |        |
 
 ## 📓 July 8, 2025 (Tuesday)
 
