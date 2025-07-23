@@ -2,7 +2,7 @@
 
 ---
 
-**script :** 
+**script :**
 
 -- Table: public.sdm_sitesettings
 
@@ -39,6 +39,8 @@ ADD COLUMN connected_road_width NUMERIC,
 ADD COLUMN water_status VARCHAR,
 ADD COLUMN wasa_status VARCHAR,
 ADD COLUMN wasa_bill_no VARCHAR;
+ADD COLUMN toilet_category VARCHAR,
+ADD COLUMN containment_category VARCHAR;
 
 ## Application Table
 
@@ -109,15 +111,12 @@ ALTER TABLE IF EXISTS fsm.supervisory_assessments
 
 ---
 
-
-
 CREATE SEQUENCE IF NOT EXISTS fsm.supervisory_assessments_id_seq
     INCREMENT 1
     START 1
     MINVALUE 1
     MAXVALUE 2147483647
     CACHE 1
-
 
 ALTER SEQUENCE fsm.supervisory_assessments_id_seq
     OWNER TO postgres;
