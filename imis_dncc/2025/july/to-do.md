@@ -413,50 +413,53 @@
 | 1 | Meeting with maharshi daiii | ✅      |
 | 2 | New changes lists           |         |
 | 3 | Button in cambodia          |         |
+| 4 | Create sequence issue fixes |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                    | Hour | Issues |
-| :-: | :-------------------------- | :--- | ------ |
-| 1 | Meeting with maharshi daiii | 1.30 |        |
-| 2 | New chnages lists           |      |        |
-| 3 |                             |      |        |
+| # | Activity                                                           | Hour | Issues |
+| :-: | :----------------------------------------------------------------- | :--- | ------ |
+| 1 | Meeting with maharshi daiii                                        | 1.30 |        |
+| 2 | New chnages lists                                                  | 2    |        |
+| 3 | Mobile requirements handover + doc fixes to rajan dai + git setup | 30   |        |
+| 4 | Bug fixes of create sequence                                       | 1    |        |
+| 5 | Assising jenish codes                                              | 1    |        |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 24, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                                                              | Done ✅               |
+| :-: | :---------------------------------------------------------------- | :-------------------- |
+| 1 | Cambodia geoserver                                                |                       |
+| 2 | Dncc works:<br />sidebar image , building  service provider work | Building work<br />✅ |
+| 3 |                                                                   |                       |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                                                               | Hour |
+| :-: | :------------------------------------------------------------------------------------- | :--- |
+| 1 | Building form changes for create + backend fixes + save logic fixes + database changes | 6    |
+| 2 |                                                                                        |      |
+| 3 |                                                                                        |      |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 25, 2025 (Friday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                          | Done ✅ |
+| :-: | :---------------------------- | :------ |
+| 1 | Multi trip meeting - maahrshi |         |
+| 2 | Sidebar + service changes     |         |
+| 3 | Multi trip impact analysis    |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                      | Hour |
+| :-: | :---------------------------- | :--- |
+| 1 | Multi trip meeting - maahrshi | 30   |
+| 2 |                               |      |
+| 3 |                               |      |
 
 ## 📓 July 8, 2025 (Tuesday)
 
