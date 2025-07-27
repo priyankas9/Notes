@@ -377,11 +377,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                                                   | Hour |
-| :-: | :------------------------------------------------------------------------- | :--- |
-| 1 | Fixed he issue of dynamoc field not woking and buttons not working in dncc | 3    |
-| 2 | Service Provider edit -> document upload fixes                             | 1.30 |
-| 3 | Category in building form for toilect connection added                     | 1.30 |
+| # | Activity                                                                    | Hour |
+| :-: | :-------------------------------------------------------------------------- | :--- |
+| 1 | Fixed the issue of dynamoc field not woking and buttons not working in dncc | 3    |
+| 2 | Service Provider edit -> document upload fixes                              | 1.30 |
+| 3 | Category in building form for toilect connection added                      | 1.30 |
 
 ## 📓 July 22, 2025 (Tuesday)
 
@@ -461,15 +461,15 @@
 | 2 |                               |      |
 | 3 |                               |      |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 27, 2025 (Sunday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                        | Done ✅ |
+| :-: | :-------------------------- | :------ |
+| 1 | service provider view       |         |
+| 2 | Multi trip impact analysis  |         |
+| 3 | New db fixes and qa testing |         |
 
 ### ✅ Done Activities Log
 
