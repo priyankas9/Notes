@@ -473,29 +473,33 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                      | Hour |
+| :-: | :-------------------------------------------- | :--- |
+| 1 | Dncc setup for final db - testing             | 1    |
+| 2 | Dncc service provider show fixes              | 1    |
+| 3 | Assisted jenish for smis building survey form | 1.30 |
+| 4 | Bug fixes : dncc new datatbse issue           | 5.30 |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 28, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                         | Done ✅ |
+| :-: | :--------------------------- | :------ |
+| 1 | Dncc api finish              |         |
+| 2 | Cambodia map                 |         |
+| 3 | Meeting maharshi dai for pdf |         |
+| 4 | postgres function            |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                         | Hour |
+| :-: | :------------------------------- | :--- |
+| 1 | Cambodia map                     | 1.30 |
+| 2 | Discussion with maarshi dai      | 30   |
+| 3 | Dncc db issue fixes              | 1    |
+| 4 | Pgadmin fucntion fr category     | 2    |
+| 3 | Meeting with mahrshi dai for pdf | 1    |
 
 ## 📓 July 8, 2025 (Tuesday)
 
