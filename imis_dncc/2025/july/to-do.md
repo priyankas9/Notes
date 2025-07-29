@@ -487,9 +487,9 @@
 | # | Task                         | Done ✅ |
 | :-: | :--------------------------- | :------ |
 | 1 | Dncc api finish              |         |
-| 2 | Cambodia map                 |         |
+| 2 | Cambodia map                 | ✅      |
 | 3 | Meeting maharshi dai for pdf |         |
-| 4 | postgres function            |         |
+| 4 | postgres function            | ✅      |
 
 ### ✅ Done Activities Log
 
@@ -501,15 +501,17 @@
 | 4 | Pgadmin fucntion fr category     | 2    |
 | 3 | Meeting with mahrshi dai for pdf | 1    |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 29, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task                  | Done ✅ |
+| :-: | :-------------------- | :------ |
+| 1 | Worklog               |         |
+| 2 | DNCC error fixes      |         |
+| 3 | DNCC category fixes   |         |
+| 4 | DNCC pdf requirements |         |
+| 5 | Api fixes             |         |
 
 ### ✅ Done Activities Log
 
