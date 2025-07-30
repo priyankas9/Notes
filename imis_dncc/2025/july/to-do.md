@@ -508,28 +508,31 @@
 | # | Task                  | Done ✅ |
 | :-: | :-------------------- | :------ |
 | 1 | Worklog               |         |
-| 2 | DNCC error fixes      |         |
+| 2 | DNCC error fixes      | ✅      |
 | 3 | DNCC category fixes   |         |
 | 4 | DNCC pdf requirements |         |
 | 5 | Api fixes             |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                       | Hour | Issues                             |
+| :-: | :--------------------------------------------- | :--- | ---------------------------------- |
+| 1 | DNCC error fixes                               | 2    | The issue was mismatch of brackets |
+| 2 | Opitimizing desludging schedulue code          | 1    |                                    |
+| 3 | Smis new geo server                            | 30   |                                    |
+| 4 | Assisted jenish with smis building survey form | 1    |                                    |
+| 5 | Service provider roatae fucntion               | 2.30 |                                    |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 30, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task              | Done ✅ |
+| :-: | :---------------- | :------ |
+| 1 | Building Category |         |
+| 2 | Api               |         |
+| 3 | Worklog           |         |
+| 4 | Other works       |         |
 
 ### ✅ Done Activities Log
 
