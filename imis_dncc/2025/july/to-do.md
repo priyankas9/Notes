@@ -554,11 +554,12 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                    | Hour |
+| :-: | :------------------------------------------ | :--- |
+| 1 | Flatpickr issue fixed                       | 1.30 |
+| 2 | Work Review with Maharshi dai for imis-dncc | 30   |
+| 3 | Api changes                                 | 2    |
+| 4 | Error bugs                                  | 2    |
 
 ## 📓 July 8, 2025 (Tuesday)
 
