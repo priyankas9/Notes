@@ -529,28 +529,28 @@
 
 | # | Task              | Done ✅ |
 | :-: | :---------------- | :------ |
-| 1 | Building Category |         |
+| 1 | Building Category | ✅      |
 | 2 | Api               |         |
 | 3 | Worklog           |         |
-| 4 | Other works       |         |
+| 4 | Other works       | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| :-: | :------- | :--- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                         | Hour |
+| :-: | :----------------------------------------------- | :--- |
+| 1 | Building category fixes + countbox               | 4    |
+| 2 | Minor chnages in code : index blades + bug fixes | 1    |
+| 3 | Api chnages                                      | 1    |
 
-## 📓 July 8, 2025 (Tuesday)
+## 📓 July 31, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task | Hour | Done ✅ |
-| :-: | :--- | :--- | :------ |
-| 1 |      |      |         |
-| 2 |      |      |         |
-| 3 |      |      |         |
+| # | Task        | Done ✅ |
+| :-: | :---------- | :------ |
+| 1 | Api Changes |         |
+| 2 | Bug fixes   |         |
+| 3 |             |         |
 
 ### ✅ Done Activities Log
 
