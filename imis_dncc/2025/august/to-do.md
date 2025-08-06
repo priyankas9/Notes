@@ -44,17 +44,17 @@
 
 | # | Task                             | Done ✅ |
 | - | -------------------------------- | ------- |
-| 1 | Api post emptying                |         |
-| 2 | Supervisory Assesssment pre-fill |         |
+| 1 | Api post emptying                | ✅      |
+| 2 | Supervisory Assesssment pre-fill | ✅      |
 | 3 | Api -> multilingual handle       |         |
 
-### ✅ Done Activities Log
+* [ ] ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                       | Hour |
+| - | ------------------------------ | ---- |
+| 1 | Api fixes + emptying new made  | 4    |
+| 2 | Supervisory Assessment prefill | 2    |
+| 3 |                                |      |
 
 ---
 
@@ -62,19 +62,19 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                 | Done ✅ |
+| - | -------------------- | ------- |
+| 1 | Multilingual Mapping | ✅      |
+| 2 | Jira error fixes     |         |
+| 3 | WORKKKKKKLOGGGG      |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                  | Hour |
+| - | ----------------------------------------- | ---- |
+| 1 | Multilingual Mapping                      | 4    |
+| 2 | Github repo fixes                         | 1    |
+| 3 | Api fixes + meeting with mobile developer | 1    |
 
 ---
 
@@ -82,19 +82,19 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                    | Done ✅ |
+| - | ----------------------- | ------- |
+| 1 | Api                     |         |
+| 2 | Github code base fixes |         |
+| 3 | Error log               |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                             | Hour |
+| - | ------------------------------------ | ---- |
+| 1 | github fixes + project fixes + setup | 3    |
+| 2 |                                      |      |
+| 3 |                                      |      |
 
 ---
 
@@ -130,11 +130,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour   |
-| - | -------- | ------ |
-| 1 |          |        |
-| 2 |          |        |
-| 3 |          | <br /> |
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
 
 ## 📓 August 1, 2025 (Friday)
 
