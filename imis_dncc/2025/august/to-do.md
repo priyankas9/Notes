@@ -93,7 +93,7 @@
 | # | Activity                             | Hour |
 | - | ------------------------------------ | ---- |
 | 1 | github fixes + project fixes + setup | 3    |
-| 2 |                                      |      |
+| 2 | Code fixes                           | 3    |
 | 3 |                                      |      |
 
 ---
@@ -102,11 +102,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task       | Done ✅ |
+| - | ---------- | ------- |
+| 1 | code fixes |         |
+| 2 | Worklog    |         |
+| 3 |            |         |
 
 ### ✅ Done Activities Log
 
