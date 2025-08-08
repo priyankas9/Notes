@@ -104,17 +104,17 @@
 
 | # | Task       | Done ✅ |
 | - | ---------- | ------- |
-| 1 | code fixes |         |
+| 1 | code fixes | ✅      |
 | 2 | Worklog    |         |
 | 3 |            |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                                      | Hour |
+| - | ------------------------------------------------------------- | ---- |
+| 1 | bug fixes                                                     | 5.30 |
+| 2 | Meeting with maahrshi dai for new feature append in imis-dncc | 30   |
+| 3 |                                                               |      |
 
 ---
 
@@ -122,11 +122,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                             | Done ✅ |
+| - | -------------------------------- | ------- |
+| 1 | Bug Fixes                        |         |
+| 2 | Service provider sequence        |         |
+| 3 | Notification + notice geenration |         |
 
 ### ✅ Done Activities Log
 
