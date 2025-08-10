@@ -130,29 +130,29 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                         | Hour |
+| - | ------------------------------------------------ | ---- |
+| 1 | Chnage map doc for mobile app                    | 30   |
+| 2 | Notification code starting + discuss with suprit | 30   |
+| 3 | Bug fixes :<br />Api                             | 1    |
 
-## 📓 August 1, 2025 (Friday)
+## 📓 August 10, 2025 (Sunday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task      | Done ✅ |
+| - | --------- | ------- |
+| 1 | Bug fixes |         |
+| 2 |           |         |
+| 3 |           |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity   | Hour |
+| - | ---------- | ---- |
+| 1 | Bug fixing | 3    |
+| 2 |            |      |
+| 3 |            |      |
 
 ---
 
