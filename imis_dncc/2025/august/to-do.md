@@ -156,15 +156,15 @@
 
 ---
 
-## 📓 August 3, 2025 (Sunday)
+## 📓 August 11, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task               | Done ✅ |
+| - | ------------------ | ------- |
+| 1 | Api image + footer |         |
+| 2 | Notice             |         |
+| 3 | Notification       |         |
 
 ### ✅ Done Activities Log
 
