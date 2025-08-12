@@ -168,23 +168,23 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity           | Hour |
+| - | ------------------ | ---- |
+| 1 | Api image          | 30   |
+| 2 | Notice : db + code | 3    |
+| 3 | 3Notification      | 2    |
 
 ---
 
-## 📓 August 4, 2025 (Monday)
+## 📓 August 12, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task         | Done ✅ |
+| - | ------------ | ------- |
+| 1 | Notification |         |
+| 2 | Notice       |         |
+| 3 | Bug Fixes    |         |
 
 ### ✅ Done Activities Log
 
