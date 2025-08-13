@@ -182,29 +182,29 @@
 
 | # | Task         | Done ✅ |
 | - | ------------ | ------- |
-| 1 | Notification |         |
-| 2 | Notice       |         |
+| 1 | Notification | ✅      |
+| 2 | Notice       | ✅      |
 | 3 | Bug Fixes    |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity            | Hour |
+| - | ------------------- | ---- |
+| 1 | Notification        | 2    |
+| 2 | Resaerch onesingle  | 1    |
+| 3 | Notice + discussion | 3    |
 
 ---
 
-## 📓 August 5, 2025 (Tuesday)
+## 📓 August 13, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                          | Done ✅ |
+| - | ----------------------------- | ------- |
+| 1 | Notice review + fixes         |         |
+| 2 | Notification for mobile app ? |         |
+| 3 |                               |         |
 
 ### ✅ Done Activities Log
 
