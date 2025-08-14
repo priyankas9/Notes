@@ -188,11 +188,12 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity            | Hour |
-| - | ------------------- | ---- |
-| 1 | Notification        | 2    |
-| 2 | Resaerch onesingle  | 1    |
-| 3 | Notice + discussion | 3    |
+| # | Activity                        | Hour |
+| - | ------------------------------- | ---- |
+| 1 | Notification                    | 2    |
+| 2 | Resaerch onesingle              | 1    |
+| 3 | Notice + discussion             | 3    |
+| 4 | Meeting with busan sir and team | 1    |
 
 ---
 
@@ -202,29 +203,29 @@
 
 | # | Task                          | Done ✅ |
 | - | ----------------------------- | ------- |
-| 1 | Notice review + fixes         |         |
+| 1 | Notice review + fixes         | ✅      |
 | 2 | Notification for mobile app ? |         |
 | 3 |                               |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                | Hour |
+| - | ----------------------- | ---- |
+| 1 | Notice changes + review | 6    |
+| 2 |                         |      |
+| 3 |                         |      |
 
 ---
 
-## 📓 August 6, 2025 (Wednesday)
+## 📓 August 14, 2025 (THursday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                | Done ✅ |
+| - | ------------------- | ------- |
+| 1 | Notice -> pdf fixes |         |
+| 2 | Bug fixes -> api    |         |
+| 3 |                     |         |
 
 ### ✅ Done Activities Log
 
