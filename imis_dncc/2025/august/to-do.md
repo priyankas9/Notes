@@ -224,28 +224,28 @@
 | # | Task                | Done ✅ |
 | - | ------------------- | ------- |
 | 1 | Notice -> pdf fixes |         |
-| 2 | Bug fixes -> api    |         |
+| 2 | Bug fixes -> api    | ✅      |
 | 3 |                     |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                           | Hour |
+| - | ---------------------------------- | ---- |
+| 1 | Api fixes + meeting with moble dev | 1    |
+| 2 | Notice -> pdf fixes                | 5    |
+| 3 |                                    |      |
 
 ---
 
-## 📓 August 7, 2025 (Thursday)
+## 📓 August 15, 2025 (Friday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task               | Done ✅ |
+| - | ------------------ | ------- |
+| 1 | WORKLOG            |         |
+| 2 | Notice Generation  |         |
+| 3 | Roles & permission |         |
 
 ### ✅ Done Activities Log
 
