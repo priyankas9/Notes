@@ -229,11 +229,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                           | Hour |
-| - | ---------------------------------- | ---- |
-| 1 | Api fixes + meeting with moble dev | 1    |
-| 2 | Notice -> pdf fixes                | 5    |
-| 3 |                                    |      |
+| # | Activity                                | Hour |
+| - | --------------------------------------- | ---- |
+| 1 | Api fixes + meeting with moble dev      | 1    |
+| 2 | Notice -> pdf fixes                     | 4    |
+| 3 | Assisted henish for his aplicatipn form | 1    |
 
 ---
 
@@ -249,23 +249,23 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity          | Hour |
+| - | ----------------- | ---- |
+| 1 | Notice Generation | 6    |
+| 2 |                   |      |
+| 3 |                   |      |
 
 ---
 
-## 📓 August 8, 2025 (Friday)
+## 📓 August 17, 2025 (Sunday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                 | Done ✅ |
+| - | -------------------- | ------- |
+| 1 | Roles and permission |         |
+| 2 | Notice all over      |         |
+| 3 | Bug Fixes            |         |
 
 ### ✅ Done Activities Log
 
