@@ -261,11 +261,36 @@
 
 ### 📝 To-Do List
 
-| # | Task                 | Done ✅ |
-| - | -------------------- | ------- |
-| 1 | Roles and permission |         |
-| 2 | Notice all over      |         |
-| 3 | Bug Fixes            |         |
+| # | Task                     | Done ✅ |
+| - | ------------------------ | ------- |
+| 1 | Roles and permission     |         |
+| 2 | Notice all over (almost) | ✅      |
+| 3 | Bug Fixes                |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                     | Hour   |
+| - | ---------------------------- | ------ |
+| 1 | Meeting with kabin           | 30     |
+| 2 | Notice genration + bug fixes | 5.30   |
+| 3 |                              | <br /> |
+
+
+---
+
+
+
+## 📓 August 18, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task                  | Done ✅ |
+| - | --------------------- | ------- |
+| 1 | Roles and permisson   |         |
+| 2 | Notice                |         |
+| 3 | Bug Fixes             |         |
+| 4 | Application datatable |         |
+| 5 | Code push notice      |         |
 
 ### ✅ Done Activities Log
 
@@ -274,3 +299,84 @@
 | 1 |          |      |
 | 2 |          |      |
 | 3 |          |      |
+
+---
+
+## 📓 August 12, 2025 (Tuesday)
+
+### 📝 To-Do List
+
+| # | Task         | Done ✅ |
+| - | ------------ | ------- |
+| 1 | Notification | ✅      |
+| 2 | Notice       | ✅      |
+| 3 | Bug Fixes    |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                        | Hour |
+| - | ------------------------------- | ---- |
+| 1 | Notification                    | 2    |
+| 2 | Resaerch onesingle              | 1    |
+| 3 | Notice + discussion             | 3    |
+| 4 | Meeting with busan sir and team | 1    |
+
+---
+
+## 📓 August 13, 2025 (Wednesday)
+
+### 📝 To-Do List
+
+| # | Task                          | Done ✅ |
+| - | ----------------------------- | ------- |
+| 1 | Notice review + fixes         | ✅      |
+| 2 | Notification for mobile app ? |         |
+| 3 |                               |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                | Hour |
+| - | ----------------------- | ---- |
+| 1 | Notice changes + review | 6    |
+| 2 |                         |      |
+| 3 |                         |      |
+
+---
+
+## 📓 August 14, 2025 (THursday)
+
+### 📝 To-Do List
+
+| # | Task                | Done ✅ |
+| - | ------------------- | ------- |
+| 1 | Notice -> pdf fixes |         |
+| 2 | Bug fixes -> api    | ✅      |
+| 3 |                     |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                                | Hour |
+| - | --------------------------------------- | ---- |
+| 1 | Api fixes + meeting with moble dev      | 1    |
+| 2 | Notice -> pdf fixes                     | 4    |
+| 3 | Assisted henish for his aplicatipn form | 1    |
+
+---
+
+## 📓 August 15, 2025 (Friday)
+
+### 📝 To-Do List
+
+| # | Task               | Done ✅ |
+| - | ------------------ | ------- |
+| 1 | WORKLOG            |         |
+| 2 | Notice Generation  |         |
+| 3 | Roles & permission |         |
+
+### ✅ Done Activities Log
+
+| # | Activity          | Hour |
+| - | ----------------- | ---- |
+| 1 | Notice Generation | 6    |
+| 2 |                   |      |
+| 3 |                   |      |
