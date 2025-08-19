@@ -269,16 +269,13 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                     | Hour   |
-| - | ---------------------------- | ------ |
-| 1 | Meeting with kabin           | 30     |
-| 2 | Notice genration + bug fixes | 5.30   |
-| 3 |                              | <br /> |
-
+| # | Activity                     | Hour |
+| - | ---------------------------- | ---- |
+| 1 | Meeting with kabin           | 30   |
+| 2 | Notice genration + bug fixes | 5.30 |
+| 3 |                              |      |
 
 ---
-
-
 
 ## 📓 August 18, 2025 (Monday)
 
@@ -286,40 +283,42 @@
 
 | # | Task                  | Done ✅ |
 | - | --------------------- | ------- |
-| 1 | Roles and permisson   |         |
-| 2 | Notice                |         |
-| 3 | Bug Fixes             |         |
+| 1 | Roles and permisson   | ✅      |
+| 2 | Notice                | ✅      |
+| 3 | Bug Fixes             | ✅      |
 | 4 | Application datatable |         |
-| 5 | Code push notice      |         |
+| 5 | Code push notice      | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                          | Hour |
+| - | ------------------------------------------------- | ---- |
+| 1 | Roles and permission matrix skeleton              | 1    |
+| 2 | Application + supervisory error fixes             | 2    |
+| 3 | Notice genrations setup in live                   | 1.30 |
+| 4 | Meeting with mahrshi dai for roles and permission | 30   |
+| 5 | Notification further chnages                      | 1    |
 
 ---
 
-## 📓 August 12, 2025 (Tuesday)
+## 📓 August 19, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task         | Done ✅ |
-| - | ------------ | ------- |
-| 1 | Notification | ✅      |
-| 2 | Notice       | ✅      |
-| 3 | Bug Fixes    |         |
+| # | Task                     | Done ✅ |
+| - | ------------------------ | ------- |
+| 1 | Role and permission      | ✅      |
+| 2 | Notice - new module + qr |         |
+| 3 | Bug Fixes (buildings)    | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity                        | Hour |
-| - | ------------------------------- | ---- |
-| 1 | Notification                    | 2    |
-| 2 | Resaerch onesingle              | 1    |
-| 3 | Notice + discussion             | 3    |
-| 4 | Meeting with busan sir and team | 1    |
+| # | Activity            | Hour |
+| - | ------------------- | ---- |
+| 1 | Bug Fixes           | 2    |
+| 2 | Role and permission | 2    |
+| 3 | Notice + discussion | 2    |
+| 4 |                     |      |
 
 ---
 
