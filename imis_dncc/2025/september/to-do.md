@@ -49,8 +49,6 @@
 
 ---
 
-
-
 ## 📓 September 3, 2025 (Wednesday)
 
 ### 📝 To-Do List
@@ -61,6 +59,54 @@
 | 2 | supervisory asessment filter and csv part |         |
 | 3 | notification pop up and then read fixes   |         |
 | 4 | Bug fixes : notice part                   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                  | Hour |
+| - | ------------------------- | ---- |
+| 1 | Bug fixes                 | 3    |
+| 2 | Roles & permisssion fixes | 3    |
+| 3 |                           |      |
+
+### Dncc Requirements
+
+| To-do | Description | Status |
+| ----- | ----------- | ------ |
+|       |             |        |
+
+---
+
+## 📓 September 4, 2025 (Thursday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part              |         |
+| 2 | supervisory asessment filter and csv part |         |
+| 3 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
+
+### Dncc Requirements
+
+---
+
+## 📓 September 1, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part              |         |
+| 2 | supervisory asessment filter and csv part |         |
+| 3 | notification pop up and then read fixes   |         |
 
 ### ✅ Done Activities Log
 
@@ -97,11 +143,144 @@
 | 2 | jira bug fixes : notice, buildings,containments | 5    |
 | 3 |                                                 |      |
 
+---
+
+## 📓 September 1, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part              |         |
+| 2 | supervisory asessment filter and csv part |         |
+| 3 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
+
 ### Dncc Requirements
+
+| To-do | Description | Status |
+| ----- | ----------- | ------ |
+|       |             |        |
 
 ---
 
+## 📓 September 2, 2025 (Tuesday)
 
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Application date bug fixes                | ✅      |
+| 2 | Dncc generate pdf queue part              |         |
+| 3 | supervisory asessment filter and csv part |         |
+| 4 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                                        | Hour |
+| - | ----------------------------------------------- | ---- |
+| 1 | Application date bug fixes                      | 1    |
+| 2 | jira bug fixes : notice, buildings,containments | 5    |
+| 3 |                                                 |      |
+
+---
+
+## 📓 September 1, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part              |         |
+| 2 | supervisory asessment filter and csv part |         |
+| 3 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
+
+### Dncc Requirements
+
+| To-do | Description | Status |
+| ----- | ----------- | ------ |
+|       |             |        |
+
+---
+
+## 📓 September 2, 2025 (Tuesday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Application date bug fixes                | ✅      |
+| 2 | Dncc generate pdf queue part              |         |
+| 3 | supervisory asessment filter and csv part |         |
+| 4 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                                        | Hour |
+| - | ----------------------------------------------- | ---- |
+| 1 | Application date bug fixes                      | 1    |
+| 2 | jira bug fixes : notice, buildings,containments | 5    |
+| 3 |                                                 |      |
+
+## 📓 September 1, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part              |         |
+| 2 | supervisory asessment filter and csv part |         |
+| 3 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
+
+### Dncc Requirements
+
+| To-do | Description | Status |
+| ----- | ----------- | ------ |
+|       |             |        |
+
+---
+
+## 📓 September 2, 2025 (Tuesday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Application date bug fixes                | ✅      |
+| 2 | Dncc generate pdf queue part              |         |
+| 3 | supervisory asessment filter and csv part |         |
+| 4 | notification pop up and then read fixes   |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                                        | Hour |
+| - | ----------------------------------------------- | ---- |
+| 1 | Application date bug fixes                      | 1    |
+| 2 | jira bug fixes : notice, buildings,containments | 5    |
+| 3 |                                                 |      |
 
 ## 📓 September 1, 2025 (Monday)
 
