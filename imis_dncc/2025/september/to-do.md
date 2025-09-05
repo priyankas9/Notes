@@ -84,21 +84,21 @@
 | - | ----------------------------------------- | ------- |
 | 1 | Dncc generate pdf queue part              |         |
 | 2 | supervisory asessment filter and csv part |         |
-| 3 | notification pop up and then read fixes   |         |
+| 3 | notification pop up and then read fixes   | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity           | Hour |
+| - | ------------------ | ---- |
+| 1 | Notification fixes | 1    |
+| 2 | Emptying issue    | 1    |
+| 3 | Bug fixes          | 4    |
 
 ### Dncc Requirements
 
 ---
 
-## 📓 September 1, 2025 (Monday)
+## 📓 September 5, 2025 (Friday)
 
 ### 📝 To-Do List
 
@@ -106,7 +106,6 @@
 | - | ----------------------------------------- | ------- |
 | 1 | Dncc generate pdf queue part              |         |
 | 2 | supervisory asessment filter and csv part |         |
-| 3 | notification pop up and then read fixes   |         |
 
 ### ✅ Done Activities Log
 
