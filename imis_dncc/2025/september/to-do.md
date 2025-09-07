@@ -109,11 +109,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                            | Hour |
+| - | ----------------------------------- | ---- |
+| 1 | Assisted Jenish for cambodia footer | 1    |
+| 2 | Bug fixes                           | 5    |
+| 3 |                                     |      |
 
 ### Dncc Requirements
 
@@ -123,24 +123,23 @@
 
 ---
 
-## 📓 September 2, 2025 (Tuesday)
+## 📓 September 6, 2025 (Sunday)
 
 ### 📝 To-Do List
 
 | # | Task                                      | Done ✅ |
 | - | ----------------------------------------- | ------- |
-| 1 | Application date bug fixes                | ✅      |
-| 2 | Dncc generate pdf queue part              |         |
-| 3 | supervisory asessment filter and csv part |         |
-| 4 | notification pop up and then read fixes   |         |
+| 1 | Dncc generate pdf queue part              |         |
+| 2 | supervisory asessment filter and csv part |         |
+| 3 | Bug fixes                                 |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                                        | Hour |
-| - | ----------------------------------------------- | ---- |
-| 1 | Application date bug fixes                      | 1    |
-| 2 | jira bug fixes : notice, buildings,containments | 5    |
-| 3 |                                                 |      |
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
 
 ---
 
