@@ -123,7 +123,7 @@
 
 ---
 
-## 📓 September 6, 2025 (Sunday)
+## 📓 September 7, 2025 (Sunday)
 
 ### 📝 To-Do List
 
@@ -135,23 +135,23 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                   | Hour |
+| - | ------------------------------------------ | ---- |
+| 1 | Jira tckets review + bug fixes             | 5    |
+| 2 | Meeting with maharshi dai for imis-dncc    | 30   |
+| 3 | Assited jenish for cambodi bootstrap issue | 30   |
 
 ---
 
-## 📓 September 1, 2025 (Monday)
+## 📓 September 8, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Dncc generate pdf queue part              |         |
-| 2 | supervisory asessment filter and csv part |         |
-| 3 | notification pop up and then read fixes   |         |
+| # | Task                                         | Done ✅ |
+| - | -------------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part + zip pdf fixes |         |
+| 2 | supervisory asessment filter and csv part    |         |
+| 3 | bug fixes                                    |         |
 
 ### ✅ Done Activities Log
 
