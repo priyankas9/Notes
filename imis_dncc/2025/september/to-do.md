@@ -135,11 +135,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                   | Hour |
-| - | ------------------------------------------ | ---- |
-| 1 | Jira tckets review + bug fixes             | 5    |
-| 2 | Meeting with maharshi dai for imis-dncc    | 30   |
-| 3 | Assited jenish for cambodi bootstrap issue | 30   |
+| # | Activity                                    | Hour |
+| - | ------------------------------------------- | ---- |
+| 1 | Jira tckets review + bug fixes              | 5    |
+| 2 | Meeting with maharshi dai for imis-dncc     | 30   |
+| 3 | Assited jenish for cambodia bootstrap issue | 30   |
 
 ---
 
@@ -147,19 +147,20 @@
 
 ### 📝 To-Do List
 
-| # | Task                                         | Done ✅ |
-| - | -------------------------------------------- | ------- |
-| 1 | Dncc generate pdf queue part + zip pdf fixes |         |
-| 2 | supervisory asessment filter and csv part    |         |
-| 3 | bug fixes                                    |         |
+| # | Task                                         | Done ✅  |
+| - | -------------------------------------------- | -------- |
+| 1 | Dncc generate pdf queue part + zip pdf fixes |          |
+| 2 | supervisory asessment filter and csv part    | ✅ (csv) |
+| 3 | bug fixes                                    |          |
+| 4 | Application flush out                        |          |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                       | Hour |
+| - | ---------------------------------------------- | ---- |
+| 1 | Supervisory Assessment CSV part fixes + filter | 4    |
+| 2 |                                                |      |
+| 3 |                                                |      |
 
 ### Dncc Requirements
 
@@ -169,24 +170,22 @@
 
 ---
 
-## 📓 September 2, 2025 (Tuesday)
+## 📓 September 10, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Application date bug fixes                | ✅      |
-| 2 | Dncc generate pdf queue part              |         |
-| 3 | supervisory asessment filter and csv part |         |
-| 4 | notification pop up and then read fixes   |         |
+| # | Task                                | Done ✅ |
+| - | ----------------------------------- | ------- |
+| 2 | Dncc generate pdf queue part        |         |
+| 3 | supervisory asessment filter  part |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                                        | Hour |
-| - | ----------------------------------------------- | ---- |
-| 1 | Application date bug fixes                      | 1    |
-| 2 | jira bug fixes : notice, buildings,containments | 5    |
-| 3 |                                                 |      |
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
 
 ---
 
