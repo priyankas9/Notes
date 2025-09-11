@@ -181,23 +181,21 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                  | Hour |
+| - | ----------------------------------------- | ---- |
+| 1 | Supervisory assessment csv + filter fixes | 2    |
+| 2 | Notice preview qr fixes                   | 1    |
+| 3 |                                           |      |
 
 ---
 
-## 📓 September 1, 2025 (Monday)
+## 📓 September 11, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Dncc generate pdf queue part              |         |
-| 2 | supervisory asessment filter and csv part |         |
-| 3 | notification pop up and then read fixes   |         |
+| # | Task                         | Done ✅ |
+| - | ---------------------------- | ------- |
+| 1 | Dncc generate pdf queue part |         |
 
 ### ✅ Done Activities Log
 
