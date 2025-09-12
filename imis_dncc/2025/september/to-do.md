@@ -199,11 +199,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                       | Hour |
+| - | ---------------------------------------------- | ---- |
+| 1 | Filter generate notice category dropdown fixes | 1    |
+| 2 |                                                |      |
+| 3 |                                                |      |
 
 ### Dncc Requirements
 
@@ -213,24 +213,23 @@
 
 ---
 
-## 📓 September 2, 2025 (Tuesday)
+## 📓 September 12, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Application date bug fixes                | ✅      |
-| 2 | Dncc generate pdf queue part              |         |
-| 3 | supervisory asessment filter and csv part |         |
-| 4 | notification pop up and then read fixes   |         |
+| # | Task                         | Done ✅ |
+| - | ---------------------------- | ------- |
+| 2 | Dncc generate pdf queue part |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                                        | Hour |
-| - | ----------------------------------------------- | ---- |
-| 1 | Application date bug fixes                      | 1    |
-| 2 | jira bug fixes : notice, buildings,containments | 5    |
-| 3 |                                                 |      |
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
+| 2 |          |      |
+| 3 |          |      |
+
+---
 
 ## 📓 September 1, 2025 (Monday)
 
