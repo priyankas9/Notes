@@ -213,7 +213,7 @@
 
 ---
 
-## 📓 September 12, 2025 (Tuesday)
+## 📓 September 12, 2025 (Friday)
 
 ### 📝 To-Do List
 
@@ -223,23 +223,22 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                      | Hour |
+| - | --------------------------------------------- | ---- |
+| 1 | Research queue                                | 2    |
+| 2 | Application +schedule bug fixes date flapickr | 3    |
+| 3 |                                               |      |
 
 ---
 
-## 📓 September 1, 2025 (Monday)
+## 📓 September 13, 2025 (Sunday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Dncc generate pdf queue part              |         |
-| 2 | supervisory asessment filter and csv part |         |
-| 3 | notification pop up and then read fixes   |         |
+| # | Task                         | Done ✅ |
+| - | ---------------------------- | ------- |
+| 1 | Dncc generate pdf queue part |         |
+|   |                              |         |
 
 ### ✅ Done Activities Log
 
@@ -248,8 +247,6 @@
 | 1 |          |      |
 | 2 |          |      |
 | 3 |          |      |
-
-### Dncc Requirements
 
 | To-do | Description | Status |
 | ----- | ----------- | ------ |
