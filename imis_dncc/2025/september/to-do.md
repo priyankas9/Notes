@@ -231,22 +231,22 @@
 
 ---
 
-## 📓 September 13, 2025 (Sunday)
+## 📓 September 14, 2025 (Sunday)
 
 ### 📝 To-Do List
 
 | # | Task                         | Done ✅ |
 | - | ---------------------------- | ------- |
-| 1 | Dncc generate pdf queue part |         |
+| 1 | Dncc generate pdf queue part | ✅      |
 |   |                              |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                     | Hour |
+| - | ---------------------------- | ---- |
+| 1 | Dncc pdf (research + code ) | 6    |
+| 2 |                              |      |
+| 3 |                              |      |
 
 | To-do | Description | Status |
 | ----- | ----------- | ------ |
@@ -254,24 +254,21 @@
 
 ---
 
-## 📓 September 2, 2025 (Tuesday)
+## 📓 September 15, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Application date bug fixes                | ✅      |
-| 2 | Dncc generate pdf queue part              |         |
-| 3 | supervisory asessment filter and csv part |         |
-| 4 | notification pop up and then read fixes   |         |
+| # | Task      | Done ✅ |
+| - | --------- | ------- |
+| 1 | Bug Fixes |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                                        | Hour |
-| - | ----------------------------------------------- | ---- |
-| 1 | Application date bug fixes                      | 1    |
-| 2 | jira bug fixes : notice, buildings,containments | 5    |
-| 3 |                                                 |      |
+| # | Activity  | Hour |
+| - | --------- | ---- |
+| 1 | Bug fixes | 1    |
+| 2 | Stand up  | 20   |
+| 3 |           |      |
 
 ## 📓 September 1, 2025 (Monday)
 
