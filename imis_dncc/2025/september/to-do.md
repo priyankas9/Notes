@@ -264,21 +264,22 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity  | Hour |
-| - | --------- | ---- |
-| 1 | Bug fixes | 1    |
-| 2 | Stand up  | 20   |
-| 3 |           |      |
+| # | Activity                                                                | Hour |
+| - | ----------------------------------------------------------------------- | ---- |
+| 1 | Bug fixes<br />- notce module <br />- multilingual <br />- mobile app | 5.30 |
+| 2 | Stand up                                                                | 30   |
+| 3 |                                                                         |      |
 
-## 📓 September 1, 2025 (Monday)
+---
+
+## 📓 September 16, 2025 (Tuesday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Dncc generate pdf queue part              |         |
-| 2 | supervisory asessment filter and csv part |         |
-| 3 | notification pop up and then read fixes   |         |
+| # | Task                                                                                                 | Done ✅ |
+| - | ---------------------------------------------------------------------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part code clean up                                                           |         |
+| 2 | bug fixes<br /> - notice <br />- map <br />- supervisory assesment module <br />- multi lngual  |         |
 
 ### ✅ Done Activities Log
 
@@ -287,12 +288,6 @@
 | 1 |          |      |
 | 2 |          |      |
 | 3 |          |      |
-
-### Dncc Requirements
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
