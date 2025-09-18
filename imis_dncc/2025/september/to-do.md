@@ -276,36 +276,33 @@
 
 ### 📝 To-Do List
 
-| # | Task                                                                                                 | Done ✅ |
-| - | ---------------------------------------------------------------------------------------------------- | ------- |
-| 1 | Dncc generate pdf queue part code clean up                                                           |         |
-| 2 | bug fixes<br /> - notice <br />- map <br />- supervisory assesment module <br />- multi lngual  |         |
+| # | Task                                                                                                        | Done ✅ |
+| - | ----------------------------------------------------------------------------------------------------------- | ------- |
+| 1 | Dncc generate pdf queue part code clean up                                                                  |         |
+| 2 | bug fixes<br /> - notice   ✅<br />- map <br />- supervisory assesment module ✅<br />- multi lngual  |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
+| # | Activity                                             | Hour |
+| - | ---------------------------------------------------- | ---- |
+| 1 | Code steup for notice pdf                            | 3    |
+| 2 | Bug fixes : notice and supervisory assessment module | 3    |
+| 3 |                                                      |      |
 
 ---
 
-## 📓 September 2, 2025 (Tuesday)
+## 📓 September 18, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Application date bug fixes                | ✅      |
-| 2 | Dncc generate pdf queue part              |         |
-| 3 | supervisory asessment filter and csv part |         |
-| 4 | notification pop up and then read fixes   |         |
+| # | Task      | Done ✅ |
+| - | --------- | ------- |
+| 1 | bug fixes |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                                        | Hour |
-| - | ----------------------------------------------- | ---- |
-| 1 | Application date bug fixes                      | 1    |
-| 2 | jira bug fixes : notice, buildings,containments | 5    |
-| 3 |                                                 |      |
+| # | Activity                     | Hour |
+| - | ---------------------------- | ---- |
+| 1 | Language switching bug fixes | 2    |
+| 2 | jira bug fixes               | 4    |
+| 3 |                              |      |
