@@ -304,5 +304,22 @@
 | # | Activity                     | Hour |
 | - | ---------------------------- | ---- |
 | 1 | Language switching bug fixes | 2    |
-| 2 | jira bug fixes               | 4    |
-| 3 |                              |      |
+| 2 | jira bug fixes               | 3    |
+| 3 | meeting                      | 1    |
+
+
+---
+
+## 📓 September 19, 2025 (Friday)
+
+### 📝 To-Do List
+
+| # | Task      | Done ✅ |
+| - | --------- | ------- |
+| 1 | bug fixes |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
