@@ -337,12 +337,17 @@
 
 | # | Task                         | Done ✅ |
 | - | ---------------------------- | ------- |
-| 1 | bug fixes : MULTILINGUAL (H) |         |
+| 1 | bug fixes : MULTILINGUAL (H) | ✅      |
 | 2 | jira tickets                 |         |
-| 3 | Meeting minute               |         |
+| 3 | Meeting minute               | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                         | Hour |
+| - | -------------------------------- | ---- |
+| 1 | Fxed smis cambodia's login form  | 1.20 |
+| 2 | Stand up                         | 10   |
+| 3 | requirement doc + meeting minute | 1    |
+| 4 | Translation : english uploaded   | 1    |
+| 5 | Mobile app requirement doc       | 30   |
+| 4 | English word new mapping         | 2    |
