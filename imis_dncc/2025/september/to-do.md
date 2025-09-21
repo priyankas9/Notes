@@ -307,7 +307,6 @@
 | 2 | jira bug fixes               | 3    |
 | 3 | meeting                      | 1    |
 
-
 ---
 
 ## 📓 September 19, 2025 (Friday)
@@ -317,6 +316,30 @@
 | # | Task      | Done ✅ |
 | - | --------- | ------- |
 | 1 | bug fixes |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                                    | Hour    |
+| - | ------------------------------------------- | ------- |
+| 1 | Jira fixes -> application , multilingual    | 1.20    |
+| 2 | Stand up                                    | 10 min  |
+| 3 | Meeting with maahrshi dai and dncc team     | 1.30    |
+| 4 | assissted jenish with smis form + loin page | 3<br /> |
+
+
+---
+
+
+
+## September 21, 2025 (Sunday)
+
+### 📝 To-Do List
+
+| # | Task                         | Done ✅ |
+| - | ---------------------------- | ------- |
+| 1 | bug fixes : MULTILINGUAL (H) |         |
+| 2 | jira tickets                 |         |
+| 3 | Meeting minute               |         |
 
 ### ✅ Done Activities Log
 
