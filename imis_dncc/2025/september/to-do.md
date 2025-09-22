@@ -349,10 +349,7 @@
 | 5 | Mobile app requirement doc       | 30   |
 | 4 | English word new mapping         | 2    |
 
-
 ---
-
-
 
 ## September 22, 2025 (Monday)
 
@@ -366,6 +363,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-|   |          |      |
+| # | Activity                                              | Hour |
+| - | ----------------------------------------------------- | ---- |
+| 1 | Jira tickets bug fixes : building form validation     | 1    |
+| 2 | Stand up                                              | 10   |
+| 3 | Jira ticket : supervisory assessment date issue fixes | 20   |
+| 4 | Meeting with maharshi                                 | 30   |
+| 5 | Meetng minute and jira task lodge                     | 1    |
