@@ -319,17 +319,14 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                    | Hour    |
-| - | ------------------------------------------- | ------- |
-| 1 | Jira fixes -> application , multilingual    | 1.20    |
-| 2 | Stand up                                    | 10 min  |
-| 3 | Meeting with maahrshi dai and dncc team     | 1.30    |
-| 4 | assissted jenish with smis form + loin page | 3<br /> |
-
+| # | Activity                                    | Hour   |
+| - | ------------------------------------------- | ------ |
+| 1 | Jira fixes -> application , multilingual    | 1.20   |
+| 2 | Stand up                                    | 10 min |
+| 3 | Meeting with maahrshi dai and dncc team     | 1.30   |
+| 4 | assissted jenish with smis form + loin page | 3      |
 
 ---
-
-
 
 ## September 21, 2025 (Sunday)
 
@@ -351,3 +348,24 @@
 | 4 | Translation : english uploaded   | 1    |
 | 5 | Mobile app requirement doc       | 30   |
 | 4 | English word new mapping         | 2    |
+
+
+---
+
+
+
+## September 22, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task                                          | Done ✅ |
+| - | --------------------------------------------- | ------- |
+| 1 | bug fixes :Application , desludging           |         |
+| 2 | jira tickets                                  |         |
+| 3 | Meeting minute review + mobile requirment doc |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+|   |          |      |
