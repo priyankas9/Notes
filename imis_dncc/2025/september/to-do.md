@@ -380,13 +380,15 @@
 
 ### 📝 To-Do List
 
-| # | Task                                | Done ✅ |
-| - | ----------------------------------- | ------- |
-| 1 | bug fixes :Application , desludging |         |
-| 2 | jira tickets                        |         |
+| # | Task               | Done ✅ |
+| - | ------------------ | ------- |
+| 1 | bug fixes          | ✅      |
+| 2 | Add new jira tasks |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-|   |          |      |
+| # | Activity                                                                              | Hour |
+| - | ------------------------------------------------------------------------------------- | ---- |
+| 1 | Jira bugs fixes : notice ,containment , water samples                                 | 3.20 |
+| 2 | Stand up                                                                              | 10   |
+| 3 | New task as per meeting : Revamped supervisory assessment fllter and datatable fields | 2.30 |
