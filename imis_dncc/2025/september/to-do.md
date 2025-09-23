@@ -359,7 +359,7 @@
 | - | --------------------------------------------- | ------- |
 | 1 | bug fixes :Application , desludging           |         |
 | 2 | jira tickets                                  |         |
-| 3 | Meeting minute review + mobile requirment doc |         |
+| 3 | Meeting minute review + mobile requirment doc | ✅      |
 
 ### ✅ Done Activities Log
 
@@ -370,3 +370,23 @@
 | 3 | Jira ticket : supervisory assessment date issue fixes | 20   |
 | 4 | Meeting with maharshi                                 | 30   |
 | 5 | Meetng minute and jira task lodge                     | 1    |
+
+
+---
+
+
+
+## September 23, 2025 (Tuesday)
+
+### 📝 To-Do List
+
+| # | Task                                | Done ✅ |
+| - | ----------------------------------- | ------- |
+| 1 | bug fixes :Application , desludging |         |
+| 2 | jira tickets                        |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+|   |          |      |
