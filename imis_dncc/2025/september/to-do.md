@@ -390,10 +390,7 @@
 | 2 | Stand up                                                                              | 10   |
 | 3 | New task as per meeting : Revamped supervisory assessment fllter and datatable fields | 2.30 |
 
-
 ---
-
-
 
 ## September 24, 2025 (Wednesday)
 
@@ -406,8 +403,30 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity        | Hour |
-| - | --------------- | ---- |
-| 1 | Jira bugs fixes |      |
-| 2 | Stand up        | 10   |
-| 3 |                 |      |
+| # | Activity                    | Hour |
+| - | --------------------------- | ---- |
+| 1 | Jira bugs fixes + bug fixes | 5.50 |
+| 2 | Stand up                    | 10   |
+| 3 |                             |      |
+
+
+---
+
+
+
+## September 25, 2025 (Thursday)
+
+### 📝 To-Do List
+
+| # | Task                            | Done ✅ |
+| - | ------------------------------- | ------- |
+| 1 | bug fixes                       |         |
+| 2 | Add new jira tasks : contanment |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                    | Hour |
+| - | --------------------------- | ---- |
+| 1 | Jira bugs fixes + bug fixes |      |
+| 2 | Stand up                    | 10   |
+| 3 |                             |      |
