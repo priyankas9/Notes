@@ -17,14 +17,6 @@
 | # | Activity | Hour |
 | - | -------- | ---- |
 | 1 |          |      |
-| 2 |          |      |
-| 3 |          |      |
-
-### Dncc Requirements
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
@@ -45,7 +37,6 @@
 | - | ----------------------------------------------- | ---- |
 | 1 | Application date bug fixes                      | 1    |
 | 2 | jira bug fixes : notice, buildings,containments | 5    |
-| 3 |                                                 |      |
 
 ---
 
@@ -66,13 +57,6 @@
 | - | ------------------------- | ---- |
 | 1 | Bug fixes                 | 3    |
 | 2 | Roles & permisssion fixes | 3    |
-| 3 |                           |      |
-
-### Dncc Requirements
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
@@ -94,8 +78,6 @@
 | 2 | Emptying issue    | 1    |
 | 3 | Bug fixes          | 4    |
 
-### Dncc Requirements
-
 ---
 
 ## 📓 September 5, 2025 (Friday)
@@ -113,13 +95,6 @@
 | - | ----------------------------------- | ---- |
 | 1 | Assisted Jenish for cambodia footer | 1    |
 | 2 | Bug fixes                           | 5    |
-| 3 |                                     |      |
-
-### Dncc Requirements
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
@@ -159,14 +134,6 @@
 | # | Activity                                       | Hour |
 | - | ---------------------------------------------- | ---- |
 | 1 | Supervisory Assessment CSV part fixes + filter | 4    |
-| 2 |                                                |      |
-| 3 |                                                |      |
-
-### Dncc Requirements
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
@@ -185,7 +152,6 @@
 | - | ----------------------------------------- | ---- |
 | 1 | Supervisory assessment csv + filter fixes | 2    |
 | 2 | Notice preview qr fixes                   | 1    |
-| 3 |                                           |      |
 
 ---
 
@@ -202,14 +168,6 @@
 | # | Activity                                       | Hour |
 | - | ---------------------------------------------- | ---- |
 | 1 | Filter generate notice category dropdown fixes | 1    |
-| 2 |                                                |      |
-| 3 |                                                |      |
-
-### Dncc Requirements
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
@@ -227,7 +185,6 @@
 | - | --------------------------------------------- | ---- |
 | 1 | Research queue                                | 2    |
 | 2 | Application +schedule bug fixes date flapickr | 3    |
-| 3 |                                               |      |
 
 ---
 
@@ -238,19 +195,12 @@
 | # | Task                         | Done ✅ |
 | - | ---------------------------- | ------- |
 | 1 | Dncc generate pdf queue part | ✅      |
-|   |                              |         |
 
 ### ✅ Done Activities Log
 
 | # | Activity                     | Hour |
 | - | ---------------------------- | ---- |
 | 1 | Dncc pdf (research + code ) | 6    |
-| 2 |                              |      |
-| 3 |                              |      |
-
-| To-do | Description | Status |
-| ----- | ----------- | ------ |
-|       |             |        |
 
 ---
 
@@ -268,7 +218,6 @@
 | - | ----------------------------------------------------------------------- | ---- |
 | 1 | Bug fixes<br />- notce module <br />- multilingual <br />- mobile app | 5.30 |
 | 2 | Stand up                                                                | 30   |
-| 3 |                                                                         |      |
 
 ---
 
@@ -287,7 +236,6 @@
 | - | ---------------------------------------------------- | ---- |
 | 1 | Code steup for notice pdf                            | 3    |
 | 2 | Bug fixes : notice and supervisory assessment module | 3    |
-| 3 |                                                      |      |
 
 ---
 
@@ -396,10 +344,10 @@
 
 ### 📝 To-Do List
 
-| # | Task               | Done ✅ |
-| - | ------------------ | ------- |
-| 1 | bug fixes          |         |
-| 2 | Add new jira tasks |         |
+| # | Task                                        | Done ✅ |
+| - | ------------------------------------------- | ------- |
+| 1 | bug fixes                                   | ✅      |
+| 2 | Add new jira tasks (supervisory assessment) | ✅      |
 
 ### ✅ Done Activities Log
 
@@ -407,12 +355,8 @@
 | - | --------------------------- | ---- |
 | 1 | Jira bugs fixes + bug fixes | 5.50 |
 | 2 | Stand up                    | 10   |
-| 3 |                             |      |
-
 
 ---
-
-
 
 ## September 25, 2025 (Thursday)
 
@@ -421,12 +365,35 @@
 | # | Task                            | Done ✅ |
 | - | ------------------------------- | ------- |
 | 1 | bug fixes                       |         |
-| 2 | Add new jira tasks : contanment |         |
+| 2 | Add new jira tasks : contanment | ✅      |
+| 3 | Translation                     | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity                    | Hour |
-| - | --------------------------- | ---- |
-| 1 | Jira bugs fixes + bug fixes |      |
-| 2 | Stand up                    | 10   |
-| 3 |                             |      |
+| # | Activity                            | Hour |
+| - | ----------------------------------- | ---- |
+| 1 | Jira tasks : supervisory assessment | 1.20 |
+| 2 | Stand up                            | 10   |
+| 3 | Document for mobile application     | 1.30 |
+| 4 |                                     |      |
+
+
+---
+
+
+
+## September 26, 2025 (Friday)
+
+### 📝 To-Do List
+
+| # | Task        | Done ✅ |
+| - | ----------- | ------- |
+| 1 | bug fixes   |         |
+| 3 | Translation |         |
+
+### ✅ Done Activities Log
+
+| # | Activity   | Hour |
+| - | ---------- | ---- |
+| 1 | Jira tasks | 20   |
+| 2 | Stand up   | 10   |
