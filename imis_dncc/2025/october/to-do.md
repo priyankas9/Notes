@@ -8,15 +8,16 @@
 
 | # | Task      | Done ✅ |
 | - | --------- | ------- |
-| 1 | Jira task |         |
-| 2 | Bug fixes |         |
+| 1 | Jira task | ✅      |
+| 2 | Bug fixes | ✅      |
 | 3 |           |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                          | Hour |
+| - | --------------------------------- | ---- |
+| 1 | Bug fixes                         | 3    |
+| 2 | Next Emptying Date new jira tasks | 3    |
 
 ---
 
@@ -24,11 +25,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                     | Done ✅ |
+| - | ---------------------------------------- | ------- |
+| 1 | Jira task - next emptying date compelete |         |
+| 2 |                                          |         |
+| 3 |                                          |         |
 
 ### ✅ Done Activities Log
 
@@ -58,100 +59,300 @@
 
 ## 📓 October 9, 2025 (Thursday)
 
-*(same format as above)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 10, 2025 (Friday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 13, 2025 (Monday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 14, 2025 (Tuesday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 15, 2025 (Wednesday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 16, 2025 (Thursday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 17, 2025 (Friday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 20, 2025 (Monday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 21, 2025 (Tuesday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 22, 2025 (Wednesday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 23, 2025 (Thursday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 24, 2025 (Friday)
 
-*(same format)*
+### 📝 To-Do List
 
----
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ## 📓 October 27, 2025 (Monday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 28, 2025 (Tuesday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 29, 2025 (Wednesday)
 
-*(same format)*
+### 📝 To-Do List
 
----
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ## 📓 October 30, 2025 (Thursday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
 ## 📓 October 31, 2025 (Friday)
 
-*(same format)*
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+| 3 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
