@@ -27,15 +27,16 @@
 
 | # | Task                                     | Done ✅ |
 | - | ---------------------------------------- | ------- |
-| 1 | Jira task - next emptying date compelete |         |
+| 1 | Jira task - next emptying date compelete | ✅      |
 | 2 |                                          |         |
 | 3 |                                          |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                       | Hour |
+| - | ------------------------------ | ---- |
+| 1 | Jira task - next emptying date | 4    |
+| 2 | Bug fixes - map                | 1    |
 
 ---
 
@@ -43,11 +44,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                   | Done ✅ |
+| - | -------------------------------------- | ------- |
+| 1 | Jira task - next emptying date (live\) |         |
+| 2 | Bug fixes                              |         |
+| 3 |                                        |         |
 
 ### ✅ Done Activities Log
 
