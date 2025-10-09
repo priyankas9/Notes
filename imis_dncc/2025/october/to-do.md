@@ -52,9 +52,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                                  | Hour |
+| - | ----------------------------------------- | ---- |
+| 1 | Map : Bug Fixes + improvement plan module | 5    |
+| 2 | Stand up                                  | 30 m |
 
 ---
 
@@ -62,11 +63,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                        | Done ✅ |
+| - | --------------------------- | ------- |
+| 1 | Jira tasks compelete        |         |
+| 2 | Meeting with mrb            |         |
+| 3 | birendranagar project setup |         |
 
 ### ✅ Done Activities Log
 
