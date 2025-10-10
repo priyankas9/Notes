@@ -66,14 +66,16 @@
 | # | Task                        | Done ✅ |
 | - | --------------------------- | ------- |
 | 1 | Jira tasks compelete        |         |
-| 2 | Meeting with mrb            |         |
-| 3 | birendranagar project setup |         |
+| 2 | Meeting with mrb            | ✅      |
+| 3 | birendranagar project setup | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                                       | Hour |
+| - | ---------------------------------------------- | ---- |
+| 1 | Biremdranagar and cambodia project setup local | 3    |
+| 2 | Bug fixes jira                                 | 2    |
+| 3 | Cambodia customer survey form changes          | 1    |
 
 ---
 
@@ -81,17 +83,17 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                            | Done ✅ |
+| - | ------------------------------- | ------- |
+| 1 | Cambodia - customer survey form |         |
+| 2 | Birendranagar new requirement   |         |
+| 3 |                                 |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity  | Hour |
+| - | --------- | ---- |
+| 1 | Stand up | 15m  |
 
 ---
 
