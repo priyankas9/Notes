@@ -85,15 +85,37 @@
 
 | # | Task                            | Done ✅ |
 | - | ------------------------------- | ------- |
-| 1 | Cambodia - customer survey form |         |
+| 1 | Cambodia - customer survey form | ✅      |
 | 2 | Birendranagar new requirement   |         |
 | 3 |                                 |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity  | Hour |
-| - | --------- | ---- |
-| 1 | Stand up | 15m  |
+| # | Activity               | Hour |
+| - | ---------------------- | ---- |
+| 1 | Stand up              | 15m  |
+| 2 | Bdt setup local        | 1.45 |
+| 3 | Camboda form -ondemand | 4    |
+
+  **Route**::**get**(**'customer-surveys/search-customers'**, [**CustomerSurveyController**::**class**, **'searchcustomer'**])**->**name(**'customer-surveys.search-customers'**);
+
+---
+
+## 📓 October 12, 2025 (Sunday)
+
+### 📝 To-Do List
+
+| # | Task                       | Done ✅ |
+| - | -------------------------- | ------- |
+| 1 | CAMBODIA - js form part    |         |
+| 2 | BIRENDRANAGR - requirement |         |
+| 3 |                            |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour |
+| - | -------- | ---- |
+| 1 |          |      |
 
 ---
 
