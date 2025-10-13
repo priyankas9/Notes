@@ -107,15 +107,15 @@
 
 | # | Task                       | Done ✅ |
 | - | -------------------------- | ------- |
-| 1 | CAMBODIA - js form part    |         |
+| 1 | CAMBODIA - js form part    | ✅      |
 | 2 | BIRENDRANAGR - requirement |         |
 | 3 |                            |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                               | Hour |
+| - | -------------------------------------- | ---- |
+| 1 | Sanitation Customer form fixes done :) | 6    |
 
 ---
 
@@ -123,11 +123,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                       | Done ✅ |
+| - | -------------------------- | ------- |
+| 1 | BIRENDRANAGR - requirement |         |
+| 2 |                            |         |
+| 3 |                            |         |
 
 ### ✅ Done Activities Log
 
