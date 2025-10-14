@@ -131,9 +131,9 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity              | Hour |
+| - | --------------------- | ---- |
+| 1 | Smis touch up and all | 6    |
 
 ---
 
@@ -141,17 +141,17 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                       | Done ✅ |
+| - | -------------------------- | ------- |
+| 1 | BIRENDRANAGR - requirement |         |
+| 2 |                            |         |
+| 3 |                            |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                  | Hour |
+| - | ------------------------- | ---- |
+| 1 | Smis - sidebar , header  | 3    |
 
 ---
 
