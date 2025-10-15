@@ -149,9 +149,9 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                  | Hour |
-| - | ------------------------- | ---- |
-| 1 | Smis - sidebar , header  | 3    |
+| # | Activity                | Hour |
+| - | ----------------------- | ---- |
+| 1 | Smis - sidebar , header | 3    |
 
 ---
 
@@ -159,11 +159,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                         | Done ✅ |
+| - | -------------------------------------------- | ------- |
+| 1 | Birendranagar requirement + web form changes |         |
+| 2 |                                              |         |
+| 3 |                                              |         |
 
 ### ✅ Done Activities Log
 
