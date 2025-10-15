@@ -113,9 +113,9 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                               | Hour |
-| - | -------------------------------------- | ---- |
-| 1 | Sanitation Customer form fixes done :) | 6    |
+| # | Activity                              | Hour |
+| - | ------------------------------------- | ---- |
+| 1 | Sanitation Customer form fixes done  | 6    |
 
 ---
 
@@ -143,15 +143,16 @@
 
 | # | Task                       | Done ✅ |
 | - | -------------------------- | ------- |
-| 1 | BIRENDRANAGR - requirement |         |
+| 1 | BIRENDRANAGR - requirement | ✅      |
 | 2 |                            |         |
 | 3 |                            |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                | Hour |
-| - | ----------------------- | ---- |
-| 1 | Smis - sidebar , header | 3    |
+| # | Activity                         | Hour |
+| - | -------------------------------- | ---- |
+| 1 | Smis - sidebar , header          | 3    |
+| 2 | Birendranagar mobile requirement | 3    |
 
 ---
 
@@ -161,15 +162,17 @@
 
 | # | Task                                         | Done ✅ |
 | - | -------------------------------------------- | ------- |
-| 1 | Birendranagar requirement + web form changes |         |
+| 1 | Birendranagar requirement + web form changes | ✅      |
 | 2 |                                              |         |
 | 3 |                                              |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                             | Hour |
+| - | ------------------------------------ | ---- |
+| 1 | Updating worklog                     | 1.30 |
+| 2 | Birendranagar requirement            | 3    |
+| 3 | Birendranagar Meeting + jira tickets | 1.30 |
 
 ---
 
