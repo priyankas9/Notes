@@ -113,9 +113,9 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                              | Hour |
-| - | ------------------------------------- | ---- |
-| 1 | Sanitation Customer form fixes done  | 6    |
+| # | Activity                            | Hour |
+| - | ----------------------------------- | ---- |
+| 1 | Sanitation Customer form fixes done | 6    |
 
 ---
 
@@ -180,11 +180,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                      | Done ✅ |
+| - | ------------------------- | ------- |
+| 1 | Birendranagar api changes |         |
+| 2 |                           |         |
+| 3 |                           |         |
 
 ### ✅ Done Activities Log
 
