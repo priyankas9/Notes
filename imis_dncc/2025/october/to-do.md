@@ -188,9 +188,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                             | Hour |
+| - | ------------------------------------ | ---- |
+| 1 | Birendranagr - calender pop up fixes | 2.15 |
+| 2 | Stand up                             | 15   |
+| 3 | DNCC - api changes                   | 3    |
 
 ---
 
@@ -198,11 +200,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                      | Done ✅ |
+| - | ------------------------- | ------- |
+| 1 | Birendranagar api changes |         |
+| 2 |                           |         |
+| 3 |                           |         |
 
 ### ✅ Done Activities Log
 
