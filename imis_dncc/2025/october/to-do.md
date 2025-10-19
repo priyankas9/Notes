@@ -202,6 +202,24 @@
 
 | # | Task                      | Done ✅ |
 | - | ------------------------- | ------- |
+| 1 | Birendranagar api changes | ✅      |
+| 2 |                           |         |
+| 3 |                           |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                                               | Hour |
+| - | ------------------------------------------------------ | ---- |
+| 1 | birendranagar - > get api , document , form fields get | 6    |
+
+---
+
+## 📓 October 19, 2025 (Sunday)
+
+### 📝 To-Do List
+
+| # | Task                      | Done ✅ |
+| - | ------------------------- | ------- |
 | 1 | Birendranagar api changes |         |
 | 2 |                           |         |
 | 3 |                           |         |
@@ -213,6 +231,8 @@
 | 1 |          |      |
 
 ---
+
+
 
 ## 📓 October 20, 2025 (Monday)
 
