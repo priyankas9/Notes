@@ -220,29 +220,28 @@
 
 | # | Task                      | Done ✅ |
 | - | ------------------------- | ------- |
-| 1 | Birendranagar api changes |         |
+| 1 | Birendranagar api changes | ✅      |
 | 2 |                           |         |
 | 3 |                           |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                                            | Hour |
+| - | --------------------------------------------------- | ---- |
+| 1 | Birendranagr multi trip dfd study + planning forapi | 4    |
+| 2 | Multilingual -> excelfixes for dncc                 | 2    |
 
 ---
-
-
 
 ## 📓 October 20, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                             | Done ✅ |
+| - | ------------------------------------------------ | ------- |
+| 1 | Plan workflow for mult trip api (BIRENDRANAGAR)) |         |
+| 2 |                                                  |         |
+| 3 |                                                  |         |
 
 ### ✅ Done Activities Log
 
