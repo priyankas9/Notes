@@ -240,18 +240,18 @@
 | # | Task                                             | Done ✅ |
 | - | ------------------------------------------------ | ------- |
 | 1 | Plan workflow for mult trip api (BIRENDRANAGAR)) |         |
-| 2 |                                                  |         |
+| 2 | Work Log Update                                  |         |
 | 3 |                                                  |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity       | Hour |
+| - | -------------- | ---- |
+| 1 | SMIS bug fixes | 6    |
 
 ---
 
-## 📓 October 21, 2025 (Tuesday)
+## 📓 October 26, 2025 (Sunday)
 
 ### 📝 To-Do List
 
@@ -263,63 +263,13 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity       | Hour |
+| - | -------------- | ---- |
+| 1 | SMIS bug fixes |      |
 
 ---
 
-## 📓 October 22, 2025 (Wednesday)
 
-### 📝 To-Do List
-
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
-
-### ✅ Done Activities Log
-
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-
----
-
-## 📓 October 23, 2025 (Thursday)
-
-### 📝 To-Do List
-
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
-
-### ✅ Done Activities Log
-
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
-
----
-
-## 📓 October 24, 2025 (Friday)
-
-### 📝 To-Do List
-
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
-
-### ✅ Done Activities Log
-
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
 
 ## 📓 October 27, 2025 (Monday)
 
