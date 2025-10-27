@@ -276,15 +276,15 @@
 
 | # | Task             | Done ✅ |
 | - | ---------------- | ------- |
-| 1 | SMIS error fixes |         |
+| 1 | SMIS error fixes | ✅      |
 | 2 |                  |         |
 | 3 |                  |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                                     | Hour |
+| - | -------------------------------------------- | ---- |
+| 1 | SMIS bug fixes -> dashboard fixes + js fixes | 6    |
 
 ---
 
