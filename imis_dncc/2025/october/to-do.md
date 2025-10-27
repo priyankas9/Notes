@@ -263,23 +263,22 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity       | Hour |
-| - | -------------- | ---- |
-| 1 | SMIS bug fixes |      |
+| # | Activity          | Hour |
+| - | ----------------- | ---- |
+| 1 | SMIS bug fixes    | 4    |
+| 2 | Meetng + stand up | 2    |
 
 ---
-
-
 
 ## 📓 October 27, 2025 (Monday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task             | Done ✅ |
+| - | ---------------- | ------- |
+| 1 | SMIS error fixes |         |
+| 2 |                  |         |
+| 3 |                  |         |
 
 ### ✅ Done Activities Log
 
