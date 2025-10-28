@@ -292,11 +292,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                    | Done ✅ |
+| - | ----------------------- | ------- |
+| 1 | Smis bug fixes (header) |         |
+| 2 | worklog maintain        |         |
+| 3 |                         |         |
 
 ### ✅ Done Activities Log
 
