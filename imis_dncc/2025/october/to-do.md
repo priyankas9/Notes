@@ -294,9 +294,29 @@
 
 | # | Task                    | Done ✅ |
 | - | ----------------------- | ------- |
-| 1 | Smis bug fixes (header) |         |
+| 1 | Smis bug fixes (header) | ✅      |
 | 2 | worklog maintain        |         |
 | 3 |                         |         |
+
+### ✅ Done Activities Log
+
+| # | Activity                | Hour |
+| - | ----------------------- | ---- |
+| 1 | smis bug fixes          | 4.30 |
+| 2 | Meeting with mobile dev | 30   |
+| 3 | Meeetng wth bhusan sir  | 1    |
+
+---
+
+## 📓 October 29, 2025 (Wednesday)
+
+### 📝 To-Do List
+
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Smis bug fixes - schedule error message  |         |
+| 2 | Mobile dev api                            |         |
+| 3 |                                           |         |
 
 ### ✅ Done Activities Log
 
@@ -305,22 +325,6 @@
 | 1 |          |      |
 
 ---
-
-## 📓 October 29, 2025 (Wednesday)
-
-### 📝 To-Do List
-
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
-
-### ✅ Done Activities Log
-
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
 
 ## 📓 October 30, 2025 (Thursday)
 
