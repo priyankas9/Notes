@@ -312,17 +312,19 @@
 
 ### 📝 To-Do List
 
-| # | Task                                      | Done ✅ |
-| - | ----------------------------------------- | ------- |
-| 1 | Smis bug fixes - schedule error message  |         |
-| 2 | Mobile dev api                            |         |
-| 3 |                                           |         |
+| # | Task                                    | Done ✅ |
+| - | --------------------------------------- | ------- |
+| 1 | Smis bug fixes - schedule error message |         |
+| 2 | Mobile dev api                          |         |
+| 3 |                                         |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                                                      | Hour |
+| - | ------------------------------------------------------------- | ---- |
+| 1 | Work Log maintain                                             | 30   |
+| 2 | Smis Bug fixes - Dashboards counts , sidebar and header fixes | 4    |
+| 3 | Api chnages fr imis-dncc mobile app                           | 1.30 |
 
 ---
 
@@ -330,11 +332,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                                      | Done ✅ |
+| - | --------------------------------------------------------- | ------- |
+| 1 | SMIS - sidebar , data dictonary , schedule message read  |         |
+| 2 |                                                           |         |
+| 3 |                                                           |         |
 
 ### ✅ Done Activities Log
 
