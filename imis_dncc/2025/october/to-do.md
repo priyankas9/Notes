@@ -332,17 +332,17 @@
 
 ### 📝 To-Do List
 
-| # | Task                                                      | Done ✅ |
-| - | --------------------------------------------------------- | ------- |
-| 1 | SMIS - sidebar , data dictonary , schedule message read  |         |
-| 2 |                                                           |         |
-| 3 |                                                           |         |
+| # | Task                                                           | Done ✅ |
+| - | -------------------------------------------------------------- | ------- |
+| 1 | SMIS - sidebar , data dictonary , (schedule message read - ✅) |         |
+| 2 |                                                                |         |
+| 3 |                                                                |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity       | Hour |
+| - | -------------- | ---- |
+| 1 | Smis bug fixes | 6    |
 
 ---
 
@@ -350,11 +350,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                       | Done ✅ |
+| - | -------------------------- | ------- |
+| 1 | Birendranagar api workflow |         |
+| 2 |                            |         |
+| 3 |                            |         |
 
 ### ✅ Done Activities Log
 
