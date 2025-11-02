@@ -358,6 +358,7 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity                                 | Hour |
+| - | ---------------------------------------- | ---- |
+| 1 | Birendranagar dfd diagram workflow study | 2.30 |
+| 2 | Smis  fixes                             | 3.30 |
