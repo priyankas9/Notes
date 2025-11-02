@@ -1,0 +1,468 @@
+# 📅 November 2025 Daily Worklog Planner
+
+---
+
+## 📓 November 2, 2025 (Sunday)
+
+### 📝 To-Do List
+
+| # | Task                 | Done ✅ |
+| - | -------------------- | ------- |
+| 1 | Worklog maintain     |         |
+| 2 | SMIS - sidebar fixes |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 3, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 4, 2025 (Tuesday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 5, 2025 (Wednesday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 6, 2025 (Thursday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 7, 2025 (Friday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 9, 2025 (Sunday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 10, 2025 (Monday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 11, 2025 (Tuesday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 12, 2025 (Wednesday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 13, 2025 (Thursday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 14, 2025 (Friday)
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 16, 2025 (Sunday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 17, 2025 (Monday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 18, 2025 (Tuesday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 19, 2025 (Wednesday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 20, 2025 (Thursday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 21, 2025 (Friday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 23, 2025 (Sunday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+
+
+## 📓 November 24, 2025 (Monday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 25, 2025 (Tuesday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 26, 2025 (Wednesday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+
+
+## 📓 November 27, 2025 (Thursday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 28, 2025 (Friday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+
+---
+
+## 📓 November 30, 2025 (Sunday)
+
+
+### 📝 To-Do List
+
+| # | Task | Done ✅ |
+| - | ---- | ------- |
+| 1 |      |         |
+| 2 |      |         |
+
+### ✅ Done Activities Log
+
+| # | Activity | Hour | Task Type                                                    |
+| - | -------- | ---- | ------------------------------------------------------------ |
+| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
