@@ -14,9 +14,9 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour |
-| - | -------- | ---- |
-| 1 |          |      |
+| # | Activity       | Hour |
+| - | -------------- | ---- |
+| 1 | Jira bug fixes | 6    |
 
 ---
 
@@ -377,10 +377,7 @@
 | 3 | Document for mobile application     | 1.30 |
 | 4 |                                     |      |
 
-
 ---
-
-
 
 ## September 26, 2025 (Friday)
 
@@ -397,3 +394,4 @@
 | - | ---------- | ---- |
 | 1 | Jira tasks | 20   |
 | 2 | Stand up   | 10   |
+| 3 | Bug fixes  | 5.30 |

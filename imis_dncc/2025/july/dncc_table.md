@@ -41,6 +41,7 @@ ADD COLUMN wasa_status VARCHAR,
 ADD COLUMN wasa_bill_no VARCHAR;
 ADD COLUMN toilet_category VARCHAR,
 ADD COLUMN containment_category VARCHAR;
+ADD COLUMN road_name VARCHAR;
 
 ## Application Table
 
@@ -68,44 +69,44 @@ ADD COLUMN status INTEGER;
 
 -- DROP TABLE IF EXISTS fsm.supervisory_assessments;
 
-CREATE TABLE IF NOT EXISTS fsm.supervisory_assessments
-(
-    id integer NOT NULL DEFAULT nextval('fsm.supervisory_assessments_id_seq'::regclass),
-    assessment_request_id integer,
-    holding_number character varying(50) COLLATE pg_catalog."default",
-    owner_name character varying(255) COLLATE pg_catalog."default",
-    owner_gender character varying(10) COLLATE pg_catalog."default",
-    owner_contact character varying(20) COLLATE pg_catalog."default",
-    containment_type integer,
-    containment_outlet_connection character varying(50) COLLATE pg_catalog."default",
-    containment_volume numeric,
-    road_width numeric,
-    distance_from_nearest_road numeric,
-    septic_tank_length numeric,
-    septic_tank_width numeric,
-    septic_tank_depth numeric,
-    number_of_pit_rings integer,
-    pit_diameter numeric,
-    pit_depth numeric,
-    appropriate_desludging_vehicle_size character varying(50) COLLATE pg_catalog."default",
-    number_of_trips integer,
-    confirmed_emptying_date date,
-    advance_paid_amount numeric,
-    created_at timestamp without time zone,
-    updated_at timestamp without time zone,
-    deleted_at timestamp without time zone,
-    application_id integer,
-    CONSTRAINT supervisory_assessments_pkey PRIMARY KEY (id),
-    CONSTRAINT fk_application_id FOREIGN KEY (application_id)
-        REFERENCES fsm.applications (id) MATCH SIMPLE
-        ON UPDATE NO ACTION
-        ON DELETE SET NULL
-)
+CREATE TABLE IF NOT EXISTS fsm.supervisory_assessments (
+    id SERIAL PRIMARY KEY,
+    application_id INTEGER REFERENCES fsm.applications(id) ON DELETE SET NULL,
+
+    house_locality VARCHAR(255),
+    block_number VARCHAR(50),
+    road_name VARCHAR(255),
+    road_code VARCHAR(50),
+    bin VARCHAR(50),
+
+    owner_name VARCHAR(255),
+    owner_gender VARCHAR(10),
+    owner_contact VARCHAR(20),
+
+    containment_volume NUMERIC,
+    road_width NUMERIC,
+    distance_from_nearest_road NUMERIC,
+
+    appropriate_desludging_vehicle_size VARCHAR(50),
+    confirmed_emptying_date DATE,
+    advance_paid_amount NUMERIC,
+    advance_payment_receipt VARCHAR(255),
+
+    created_at TIMESTAMP,
+    updated_at TIMESTAMP,
+    deleted_at TIMESTAMP
+);
 
 TABLESPACE pg_default;
 
 ALTER TABLE IF EXISTS fsm.supervisory_assessments
     OWNER to postgres;
+
+ALTER TABLE fsm.supervisory_assessments
+ADD COLUMN ward INTEGER,
+ADD COLUMN applicant_name VARCHAR,
+ADD COLUMN applicant_contact VARCHAR,
+ADD COLUMN service_provider_id INTEGER;
 
 **Sequence**
 
@@ -127,3 +128,62 @@ ALTER SEQUENCE fsm.supervisory_assessments_id_seq
 
 ALTER TABLE fsm.service_providers
 ADD COLUMN contract_document_pdf VARCHAR;
+
+## Owners table
+
+---
+
+ALTER table building_info.owners
+ADD COLUMN respondent_name character varying,
+ADD COLUMN respondent_contact character varying,
+ADD COLUMN respondent_gender character varying
+
+## Pdf
+
+---
+
+CREATE TABLE IF NOT EXISTS public.pdf_body_data (
+    id bigint GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    subject character varying(255) NOT NULL,
+    paragraph text NOT NULL,
+    created_at timestamp(0),
+    updated_at timestamp(0),
+    deleted_at timestamp(0),
+    date character varying,
+    unique_ref character varying
+);
+
+Service Provider Sequence
+
+---
+
+CREATE TABLE IF NOT EXISTS fsm.service_provider_sequence
+
+(
+    id integer NOT NULL DEFAULT nextval('fsm.service_provider_sequence_id_seq'::regclass),
+    service_provider_id integer NOT NULL,
+    current_sequence boolean DEFAULT false,
+    sequence_order integer,
+    CONSTRAINT service_provider_sequence_pkey PRIMARY KEY (id),
+    CONSTRAINT fk_service_provider FOREIGN KEY (service_provider_id)
+        REFERENCES fsm.service_providers (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE CASCADE
+)
+
+CREATE SEQUENCE fsm.service_provider_sequence_id_seq
+    INCREMENT 1
+    START 1
+    MINVALUE 1
+    MAXVALUE 9223372036854775807
+    CACHE 1;
+
+## Emptying
+
+---
+
+Alter table fsm.emptyings
+Add column advance_paid_amount integer;
+
+Alter table fsm.emptyings
+Add column additional_paid integer;

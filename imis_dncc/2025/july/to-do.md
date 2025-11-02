@@ -478,7 +478,7 @@
 | 1 | Dncc setup for final db - testing             | 1    |
 | 2 | Dncc service provider show fixes              | 1    |
 | 3 | Assisted jenish for smis building survey form | 1.30 |
-| 4 | Bug fixes : dncc new datatbse issue           | 5.30 |
+| 4 | Bug fixes : dncc new datatbse issue           | 2.30 |
 
 ## 📓 July 28, 2025 (Monday)
 

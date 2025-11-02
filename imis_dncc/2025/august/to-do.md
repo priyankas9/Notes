@@ -322,47 +322,47 @@
 
 ---
 
-## 📓 August 13, 2025 (Wednesday)
+## 📓 August 20, 2025 (Wednesday)
 
 ### 📝 To-Do List
 
-| # | Task                          | Done ✅ |
-| - | ----------------------------- | ------- |
-| 1 | Notice review + fixes         | ✅      |
-| 2 | Notification for mobile app ? |         |
-| 3 |                               |         |
+| # | Task                                   | Done ✅ |
+| - | -------------------------------------- | ------- |
+| 1 | Notice -> improvement plan             |         |
+| 2 | Notification for supervsory assessment |         |
+| 3 |                                        |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                | Hour |
-| - | ----------------------- | ---- |
-| 1 | Notice changes + review | 6    |
-| 2 |                         |      |
-| 3 |                         |      |
+| # | Activity          | Hour |
+| - | ----------------- | ---- |
+| 1 | Notice qr chnages | 2    |
+| 2 | bug fixes         | 2    |
+| 3 | qr geenration     | 2    |
 
 ---
 
-## 📓 August 14, 2025 (THursday)
+## 📓 August 21, 2025 (THursday)
 
 ### 📝 To-Do List
 
 | # | Task                | Done ✅ |
 | - | ------------------- | ------- |
-| 1 | Notice -> pdf fixes |         |
+| 1 | Notice -> pdf fixes | ✅      |
 | 2 | Bug fixes -> api    | ✅      |
 | 3 |                     |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity                                | Hour |
-| - | --------------------------------------- | ---- |
-| 1 | Api fixes + meeting with moble dev      | 1    |
-| 2 | Notice -> pdf fixes                     | 4    |
-| 3 | Assisted henish for his aplicatipn form | 1    |
+| # | Activity               | Hour |
+| - | ---------------------- | ---- |
+| 1 | Meeting+ demo of sytem | 1    |
+| 2 | Notice -> pdf fixes    | 4    |
+| 3 | Bug fixes              | 1    |
 
 ---
 
-## 📓 August 15, 2025 (Friday)
+## 📓 August 22, 2025 (Friday)
 
 ### 📝 To-Do List
 
