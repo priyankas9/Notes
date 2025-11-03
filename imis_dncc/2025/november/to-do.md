@@ -13,10 +13,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity               | Hour | Task Type                                                    |
+| - | ---------------------- | ---- | ------------------------------------------------------------ |
+| 1 | SMIS - front end fixes |      | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                        |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -24,10 +24,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                 | Done ✅ |
+| - | -------------------- | ------- |
+| 1 | SMIS - sidebar fixes |         |
+| 2 | Worklog maintain     |         |
+| 3 | Birendranagar        |         |
 
 ### ✅ Done Activities Log
 
@@ -220,7 +221,6 @@
 
 ## 📓 November 16, 2025 (Sunday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -238,7 +238,6 @@
 ---
 
 ## 📓 November 17, 2025 (Monday)
-
 
 ### 📝 To-Do List
 
@@ -258,7 +257,6 @@
 
 ## 📓 November 18, 2025 (Tuesday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -276,7 +274,6 @@
 ---
 
 ## 📓 November 19, 2025 (Wednesday)
-
 
 ### 📝 To-Do List
 
@@ -296,7 +293,6 @@
 
 ## 📓 November 20, 2025 (Thursday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -314,7 +310,6 @@
 ---
 
 ## 📓 November 21, 2025 (Friday)
-
 
 ### 📝 To-Do List
 
@@ -334,7 +329,6 @@
 
 ## 📓 November 23, 2025 (Sunday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -351,10 +345,7 @@
 
 ---
 
-
-
 ## 📓 November 24, 2025 (Monday)
-
 
 ### 📝 To-Do List
 
@@ -374,7 +365,6 @@
 
 ## 📓 November 25, 2025 (Tuesday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -393,7 +383,6 @@
 
 ## 📓 November 26, 2025 (Wednesday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -410,10 +399,7 @@
 
 ---
 
-
-
 ## 📓 November 27, 2025 (Thursday)
-
 
 ### 📝 To-Do List
 
@@ -433,7 +419,6 @@
 
 ## 📓 November 28, 2025 (Friday)
 
-
 ### 📝 To-Do List
 
 | # | Task | Done ✅ |
@@ -451,7 +436,6 @@
 ---
 
 ## 📓 November 30, 2025 (Sunday)
-
 
 ### 📝 To-Do List
 
