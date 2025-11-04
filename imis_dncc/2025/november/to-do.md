@@ -15,7 +15,7 @@
 
 | # | Activity               | Hour | Task Type                                                    |
 | - | ---------------------- | ---- | ------------------------------------------------------------ |
-| 1 | SMIS - front end fixes |      | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 1 | SMIS - front end fixes | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 | 2 |                        |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
@@ -26,16 +26,16 @@
 
 | # | Task                 | Done ✅ |
 | - | -------------------- | ------- |
-| 1 | SMIS - sidebar fixes |         |
+| 1 | SMIS - sidebar fixes | ✅      |
 | 2 | Worklog maintain     |         |
 | 3 | Birendranagar        |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                        | Hour | Task Type                                                     |
+| - | ------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | SMS - dashboard , sidebar fixes |      | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                 |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -43,10 +43,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                | Done ✅ |
+| - | ----------------------------------- | ------- |
+| 1 | SMIS - jenis tasks + bootsrap issue |         |
+| 2 | BIRENDRANAGAR                       |         |
+| 3 | Jira - dncc                         |         |
 
 ### ✅ Done Activities Log
 
