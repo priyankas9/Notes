@@ -45,16 +45,16 @@
 
 | # | Task                                | Done ✅ |
 | - | ----------------------------------- | ------- |
-| 1 | SMIS - jenis tasks + bootsrap issue |         |
+| 1 | SMIS - jenis tasks + bootsrap issue | ✅      |
 | 2 | BIRENDRANAGAR                       |         |
-| 3 | Jira - dncc                         |         |
+| 3 | Jira - dncc                         | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                                    | Hour | Task Type                                                     |
+| - | ----------------------------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Smis - on demand -> datatble display (backend and frontend) | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                                             |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -62,10 +62,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                                           | Done ✅ |
+| - | -------------------------------------------------------------- | ------- |
+| 1 | BIRENDRANAGAR -> building -> structure type and fucntional use |         |
+| 2 | SMIS - datatable fixes                                        |         |
 
 ### ✅ Done Activities Log
 
