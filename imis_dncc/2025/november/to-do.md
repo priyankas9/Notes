@@ -62,17 +62,19 @@
 
 ### 📝 To-Do List
 
-| # | Task                                                           | Done ✅ |
-| - | -------------------------------------------------------------- | ------- |
-| 1 | BIRENDRANAGAR -> building -> structure type and fucntional use |         |
-| 2 | SMIS - datatable fixes                                        |         |
+| # | Task                                                               | Done ✅ |
+| - | ------------------------------------------------------------------ | ------- |
+| 1 | BIRENDRANAGAR -> building (✅)-> structure type and fucntional use |         |
+| 2 | SMIS - datatable fixes                                             | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                | Hour | Task Type                                                     |
+| - | ----------------------- | ---- | ------------------------------------------------------------- |
+| 1 | SMIS - datatable fixes  | 4    | ✅Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
+| 2 | Birendranagar           | 1.30 | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | IMIS- DNCC building api | 30   | ✅ Code                                                      |
+
 
 ---
 
