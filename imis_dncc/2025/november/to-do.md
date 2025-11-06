@@ -81,17 +81,18 @@
 
 ### 📝 To-Do List
 
-| # | Task                                                           | Done ✅ |
-| - | -------------------------------------------------------------- | ------- |
-| 1 | BIRENDRANAGAR -> building -> structure type and fucntional use |         |
-| 2 | SMIS -> main dashboard                                         | ✅      |
+| # | Task                                                             | Done ✅ |
+| - | ---------------------------------------------------------------- | ------- |
+| 1 | BIRENDRANAGAR -> building -> structure type✅ and fucntional use | ✅      |
+| 2 | SMIS -> main dashboard                                           | ✅      |
 
 ### ✅ Done Activities Log
 
 | # | Activity                             | Hour | Task Type                                                      |
 | - | ------------------------------------ | ---- | -------------------------------------------------------------- |
-| 1 | SMIS -> dasboard , login route fixes | 2    | ✅Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes    |
-| 2 | DNCC -> api chnages + call           | 1    | ✅ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
+| 1 | SMIS -> dasboard , login route fixes | 3    | ✅Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes    |
+| 2 | DNCC -> api chnages + call           | 2    | ✅ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | BIRENDRANAGAR                        | 1    | ✅ Code                                                       |
 
 ---
 
