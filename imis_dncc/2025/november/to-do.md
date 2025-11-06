@@ -75,17 +75,16 @@
 | 2 | Birendranagar           | 1.30 | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 | 3 | IMIS- DNCC building api | 30   | ✅ Code                                                      |
 
-
 ---
 
 ## 📓 November 6, 2025 (Thursday)
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                                           | Done ✅ |
+| - | -------------------------------------------------------------- | ------- |
+| 1 | BIRENDRANAGAR -> building -> structure type and fucntional use |         |
+| 2 | SMIS -> main dashboard                                         |         |
 
 ### ✅ Done Activities Log
 
