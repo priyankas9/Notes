@@ -100,10 +100,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                       | Done ✅ |
+| - | -------------------------- | ------- |
+| 1 | SMIS -> permission         |         |
+| 2 | DNCC -> building api fixes |         |
 
 ### ✅ Done Activities Log
 
