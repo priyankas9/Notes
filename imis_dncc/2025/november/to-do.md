@@ -102,15 +102,16 @@
 
 | # | Task                       | Done ✅ |
 | - | -------------------------- | ------- |
-| 1 | SMIS -> permission         |         |
+| 1 | SMIS -> permission         | ✅      |
 | 2 | DNCC -> building api fixes |         |
+| 3 | work log maintain          |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity           | Hour | Task Type                                                     |
+| - | ------------------ | ---- | ------------------------------------------------------------- |
+| 1 | SMIS -> permission | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                    |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -136,10 +137,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task          | Done ✅ |
+| - | ------------- | ------- |
+| 1 | BIRENDRANAGAR |         |
+| 2 | DNCC - api    |         |
 
 ### ✅ Done Activities Log
 
