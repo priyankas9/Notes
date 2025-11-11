@@ -155,17 +155,17 @@
 
 ### 📝 To-Do List
 
-| # | Task                    | Done ✅ |
-| - | ----------------------- | ------- |
-| 1 | Birendranagar -> api    |         |
-| 2 | Birendranagar -> maps  |         |
+| # | Task                  | Done ✅ |
+| - | --------------------- | ------- |
+| 1 | Birendranagar -> api  |         |
+| 2 | Birendranagar -> maps | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                              | Hour | Task Type                                                     |
+| - | ------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranaagr -> maps new layer added | 1    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                       |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
