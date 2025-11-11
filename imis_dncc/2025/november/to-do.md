@@ -137,17 +137,17 @@
 
 ### 📝 To-Do List
 
-| # | Task          | Done ✅ |
-| - | ------------- | ------- |
-| 1 | BIRENDRANAGAR |         |
-| 2 | DNCC - api    |         |
+| # | Task                | Done ✅ |
+| - | ------------------- | ------- |
+| 1 | BIRENDRANAGAR - api | ✅      |
+| 2 | DNCC - api          | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity      | Hour | Task Type                                                     |
+| - | ------------- | ---- | ------------------------------------------------------------- |
+| 1 | DNCC api      | 5    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Birendranagar | 1    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
