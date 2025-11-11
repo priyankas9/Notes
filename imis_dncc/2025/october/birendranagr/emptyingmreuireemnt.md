@@ -1,7 +1,7 @@
 ## 🧾 Emptying Form
 
 **Card View :
-Same as before** 
+Same as before**
 
 > **Form View:**
 >
@@ -9,29 +9,32 @@ Same as before**
 
 ### 🧩 **Emptying Form Details**
 
-> **Note:** Ignore “Multi Trip” column for now.
+> **Note:** The “Multi Trip” column is not applicable for now.
+> Fields marked with **(*)** are mandatory.
 
-| **Field Name**                      | **Action / Behavior**                                                                                     |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Application ID**                  | Identifier for the application*(View Only)*                                                                     |
-| **Date**                            | The date when the emptying service was provided*(Date Picker)*                                                  |
-| **Service Receiver Name**           | Name of the person who was present at time of emptying*(Prefilled via Application Table → Editable if needed)* |
-| **Service Receiver Gender**         | Gender of service receiver*(Dropdown: Male/Female/Other)*                                                       |
-| **Service Receiver Contact Number** | Contact number of the service receiver*(Input, numeric)*                                                        |
-| **Reason for Emptying**             | The reason for which the containment was emptied*(Dropdown/Free Text)*                                          |
-| **Sludge Volume (m³)**             | Volume of sludge emptied*(Numeric, Mandatory)*                                                                  |
-| **Desludging Vehicle Number Plate** | Dropdown - Identifier for the desludging vehicle used for emptying*(Fetch from API)*                            |
-| **Disposal Place**                  | Dropdown - Treatment plant where sludge will be disposed*(Fetch from API)*                                      |
-| **Start Time**                      | Start time of the emptying process*(Time Picker)*                                                               |
-| **End Time**                        | End time of the emptying process*(Time Picker)*                                                                 |
-| **Receipt Number**                  | Identifier for the receipt generated after emptying*(Input)*                                                    |
-| **Total Cost**                      | Total cost of the emptying process*(Numeric)*                                                                   |
-| **House Image**                     | Upload Image - of the building/location where sludge was emptied*(Camera/File Upload)*                          |
-| **Receipt Image**                   | Upload Image - of the generated receipt*(Camera/File Upload)*                                                   |
-| **Driver Name**                     | Dropdown - Select driver of desludging vehicle*(Fetch from Vehicle Table)*                                      |
-| **Emptier 1 Name**                  | Dropdown - First person involved in emptying*(Fetch from Staff Table)*                                          |
-| **Emptier 2 Name**                  | Dropdown - Second person involved in emptying*(Fetch from Staff Table)*                                         |
-| **Comments (if any)**               | Free text input for any additional observations*(Optional)*                                                     |
+| **Field Name**                          | **Description / Behavior**                                                                     | **Action Type** | **Validation** | Field display | Trips display fields |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------- | -------------------- | ------------- | -------------------- |
+| **Application ID**                      | Unique identifier for the application*(View Only)*                                                   | Hidden                | —                   | always        |                      |
+| **Date**                                | Date when the emptying service was provided*(Auto-filled with proposed emptying date)*              | Auto Fill             | —                   | always        |                      |
+| **Service Receiver Name**               | Name of the person present during emptying*(Prefilled from Application Table → Editable if needed)* | Text Input            | —                   |               |                      |
+| **Service Receiver Gender**             | Gender of the service receiver*(Dropdown: Male / Female / Other)*                                    | Dropdown              | —                   |               |                      |
+| **Service Receiver Contact Number**     | Contact number of the service receiver*(Numeric input)*                                              | Text Input            | —                   |               |                      |
+| **Reason for Emptying (*)**             | Reason for performing the emptying*(Dropdown or Free Text)*                                          | Dropdown / Text Input | ✅                   | always        |                      |
+| **No. of Trips (*)**                    | Total number of trips made for this emptying service                                                 | Numeric Input         | ✅                   | always        |                      |
+| **Sludge Volume (m³) (*)**             | Volume of sludge emptied*(in cubic meters)*                                                          | Numeric Input         | ✅                   | always        |                      |
+| **Desludging Vehicle Number Plate (*)** | Vehicle used for desludging*(Dropdown fetched from API)*                                             | Dropdown              | ✅                   | always        |                      |
+| **Disposal Place (*)**                  | Treatment plant / FSTP where sludge is disposed*(Dropdown fetched from API)*                         | Dropdown              | ✅                   | always        |                      |
+| **Start Time (*)**                      | Start time of the emptying process                                                                   | Time Picker           | ✅                   | always        |                      |
+| **End Time (*)**                        | End time of the emptying process                                                                     | Time Picker           | ✅                   | always        |                      |
+| **Receipt Number**                      | Unique receipt number generated after emptying                                                       | Text Input            | ✅ - 1               |               | 1                    |
+| **Total Cost (Rs.)**                    | Total cost incurred for the service*(Numeric input)*                                                 | Numeric Input         | ✅ - 1               |               | 1                    |
+| **House Image**                         | Upload image of the building/location where sludge was emptied*(Camera/File Upload)*                 | File Upload           | ✅ - 1               |               | 1                    |
+| **Receipt Image**                       | Upload image of the receipt*(Camera/File Upload)*                                                    | File Upload           | ✅ -1                |               | 1                    |
+| **Driver Name (*)**                     | Driver of the desludging vehicle*(Dropdown fetched from Vehicle Table)*                              | Dropdown              | ✅                   | always        |                      |
+| **Emptier 1 Name (*)**                  | First emptier involved in the service*(Dropdown fetched from Staff Table)*                           | Dropdown              | ✅                   | always        |                      |
+| **Emptier 2 Name**                      | Second emptier involved*(Dropdown fetched from Staff Table)*                                         | Dropdown              | —                   | always        |                      |
+| **Comments (if any)**                   | Optional remarks or additional observations                                                          | Text Area             | —                   | always        |                      |
+| **Current Trip Count**                  | Always**1** in the initial emptying form *(Auto-filled)*                                     | View Only / Auto Fill | —                   |               |                      |
 
 ---
 

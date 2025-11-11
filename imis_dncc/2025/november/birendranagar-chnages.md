@@ -13,3 +13,15 @@
 ---
 
 ->
+**API ROUGH SKETCH**
+
+---
+
+REQUIREMENTS
+
+---
+
+Get Application List 
+
+-> when emptying_status = 0 or 1
+-> when not null proposed emptying date
