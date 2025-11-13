@@ -165,7 +165,7 @@
 | # | Activity                                   | Hour | Task Type                                                     |
 | - | ------------------------------------------ | ---- | ------------------------------------------------------------- |
 | 1 | Birendranaagr -> maps new layer added      | 1    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 | Birendranagar -> api chnages , system view | 5    | ✅Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
+| 2 | Birendranagar -> api chnages , system view | 5    | ✅Code ✅ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -173,17 +173,17 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                           | Done ✅ |
+| - | ------------------------------ | ------- |
+| 1 | Birendranagr api emptying form | ✅      |
+| 2 |                                |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity     | Hour | Task Type                                                       |
+| - | ------------ | ---- | --------------------------------------------------------------- |
+| 1 | Birendranagr | 6    | ✅ Code ✅ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
+| 2 |              |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes    |
 
 ---
 
@@ -191,10 +191,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                                          | Done ✅ |
+| - | ------------------------------------------------------------- | ------- |
+| 1 | Birendranagar -> get api + emptying form + show it to priya  |         |
+| 2 |                                                               |         |
 
 ### ✅ Done Activities Log
 
