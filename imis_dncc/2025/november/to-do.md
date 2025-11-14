@@ -211,15 +211,17 @@
 
 | # | Task              | Done ✅ |
 | - | ----------------- | ------- |
-| 1 | Emptying Form api |         |
+| 1 | Emptying Form api | ✅      |
 | 2 |                   |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                          | Hour | Task Type                                                     |
+| - | ------------------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Dynamic build of emptying form api + get          | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Emptying Mobile Requirements                      | 30   | ☐ Code ☐ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
+| 3 | Sludge Collection -> get api + dynamic form fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 4 | Sludge Collections Mobile Requirements            | 30   | ☐ Code ☐ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
 
 ---
 
