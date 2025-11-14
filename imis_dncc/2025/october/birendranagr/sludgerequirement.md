@@ -14,6 +14,8 @@
 
 ### 📋 **Application List Card Displays Following Information:**
 
+when emptying_status = 1 or 2 and when sludge_collection_status is 0
+
 **UI Sample :**
 ![1760525018083](image/sludgerequirement/1760525018083.png)
 
@@ -37,18 +39,18 @@
 >
 > **Parent Card:** Sludge Collection Service
 
-| **Field Name**                | **Action / Behavior**                                                               | Required |
-| ----------------------------------- | ----------------------------------------------------------------------------------------- | -------- |
-| **Application ID**            | Prefilled, View Only , Input hidden                                                      | TRUE     |
-| **Treatment Plant Name**      | Prefilled, View Only                                                                      | TRUE     |
-| **Sludge Volume (m³)**       | Prefilled, View Only                                                                      | TRUE     |
-| **Date**                      | Date Picker – Date of sludge disposal*(Cannot select future dates)*                      | TRUE     |
-| **Entry Time**                | Time Picker – Entry time of vehicle into treatment plant*(Mandatory)*                    | TRUE     |
-| **Exit Time**                 | Time Picker – Exit time of vehicle from treatment plant*(Mandatory)*                     | TRUE     |
-| **Tipping Fee Receipt No.**   | Input – Identifier for tipping fee receipt*(Optional)*                                   | TRUE     |
-| **Tipping Fee Amount**        | Auto-fetched backend field*(Read-only)*                                                   | TRUE     |
-| **Tipping Fee Receipt Image** | Upload Image*(Camera/File Upload)*                                                        | TRUE     |
-| **Last Trip?**                | Toggle (Yes/No) – Indicates if more trips are expected for this application*(Mandatory)* | TRUE     |
+| **Field Name**                | **Action / Behavior**                                                               | Required | State    |
+| ----------------------------------- | ----------------------------------------------------------------------------------------- | -------- | -------- |
+| **Application ID**            | Prefilled, View Only , Input hidden                                                       | TRUE     | Disabled |
+| **Treatment Plant Name**      | Prefilled, View Only                                                                      | TRUE     | Disabled |
+| **Sludge Volume (m³)**       | Prefilled, View Only                                                                      | TRUE     | Dsabled  |
+| **Date**                      | Date Picker – Date of sludge disposal*(Cannot select future dates)*                      | TRUE     |          |
+| **Entry Time**                | Time Picker – Entry time of vehicle into treatment plant*(Mandatory)*                    | TRUE     |          |
+| **Exit Time**                 | Time Picker – Exit time of vehicle from treatment plant*(Mandatory)*                     | TRUE     |          |
+| **Tipping Fee Receipt No.**   | Input – Identifier for tipping fee receipt*(Optional)*                                   | TRUE     |          |
+| **Tipping Fee Amount**        | Auto-fetched backend field*(Read-only)*                                                   | TRUE     |          |
+| **Tipping Fee Receipt Image** | Upload Image*(Camera/File Upload)*                                                        | TRUE     |          |
+| **Last Trip?**                | Toggle (Yes/No) – Indicates if more trips are expected for this application*(Mandatory)* | TRUE     |          |
 
 ---
 
