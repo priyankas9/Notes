@@ -191,17 +191,17 @@
 
 ### 📝 To-Do List
 
-| # | Task                                                          | Done ✅ |
-| - | ------------------------------------------------------------- | ------- |
-| 1 | Birendranagar -> get api + emptying form + show it to priya  |         |
-| 2 |                                                               |         |
+| # | Task                                                        | Done ✅ |
+| - | ----------------------------------------------------------- | ------- |
+| 1 | Birendranagar -> get api + emptying form + show it to priya | ✅      |
+| 2 |                                                             |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                 | Hour | Task Type                                                      |
+| - | ---------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagar -> get api + emptying form | 6    | ✅ Code ☐ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
+| 2 |                                          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
@@ -209,10 +209,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task              | Done ✅ |
+| - | ----------------- | ------- |
+| 1 | Emptying Form api |         |
+| 2 |                   |         |
 
 ### ✅ Done Activities Log
 
