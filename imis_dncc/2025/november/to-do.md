@@ -34,7 +34,7 @@
 
 | # | Activity                        | Hour | Task Type                                                     |
 | - | ------------------------------- | ---- | ------------------------------------------------------------- |
-| 1 | SMS - dashboard , sidebar fixes |      | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 1 | SMS - dashboard , sidebar fixes | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 | 2 |                                 |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
@@ -212,7 +212,7 @@
 | # | Task              | Done ✅ |
 | - | ----------------- | ------- |
 | 1 | Emptying Form api | ✅      |
-| 2 |                   |         |
+| 2 | Work Lo Maintain  |         |
 
 ### ✅ Done Activities Log
 
@@ -247,17 +247,18 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task             | Done ✅ |
+| - | ---------------- | ------- |
+| 1 | Dncc             |         |
+| 2 | Swagger research |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                     | Hour | Task Type                                                     |
+| - | -------------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Meeting with qa                              | 1    | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Discuson with maharshi da for new db chnages | 1    | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | postgres trigger function                    | 4    | ☐ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -265,10 +266,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task          | Done ✅ |
+| - | ------------- | ------- |
+| 1 | DNCC api      |         |
+| 2 | DNCC function |         |
 
 ### ✅ Done Activities Log
 
