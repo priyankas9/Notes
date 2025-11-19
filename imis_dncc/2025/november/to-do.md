@@ -269,14 +269,14 @@
 | # | Task          | Done ✅ |
 | - | ------------- | ------- |
 | 1 | DNCC api      |         |
-| 2 | DNCC function |         |
+| 2 | DNCC function | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                       | Hour | Task Type                                                     |
+| - | ------------------------------ | ---- | ------------------------------------------------------------- |
+| 1 | DNCC -> application code fixes | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -284,10 +284,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                             | Done ✅ |
+| - | ------------------------------------------------ | ------- |
+| 1 | DNCC -> Appliation code push , queue part finish |         |
+| 2 | DNCC -> building api fixes                       |         |
+| 3 | Birendranagar -> set building fixes             |         |
 
 ### ✅ Done Activities Log
 
