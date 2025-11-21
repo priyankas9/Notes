@@ -310,10 +310,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                     | Hour | Task Type                                                     |
+| - | ---------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | DNCC function                | 5    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Meeting with mobile devloper | 1    | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -321,10 +321,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | DNCC function                             |         |
+| 2 | Mobile devloper : requirement doc and api |         |
 
 ### ✅ Done Activities Log
 
