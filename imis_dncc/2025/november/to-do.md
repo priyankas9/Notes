@@ -324,14 +324,15 @@
 | # | Task                                      | Done ✅ |
 | - | ----------------------------------------- | ------- |
 | 1 | DNCC function                             |         |
-| 2 | Mobile devloper : requirement doc and api |         |
+| 2 | Mobile devloper : requirement doc and api | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                         | Hour | Task Type                                                        |
+| - | -------------------------------- | ---- | ---------------------------------------------------------------- |
+| 1 | Meeting with mobile dev          | 1    | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes    |
+| 2 | Aoi fixes dncc and birendranagar | 4    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes    |
+| 3 | Swagger setup                    |      | ☐ Code ✅ Research  ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
