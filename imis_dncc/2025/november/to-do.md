@@ -332,7 +332,7 @@
 | - | -------------------------------- | ---- | ---------------------------------------------------------------- |
 | 1 | Meeting with mobile dev          | 1    | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes    |
 | 2 | Aoi fixes dncc and birendranagar | 4    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes    |
-| 3 | Swagger setup                    |      | ☐ Code ✅ Research  ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | Swagger setup                    | 1    | ☐ Code ✅ Research  ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -340,10 +340,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                          | Done ✅ |
+| - | ----------------------------- | ------- |
+| 1 | Swagger installation          |         |
+| 2 | One signal                    |         |
+| 3 | Birendranagar store functions |         |
 
 ### ✅ Done Activities Log
 
