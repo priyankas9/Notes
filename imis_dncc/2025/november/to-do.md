@@ -344,14 +344,14 @@
 | - | ----------------------------- | ------- |
 | 1 | Swagger installation          |         |
 | 2 | One signal                    |         |
-| 3 | Birendranagar store functions |         |
+| 3 | Birendranagar store functions | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                               | Hour | Task Type                                                     |
+| - | -------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar store function web + api | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                        |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -359,10 +359,12 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                              | Done ✅ |
+| - | --------------------------------- | ------- |
+| 1 | DNCC -> building with containment |         |
+| 2 | Birendranagr api                  |         |
+| 3 | Birendranagr swagger              |         |
+| 4 | Birendranagr one signal           |         |
 
 ### ✅ Done Activities Log
 
