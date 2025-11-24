@@ -362,16 +362,16 @@
 | # | Task                              | Done ✅ |
 | - | --------------------------------- | ------- |
 | 1 | DNCC -> building with containment |         |
-| 2 | Birendranagr api                  |         |
+| 2 | Birendranagr api                  | ✅      |
 | 3 | Birendranagr swagger              |         |
 | 4 | Birendranagr one signal           |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                       | Hour | Task Type                                                     |
+| - | ------------------------------ | ---- | ------------------------------------------------------------- |
+| 1 | Birendaranagar api issue fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | DNCC api fixes                 | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
