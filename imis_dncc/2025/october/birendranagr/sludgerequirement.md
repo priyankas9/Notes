@@ -48,6 +48,8 @@ when emptying_status = 1 or 2 and when sludge_collection_status is 0
 | **Entry Time**              | Time Picker – Entry time of vehicle into treatment plant*(Mandatory)* | TRUE     |          |
 | **Exit Time**               | Time Picker – Exit time of vehicle from treatment plant*(Mandatory)*  | TRUE     |          |
 | **Tipping Fee Receipt No.** | Input – Identifier for tipping fee receipt*(Optional)*                | TRUE     |          |
-| **Tipping Fee Amount**      | Auto-fetched backend field*(Read-only)*                                | TRUE     |          |
+| **Tipping Fee Amount**      | Auto-fetched backend field                                             | TRUE     |          |
+| Desludging Vehicle Size           | input hidden                                                           |          |          |
+| Service provider name             | input hidden                                                           |          |          |
 
 ---
