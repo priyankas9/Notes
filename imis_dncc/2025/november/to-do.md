@@ -381,15 +381,15 @@
 
 | # | Task                    | Done ✅ |
 | - | ----------------------- | ------- |
-| 1 | Birendranagr swagger    |         |
+| 1 | Birendranagr swagger    | ✅      |
 | 2 | Birendranagr one signal |         |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                     | Hour | Task Type                                                      |
+| - | ---------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagar swagger        | 3    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Birendranagar store ap fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -397,10 +397,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                      | Done ✅ |
+| - | ----------------------------------------- | ------- |
+| 1 | Birendranaagr swagger pull in live server |         |
+| 2 | Birendranagr one signal                   |         |
 
 ### ✅ Done Activities Log
 
