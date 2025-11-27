@@ -399,15 +399,15 @@
 
 | # | Task                                      | Done ✅ |
 | - | ----------------------------------------- | ------- |
-| 1 | Birendranaagr swagger pull in live server |         |
-| 2 | Birendranagr one signal                   |         |
+| 1 | Birendranaagr swagger pull in live server | ✅      |
+| 2 | Birendranagr one signal                   | ✅      |
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                | Hour | Task Type                                                      |
+| - | ----------------------- | ---- | -------------------------------------------------------------- |
+| 1 | ✅ (issue)             | 3    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Birendranagr one signal | 3    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -415,10 +415,10 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                 | Done ✅ |
+| - | ------------------------------------ | ------- |
+| 1 | Birendranagar live pull error fixes  |         |
+| 2 | Birendranagr one signal -> live pull |         |
 
 ### ✅ Done Activities Log
 
