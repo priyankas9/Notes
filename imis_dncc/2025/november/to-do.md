@@ -422,10 +422,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity               | Hour | Task Type                                                      |
+| - | ---------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagr one signa | 6    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                        |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
@@ -440,10 +440,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                | Hour | Task Type                                                      |
+| - | --------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagr cwis generator issue fixes | 3    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                         |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
@@ -451,10 +451,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
+| # | Task                                           | Done ✅ |
+| - | ---------------------------------------------- | ------- |
+| 1 | Birendranahr cwis generator issue close        |         |
+| 2 | Worklog maintain                               |         |
+| 3 | Birendranagar mobile app update with hem sagar |         |
 
 ### ✅ Done Activities Log
 
