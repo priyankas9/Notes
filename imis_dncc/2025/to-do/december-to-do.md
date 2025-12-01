@@ -14,7 +14,7 @@
 
 | # | Task                                    | Done ✅ |
 | - | --------------------------------------- | ------- |
-| 1 | <br /> Birendranagar cwis error close  |         |
+| 1 | <br /> Birendranagar cwis error close  | ✅      |
 | 2 | Mobile app update                       |         |
 | 3 |                                         |         |
 
@@ -26,10 +26,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                 | Hour | Task Type                                                     |
+| - | ------------------------ | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar cwis error | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
