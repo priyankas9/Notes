@@ -43,11 +43,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                              | Done ✅ |
+| - | ------------------------------------------------- | ------- |
+| 1 | Birendranagar cwis error fixes in live db as well |         |
+| 2 |                                                   |         |
+| 3 |                                                   |         |
 
 ### 🕒 Time Blocks
 
@@ -154,7 +154,6 @@
 | - | -------- | ---- | ------------------------------------------------------------ |
 | 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 | 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-
 
 ---
 
