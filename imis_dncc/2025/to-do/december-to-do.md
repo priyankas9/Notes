@@ -45,7 +45,7 @@
 
 | # | Task                                              | Done ✅ |
 | - | ------------------------------------------------- | ------- |
-| 1 | Birendranagar cwis error fixes in live db as well |         |
+| 1 | Birendranagar cwis error fixes in live db as well | ✅      |
 | 2 |                                                   |         |
 | 3 |                                                   |         |
 
@@ -57,10 +57,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                  | Hour | Task Type                                                     |
+| - | ----------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar cwis error fixes in live db | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | One Signal                                | 3    | ☐ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -74,11 +74,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                               | Done ✅ |
+| - | ---------------------------------- | ------- |
+| 1 | Trigger Functions update           |         |
+| 2 | queue update in dncc live server  |         |
+| 3 |                                    |         |
 
 ### 🕒 Time Blocks
 
