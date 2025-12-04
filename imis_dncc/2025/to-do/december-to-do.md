@@ -74,11 +74,11 @@
 
 ### 📝 To-Do List
 
-| # | Task                               | Done ✅ |
-| - | ---------------------------------- | ------- |
-| 1 | Trigger Functions update           |         |
-| 2 | queue update in dncc live server  |         |
-| 3 |                                    |         |
+| # | Task                             | Done ✅ |
+| - | -------------------------------- | ------- |
+| 1 | Trigger Functions update         |         |
+| 2 | queue update in dncc live server |         |
+| 3 |                                  |         |
 
 ### 🕒 Time Blocks
 
@@ -88,10 +88,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                       | Hour | Task Type                                                      |
+| - | ---------------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Meeting for manual of birendranagar            | 30   | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes  |
+| 2 | Brendraaagr report writing and documets readng | 5.30 | ☐ Code ✅ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -105,11 +105,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task            | Done ✅ |
+| - | --------------- | ------- |
+| 1 | Icon for smis  |         |
+| 2 |                 |         |
+| 3 |                 |         |
 
 ### 🕒 Time Blocks
 
