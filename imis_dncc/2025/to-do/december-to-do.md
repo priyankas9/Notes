@@ -105,11 +105,11 @@
 
 ### 📝 To-Do List
 
-| # | Task            | Done ✅ |
-| - | --------------- | ------- |
-| 1 | Icon for smis  |         |
-| 2 |                 |         |
-| 3 |                 |         |
+| # | Task          | Done ✅ |
+| - | ------------- | ------- |
+| 1 | Icon for smis | ✅      |
+| 2 |               |         |
+| 3 |               |         |
 
 ### 🕒 Time Blocks
 
@@ -119,10 +119,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity      | Hour | Task Type                                                     |
+| - | ------------- | ---- | ------------------------------------------------------------- |
+| 1 | Icon for smis | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |               |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -136,11 +136,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                | Done ✅ |
+| - | ------------------- | ------- |
+| 1 | brendranagar report |         |
+| 2 |                     |         |
+| 3 |                     |         |
 
 ### 🕒 Time Blocks
 
