@@ -150,10 +150,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                          | Hour | Task Type                                                     |
+| - | --------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | SMIS icon fixes                   | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Brendranagr db fixes + code fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -167,11 +167,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                               | Done ✅ |
+| - | ---------------------------------- | ------- |
+| 1 | Birendranagar db backup cwis fixes | ✅      |
+| 2 |                                    |         |
+| 3 |                                    |         |
 
 ### 🕒 Time Blocks
 
@@ -181,10 +181,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                           | Hour | Task Type                                                     |
+| - | ---------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar db backup cwis fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Api issue fixes for birendranagar  | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
