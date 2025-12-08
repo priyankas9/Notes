@@ -198,11 +198,11 @@
 
 ### 📝 To-Do List
 
-| # | Task                                     | Done ✅ |
-| - | ---------------------------------------- | ------- |
-| 1 | Birendranagar user login for mobile app  |         |
-| 2 | DNCC -> building with containment save  |         |
-| 3 |                                          |         |
+| # | Task                                    | Done ✅ |
+| - | --------------------------------------- | ------- |
+| 1 | Birendranagar user login for mobile app | ✅      |
+| 2 | DNCC -> building with containment save  |         |
+| 3 |                                         |         |
 
 ### 🕒 Time Blocks
 
@@ -212,10 +212,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                             | Hour | Task Type                                                      |
+| - | ---------------------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagar api fixes + login new permission fixes | 6    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                                      |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
