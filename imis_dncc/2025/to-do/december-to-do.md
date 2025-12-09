@@ -229,11 +229,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                              | Done ✅ |
+| - | --------------------------------- | ------- |
+| 1 | DNCC -> api fxes                  |         |
+| 2 | SMIS dashboard responsivnes fixes |         |
+| 3 |                                   |         |
 
 ### 🕒 Time Blocks
 
