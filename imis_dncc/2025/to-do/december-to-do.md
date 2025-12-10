@@ -231,7 +231,7 @@
 
 | # | Task                              | Done ✅ |
 | - | --------------------------------- | ------- |
-| 1 | DNCC -> api fxes                  |         |
+| 1 | DNCC -> api fxes                  | ✅      |
 | 2 | SMIS dashboard responsivnes fixes |         |
 | 3 |                                   |         |
 
@@ -243,10 +243,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                       | Hour | Task Type                                                     |
+| - | ------------------------------ | ---- | ------------------------------------------------------------- |
+| 1 | DNCC -> api web fucntion study | 4    | ✅ Code✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Birendranagar report writng    | 2    | ☐ Code ☐ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
 
 ---
 
@@ -260,11 +260,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                    | Done ✅ |
+| - | ----------------------- | ------- |
+| 1 | Containment api -> dncc |         |
+| 2 | Birendranagar report   |         |
+| 3 |                         |         |
 
 ### 🕒 Time Blocks
 
