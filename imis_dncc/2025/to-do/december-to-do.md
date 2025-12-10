@@ -263,7 +263,7 @@
 | # | Task                    | Done ✅ |
 | - | ----------------------- | ------- |
 | 1 | Containment api -> dncc |         |
-| 2 | Birendranagar report   |         |
+| 2 | Birendranagar report    | ✅      |
 | 3 |                         |         |
 
 ### 🕒 Time Blocks
@@ -274,10 +274,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                 | Hour | Task Type                                                      |
+| - | ---------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Brendrangar report                       | 3    | ☐ Code ✅ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
+| 2 | Birendranagar -> emptying form api fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
