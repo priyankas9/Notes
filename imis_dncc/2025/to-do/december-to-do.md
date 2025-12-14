@@ -324,7 +324,7 @@
 
 | # | Task                       | Done ✅ |
 | - | -------------------------- | ------- |
-| 1 | Birendranagar api emptying |         |
+| 1 | Birendranagar api emptying | ✅      |
 | 2 | DNCC -> containment        |         |
 | 3 |                            |         |
 
@@ -336,10 +336,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                        | Hour | Task Type                                                      |
+| - | ----------------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagar api emptying & notification fixes | 6    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                                 |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
