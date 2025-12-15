@@ -343,10 +343,6 @@
 
 ---
 
-*(Saturday, December 13 — skipped)*
-
----
-
 ## 📓 December 14, 2025 (Sunday)
 
 ### 💡 Quote of the Day
@@ -371,10 +367,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                       | Hour | Task Type                                                     |
+| - | ------------------------------ | ---- | ------------------------------------------------------------- |
+| 1 | Link Tree setup for imis       | 1    | ☐ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Birendranagar notification api | 5    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
