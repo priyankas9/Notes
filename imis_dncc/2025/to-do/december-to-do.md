@@ -384,11 +384,11 @@
 
 ### 📝 To-Do List
 
-| # | Task                              | Done ✅ |
-| - | --------------------------------- | ------- |
-| 1 | Notification -> web issue fixes  |         |
-| 2 |                                   |         |
-| 3 |                                   |         |
+| # | Task                            | Done ✅ |
+| - | ------------------------------- | ------- |
+| 1 | Notification -> web issue fixes | ✅      |
+| 2 |                                 |         |
+| 3 |                                 |         |
 
 ### 🕒 Time Blocks
 
@@ -398,10 +398,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                         | Hour | Task Type                                                      |
+| - | -------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Birendranagar notiifcation fixes | 6    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                  |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
