@@ -446,11 +446,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                           | Done ✅ |
+| - | ------------------------------ | ------- |
+| 1 | Birendranagar application push |         |
+| 2 | Birendraagar api fixes         |         |
+| 3 | Dncc multi lingual             |         |
 
 ### 🕒 Time Blocks
 
