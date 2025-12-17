@@ -417,7 +417,7 @@
 
 | # | Task                             | Done ✅ |
 | - | -------------------------------- | ------- |
-| 1 | Birendranagar notiifcation fixes |         |
+| 1 | Birendranagar notiifcation fixes | ✅      |
 | 2 | Dncc -> multilingual             |         |
 | 3 |                                  |         |
 
@@ -429,10 +429,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                             | Hour | Task Type                                                     |
+| - | ---------------------------------------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar application issue fixes +notifications | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 |                                                      |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
