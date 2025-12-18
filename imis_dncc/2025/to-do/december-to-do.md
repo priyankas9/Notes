@@ -448,8 +448,8 @@
 
 | # | Task                           | Done ✅ |
 | - | ------------------------------ | ------- |
-| 1 | Birendranagar application push |         |
-| 2 | Birendraagar api fixes         |         |
+| 1 | Birendranagar application push | ✅      |
+| 2 | Birendraagar api fixes         | ✅      |
 | 3 | Dncc multi lingual             |         |
 
 ### 🕒 Time Blocks
@@ -460,10 +460,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                                             | Hour | Task Type                                                      |
+| - | -------------------------------------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Meeting with shailesh dai over teh review of report on birendranagar | 1.30 | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes  |
+| 2 | Birendranaagr code fixes                                             | 4.30 | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
 
