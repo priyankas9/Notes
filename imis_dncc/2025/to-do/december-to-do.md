@@ -477,11 +477,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task          | Done ✅ |
+| - | ------------- | ------- |
+| 1 | Birendranagar |         |
+| 2 | DNCC          |         |
+| 3 |               |         |
 
 ### 🕒 Time Blocks
 
@@ -491,10 +491,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                           | Hour | Task Type                                                      |
+| - | ---------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Brendranagar -> sludge api tetsing | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ✅ Bug Fixes |
+| 2 |                                    |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
