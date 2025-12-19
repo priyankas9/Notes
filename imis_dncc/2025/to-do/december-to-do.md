@@ -508,11 +508,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                                 | Done ✅ |
+| - | ---------------------------------------------------- | ------- |
+| 1 | DNCC -> multi lingual                                |         |
+| 2 | Birendranagar -> new permission for mobile app fixes |         |
+| 3 |                                                      |         |
 
 ### 🕒 Time Blocks
 
