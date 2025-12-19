@@ -493,8 +493,8 @@
 
 | # | Activity                           | Hour | Task Type                                                      |
 | - | ---------------------------------- | ---- | -------------------------------------------------------------- |
-| 1 | Brendranagar -> sludge api tetsing | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ✅ Bug Fixes |
-| 2 |                                    |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
+| 1 | Brendranagar -> sludge api testing | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ✅ Bug Fixes |
+| 2 | Dncc multi lingual                 | 3    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes   |
 
 ---
 
