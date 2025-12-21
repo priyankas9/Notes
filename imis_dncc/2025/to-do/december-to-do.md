@@ -511,7 +511,7 @@
 | # | Task                                                 | Done ✅ |
 | - | ---------------------------------------------------- | ------- |
 | 1 | DNCC -> multi lingual                                |         |
-| 2 | Birendranagar -> new permission for mobile app fixes |         |
+| 2 | Birendranagar -> new permission for mobile app fixes | ✅      |
 | 3 |                                                      |         |
 
 ### 🕒 Time Blocks
@@ -522,14 +522,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                                  | Hour | Task Type                                                                  |
+| - | --------------------------------------------------------- | ---- | -------------------------------------------------------------------------- |
+| 1 | Birendranagar sludge collection role and permission fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes              |
+| 2 | DNCC multilingual new words added                         | 3    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅Database  |
 
----
-
-*(Saturday, December 20 — skipped)*
 
 ---
 
