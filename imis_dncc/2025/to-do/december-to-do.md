@@ -522,11 +522,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                                  | Hour | Task Type                                                                  |
-| - | --------------------------------------------------------- | ---- | -------------------------------------------------------------------------- |
-| 1 | Birendranagar sludge collection role and permission fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes              |
-| 2 | DNCC multilingual new words added                         | 3    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅Database  |
-
+| # | Activity                                                  | Hour | Task Type                                                                |
+| - | --------------------------------------------------------- | ---- | ------------------------------------------------------------------------ |
+| 1 | Birendranagar sludge collection role and permission fixes | 3    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes            |
+| 2 | DNCC multilingual new words added                         | 3    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅Database |
 
 ---
 
@@ -554,10 +553,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                | Hour | Task Type                                                    |
-| - | ----------------------- | ---- | ------------------------------------------------------------ |
-| 1 | Birendranagar api fixes | 3    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |                         |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                | Hour | Task Type                                                     |
+| - | ----------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar api fixes | 6    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+|   |                         |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -571,11 +570,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                 | Done ✅ |
+| - | -------------------- | ------- |
+| 1 | Nirendranagar report |         |
+| 2 |                      |         |
+| 3 |                      |         |
 
 ### 🕒 Time Blocks
 
