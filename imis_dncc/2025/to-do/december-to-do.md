@@ -572,7 +572,7 @@
 
 | # | Task                 | Done ✅ |
 | - | -------------------- | ------- |
-| 1 | Nirendranagar report |         |
+| 1 | Birendranagar report | ✅      |
 | 2 |                      |         |
 | 3 |                      |         |
 
@@ -584,10 +584,10 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity             | Hour | Task Type                                                     |
+| - | -------------------- | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar report | 6    | ☐ Code ☐ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |
+| 2 |                      |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes  |
 
 ---
 
@@ -615,10 +615,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                     | Hour | Task Type                                                                     |
+| - | ---------------------------- | ---- | ----------------------------------------------------------------------------- |
+| 1 | mEETING WITH MAAHRSHI DAI    | 1    | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes                 |
+| 2 | Jira tickets update          | 2    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ JIRA TCIKETS |
+| 3 | Notification code researched | 3    | ✅Reasearch                                                                   |
 
 ---
 
