@@ -664,11 +664,11 @@
 
 ### 📝 To-Do List
 
-| # | Task                                       | Done ✅ |
-| - | ------------------------------------------ | ------- |
-| 1 | Birendranagar notiifcation -> reassignment |         |
-| 2 | Birendranagar notiifcation code fixes     |         |
-| 3 | CWIS                                       |         |
+| # | Task                                           | Done ✅ |
+| - | ---------------------------------------------- | ------- |
+| 1 | Birendranagar notiifcation -> reassignment     |         |
+| 2 | Birendranagar notiifcation code fixes + error | ✅      |
+| 3 | CWIS                                           |         |
 
 ### 🕒 Time Blocks
 
@@ -678,10 +678,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                             | Hour | Task Type                                                      |
+| - | ---------------------------------------------------- | ---- | -------------------------------------------------------------- |
+| 1 | Meeting with maharshi dai for further dncc changes   | 30m  | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes  |
+| 2 | Birednranagar meeting with mobile devs + api changes | 2.30 | ✅ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | Birendranagar notification web fixes                 | 3    | ✅ Code                                                        |
 
 ---
 
