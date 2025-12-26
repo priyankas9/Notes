@@ -696,11 +696,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                       | Done ✅ |
+| - | ------------------------------------------ | ------- |
+| 1 | Birendranagar notiifcation -> reassignment |         |
+| 2 | CWIS fucntion                              |         |
+| 3 |                                            |         |
 
 ### 🕒 Time Blocks
 
