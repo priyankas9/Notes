@@ -715,9 +715,6 @@
 | 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 | 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
----
-
-*(Saturday, December 27 — skipped)*
 
 ---
 
@@ -762,11 +759,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                                       | Done ✅ |
+| - | ------------------------------------------ | ------- |
+| 1 | Birendranagar notiifcation -> reassignment |         |
+| 2 | CWIS function                              |         |
+| 3 |                                            |         |
 
 ### 🕒 Time Blocks
 
