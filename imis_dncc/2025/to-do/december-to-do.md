@@ -715,7 +715,6 @@
 | 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 | 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
-
 ---
 
 ## 📓 December 28, 2025 (Sunday)
@@ -773,10 +772,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                   | Hour | Task Type                                                    |
+| - | ------------------------------------------ | ---- | ------------------------------------------------------------ |
+| 1 | Birendranagar notiifcation -> reassignment | 4    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Meeting with maharshi                      | 30   | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | DNCC palnning                              | 1.30 |                                                              |
 
 ---
 
