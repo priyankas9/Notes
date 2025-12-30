@@ -760,7 +760,7 @@
 
 | # | Task                                       | Done ✅ |
 | - | ------------------------------------------ | ------- |
-| 1 | Birendranagar notiifcation -> reassignment |         |
+| 1 | Birendranagar notiifcation -> reassignment | ✅      |
 | 2 | CWIS function                              |         |
 | 3 |                                            |         |
 
@@ -772,11 +772,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                   | Hour | Task Type                                                    |
-| - | ------------------------------------------ | ---- | ------------------------------------------------------------ |
-| 1 | Birendranagar notiifcation -> reassignment | 4    | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 | Meeting with maharshi                      | 30   | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 3 | DNCC palnning                              | 1.30 |                                                              |
+| # | Activity                                   | Hour | Task Type                                                     |
+| - | ------------------------------------------ | ---- | ------------------------------------------------------------- |
+| 1 | Birendranagar notiifcation -> reassignment | 4    | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| 2 | Meeting with maharshi                      | 30   | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |
+| 3 | DNCC palnning                              | 1.30 | ✅ Code                                                       |
 
 ---
 
@@ -790,11 +790,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                        | Done ✅ |
+| - | --------------------------- | ------- |
+| 1 | CWIS birendranagar          |         |
+| 2 | Multi lingual birendranagar |         |
+| 3 | DNCC                        |         |
 
 ### 🕒 Time Blocks
 
@@ -841,5 +841,3 @@
 | 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
 
 ---
-
-[ ]
