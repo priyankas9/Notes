@@ -792,9 +792,9 @@
 
 | # | Task                        | Done ✅ |
 | - | --------------------------- | ------- |
-| 1 | CWIS birendranagar          |         |
-| 2 | Multi lingual birendranagar |         |
-| 3 | DNCC                        |         |
+| 1 | CWIS birendranagar          | ✅      |
+| 2 | Multi lingual birendranagar | ✅      |
+| 3 | DNCC                        | ✅      |
 
 ### 🕒 Time Blocks
 
@@ -804,10 +804,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity | Hour | Task Type                                                    |
-| - | -------- | ---- | ------------------------------------------------------------ |
-| 1 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
-| 2 |          |      | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |
+| # | Activity                                                              | Hour | Task Type                                                                           |
+| - | --------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------- |
+| 1 | Birendranagar cwis update                                             | 2    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ Database Changes |
+| 2 | Birendranagar multilingual discussion with samantha                   | 1    | ☐ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ Database Chnages  |
+| 3 | DNCC -> meeting with maharsi dai + code cnanges + documents reading  | 3    | ✅ Code ✅ Research                                                                |
 
 ---
 
