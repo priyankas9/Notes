@@ -804,11 +804,11 @@
 
 ### ✅ Done Activities Log
 
-| # | Activity                                                              | Hour | Task Type                                                                           |
-| - | --------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------- |
-| 1 | Birendranagar cwis update                                             | 2    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ Database Changes |
-| 2 | Birendranagar multilingual discussion with samantha                   | 1    | ☐ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ Database Chnages  |
-| 3 | DNCC -> meeting with maharsi dai + code cnanges + documents reading  | 3    | ✅ Code ✅ Research                                                                |
+| # | Activity                                                            | Hour | Task Type                                                                           |
+| - | ------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------- |
+| 1 | Birendranagar cwis update                                           | 2    | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ Database Changes |
+| 2 | Birendranagar multilingual discussion with samantha                 | 1    | ☐ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes ✅ Database Chnages  |
+| 3 | DNCC -> meeting with maharsi dai + code cnanges + documents reading | 3    | ✅ Code ✅ Research                                                                |
 
 ---
 
@@ -822,11 +822,11 @@
 
 ### 📝 To-Do List
 
-| # | Task | Done ✅ |
-| - | ---- | ------- |
-| 1 |      |         |
-| 2 |      |         |
-| 3 |      |         |
+| # | Task                           | Done ✅ |
+| - | ------------------------------ | ------- |
+| 1 | DNCC                           |         |
+| 2 | Birednranagar -> emptying form |         |
+| 3 |                                |         |
 
 ### 🕒 Time Blocks
 
