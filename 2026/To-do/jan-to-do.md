@@ -18,14 +18,16 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project       | Activity                                                     | Hours | Type                                                           | Notes                                                    |
+| ------------- | ------------------------------------------------------------ | ----- | -------------------------------------------------------------- | -------------------------------------------------------- |
+| Birendranagar | Cwis                                                         | 1.5   | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |                                                          |
+| Birendranagar | Api changes                                                  | 1.5   | ✅ Code                                                        |                                                          |
+| DNCC          | Service Provider -> new column added + site settings removed | 3     | ✅ Code                                                        | ADD new column in fsm.service_providers as service_areas |
 
 🧠 **Reflection**
 
-* Energy: 🔴 / 🟡 / 🟢
-* One improvement for tomorrow:
+* Energy: 🔴 / ✅ 🟡 / 🟢
+* One improvement for tomorrow: FOCUS ON DNCC
 
 ---
 
@@ -37,7 +39,10 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :** 
+
+- DNCC -> service area
+- DNCC -> Remove date logic from schedule desludging
 
 ✅ **Done Log**
 
