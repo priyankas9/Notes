@@ -39,20 +39,22 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
+🎯 **Top 3 Outcomes :**
 
 - DNCC -> service area
 - DNCC -> Remove date logic from schedule desludging
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                                   | Hours | Type | Notes |
+| ------- | ------------------------------------------ | ----- | ---- | ----- |
+| DNCC    | Service area -> fixes for service provider | 3     | CODE |       |
+| DNCC    | Desludging schedule -> regenerate logic    |       |      |       |
 
 🧠 **Reflection**
 
-* Energy: 🔴 / 🟡 / 🟢
-* One improvement for tomorrow:
+* Energy: 🔴 / ✅🟡 / 🟢
+* One improvement for tomorrow: Regenerate logic fixes
 
 ---
 
