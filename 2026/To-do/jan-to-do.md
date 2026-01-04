@@ -46,10 +46,10 @@
 
 ✅ **Done Log**
 
-| Project | Activity                                   | Hours | Type | Notes |
-| ------- | ------------------------------------------ | ----- | ---- | ----- |
-| DNCC    | Service area -> fixes for service provider | 3     | CODE |       |
-| DNCC    | Desludging schedule -> regenerate logic    |       |      |       |
+| Project | Activity                                   | Hours | Type            | Notes |
+| ------- | ------------------------------------------ | ----- | --------------- | ----- |
+| DNCC    | Service area -> fixes for service provider | 3     | CODE            |       |
+| DNCC    | Desludging schedule -> regenerate logic    | 3     | CODE , RESEARCH |       |
 
 🧠 **Reflection**
 
@@ -66,7 +66,10 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :** 
+
+- Regenereate compelete
+- Remove assign service provider logic from application
 
 ✅ **Done Log**
 
