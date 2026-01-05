@@ -12,3 +12,8 @@
 ## 02.Jan
 
 - Added building filter for desludging schedule
+
+## 04.Jan
+
+- Added new table as : [Queries](C:\xampp\htdocs\notes\Notes\2026\DNCC\query.md "Check the queries file")
+- saved the data generated from regenerate button to temp table

@@ -73,9 +73,9 @@
 
 ✅ **Done Log**
 
-| Project | Activity            | Hours | Type               | Notes |
-| ------- | ------------------- | ----- | ------------------ | ----- |
-| DNCC    | Reegenrate schedule | 6     | Code<br />Research |       |
+| Project | Activity                                              | Hours | Type                            | Notes |
+| ------- | ----------------------------------------------------- | ----- | ------------------------------- | ----- |
+| DNCC    | Reegenrate schedule + meeting wit maharshi dai (.30m) | 6     | Code<br />Research<br />Meeting |       |
 
 🧠 **Reflection**
 
