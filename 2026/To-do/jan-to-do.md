@@ -66,19 +66,20 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
+🎯 **Top 3 Outcomes :**
 
 - Regenereate compelete
 - Remove assign service provider logic from application
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity            | Hours | Type               | Notes |
+| ------- | ------------------- | ----- | ------------------ | ----- |
+| DNCC    | Reegenrate schedule | 6     | Code<br />Research |       |
 
 🧠 **Reflection**
 
-* Energy: 🔴 / 🟡 / 🟢
+* Energy: 🔴 / ✅🟡 / 🟢
 * One improvement for next week:
 
 ---
@@ -91,7 +92,10 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :** 
+
+- Regenerate -> datatable loading
+- Application page work complete
 
 ✅ **Done Log**
 
