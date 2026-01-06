@@ -2,7 +2,7 @@
 
 ---
 
-## 04.Jan 
+## 04.Jan
 
 CREATE TABLE IF NOT EXISTS fsm.desludging_schedule_temp
 (
@@ -21,6 +21,11 @@ CREATE TABLE IF NOT EXISTS fsm.desludging_schedule_temp
     status integer,
     generated_by bigint,
     generated_at timestamp without time zone DEFAULT now(),
+    house_number character varying COLLATE pg_catalog."default",
+    house_locality character varying COLLATE pg_catalog."default",
+    road_code character varying COLLATE pg_catalog."default",
+    created_at timestamp without time zone,
+    updated_at timestamp without time zone,
     CONSTRAINT desludging_schedule_temp_pkey PRIMARY KEY (id)
 )
 

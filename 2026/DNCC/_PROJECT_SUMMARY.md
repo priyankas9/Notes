@@ -17,3 +17,8 @@
 
 - Added new table as : [Queries](C:\xampp\htdocs\notes\Notes\2026\DNCC\query.md "Check the queries file")
 - saved the data generated from regenerate button to temp table
+
+## 05.Jan 
+
+- Fixed valdations for service providers form
+- Completed the regenerate button logic + datatable display
