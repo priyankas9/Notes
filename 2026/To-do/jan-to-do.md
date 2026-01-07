@@ -125,12 +125,13 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                                              | Hours | Type | Notes |
+| ------- | ----------------------------------------------------- | ----- | ---- | ----- |
+| DNCC    | Application page changes<br />+ schedule page changes | 6     | CODE |       |
 
 🧠 **Reflection**
 
-* Energy: 🔴 / 🟡 / 🟢
+* Energy: 🔴 / ✅ 🟡 / 🟢
 * One improvement for tomorrow:
 
 ---
@@ -143,7 +144,11 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :** 
+
+- Desludging schedule -> confirm and disagree logic fixes
+- Reintegration fixes
+- Confrim form fixes -> application
 
 ✅ **Done Log**
 
