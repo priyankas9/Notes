@@ -144,7 +144,7 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
+🎯 **Top 3 Outcomes :**
 
 - Desludging schedule -> confirm and disagree logic fixes
 - Reintegration fixes
@@ -152,8 +152,9 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                                                     | Hours | Type                 | Notes |
+| ------- | ------------------------------------------------------------ | ----- | -------------------- | ----- |
+| DNCC    | desludging schedule -> confrim disagree , confrim form fixes | 6     | CODE ,<br />RESEARCH |       |
 
 🧠 **Reflection**
 
@@ -170,7 +171,11 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes:\**
+
+- Service provider -> logic fixes
+- ]language
+- priority inbuild in regenerate logic
 
 ✅ **Done Log**
 
