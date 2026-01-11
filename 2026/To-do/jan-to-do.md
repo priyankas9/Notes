@@ -174,13 +174,14 @@
 🎯 **Top 3 Outcomes:\**
 
 - Service provider -> logic fixes
-- ]language
+- language
 - priority inbuild in regenerate logic
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                                                                | Hours | Type                 | Notes |
+| ------- | ----------------------------------------------------------------------- | ----- | -------------------- | ----- |
+| dncc    | Service provider -> logic fixes + priority inbuild in regenerate logic | 6     | CODE +<br />RESEARCH |       |
 
 🧠 **Reflection**
 
@@ -200,8 +201,9 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                                                                  | Hours | Type                      | Notes |
+| ------- | ------------------------------------------------------------------------- | ----- | ------------------------- | ----- |
+| DNCC    | Github changes<br />Regenerate Logic Fixes <br />Role permission fixes  | 6     | CODE<br />+<br />Research |       |
 
 🧠 **Reflection**
 
