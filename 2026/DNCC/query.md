@@ -4,6 +4,10 @@
 
 ## 04.Jan
 
+Alter table fsm.service_providers
+Add column service_area character varying;
+
+
 CREATE TABLE IF NOT EXISTS fsm.desludging_schedule_temp
 (
     id bigint NOT NULL DEFAULT nextval('fsm.desludging_schedule_temp_id_seq'::regclass),
@@ -26,13 +30,11 @@ CREATE TABLE IF NOT EXISTS fsm.desludging_schedule_temp
     road_code character varying COLLATE pg_catalog."default",
     created_at timestamp without time zone,
     updated_at timestamp without time zone,
+    priority integer,
     CONSTRAINT desludging_schedule_temp_pkey PRIMARY KEY (id)
 )
 
 TABLESPACE pg_default;
-
-ALTER TABLE IF EXISTS fsm.desludging_schedule_temp
-    OWNER to postgres;
 
 CREATE SEQUENCE IF NOT EXISTS fsm.desludging_schedule_temp_id_seq
     INCREMENT 1
