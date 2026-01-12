@@ -28,8 +28,12 @@
 - Removed te auto assign from service provider , calender logic from application page
 - Removed confirmed logic from desludging schedule
 
-## 07,08,09 Jan 
+## 07,08,09 Jan
 
 - regenerate logic fixes
 - db changes
 - live code pull
+
+## 10 Jan
+
+ regenrate pop up message update

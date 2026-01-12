@@ -224,11 +224,14 @@
 - Rewatch -> regenerate logic fixes
 - lOCAL STORAGE ISSUE FIXES
 - Notification icon fixes
+- multi trip api
+- push notifications
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                               | Hours | Type              | Notes |
+| ------- | -------------------------------------- | ----- | ----------------- | ----- |
+| DNCC    | Meeting + regebrrate button swal fixes | 6     | CODE<br />MEETING |       |
 
 🧠 **Reflection**
 
@@ -244,7 +247,15 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :**
+
+Loca Storage 
+
+Clean db 
+
+Add new sp only 2, veciles , employee 
+
+DNCC API update 
 
 ✅ **Done Log**
 
