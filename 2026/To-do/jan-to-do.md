@@ -249,18 +249,19 @@
 
 🎯 **Top 3 Outcomes :**
 
-Loca Storage 
+Loca Storage
 
-Clean db 
+Clean db
 
-Add new sp only 2, veciles , employee 
+Add new sp only 2, veciles , employee
 
-DNCC API update 
+DNCC API update
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity               | Hours | Type | Notes |
+| ------- | ---------------------- | ----- | ---- | ----- |
+| DNCC    | Clea db work + Meeting | 6     | CODE |       |
 
 🧠 **Reflection**
 
@@ -276,7 +277,15 @@ DNCC API update
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :**
+
+Clean db
+
+Add new sp only 2, veciles , employee
+
+DNCC API update
+
+PUSH Notifications
 
 ✅ **Done Log**
 
