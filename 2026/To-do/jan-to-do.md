@@ -279,9 +279,9 @@ DNCC API update
 
 🎯 **Top 3 Outcomes :**
 
-Clean db
+~~Clean db~~
 
-Add new sp only 2, veciles , employee
+~~Add new sp only 2, veciles , employee~~
 
 DNCC API update
 
@@ -289,8 +289,9 @@ PUSH Notifications
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity             | Hours | Type                  | Notes |
+| ------- | -------------------- | ----- | --------------------- | ----- |
+| DNCC    | Clean db setup fixes | 6     | CODE<br />+ <br />DB |       |
 
 🧠 **Reflection**
 
@@ -306,7 +307,11 @@ PUSH Notifications
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :** 
+
+- Clean db fixes
+- api -> push notifications
+- aplication local storage fixes
 
 ✅ **Done Log**
 
