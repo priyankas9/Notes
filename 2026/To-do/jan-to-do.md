@@ -307,7 +307,7 @@ PUSH Notifications
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
+🎯 **Top 3 Outcomes :**
 
 - Clean db fixes
 - api -> push notifications
@@ -315,8 +315,9 @@ PUSH Notifications
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                     | Hours | Type | Notes |
+| ------- | ---------------------------- | ----- | ---- | ----- |
+| DNCC    | clean db fixes + code update |       |      |       |
 
 🧠 **Reflection**
 
@@ -336,8 +337,9 @@ PUSH Notifications
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                          | Hours | Type | Notes |
+| ------- | --------------------------------- | ----- | ---- | ----- |
+| DNCC    | APK tesing +  role based testing | 3     | CODE |       |
 
 🧠 **Reflection**
 
@@ -353,12 +355,14 @@ PUSH Notifications
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :** 
+
 
 ✅ **Done Log**
 
 | Project | Activity | Hours | Type | Notes |
 | ------- | -------- | ----- | ---- | ----- |
+|         |          |       |      |       |
 
 🧠 **Reflection**
 
