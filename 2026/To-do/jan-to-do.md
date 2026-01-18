@@ -355,14 +355,13 @@ PUSH Notifications
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
-
+🎯 **Top 3 Outcomes :**
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
-|         |          |       |      |       |
+| Project | Activity         | Hours | Type             | Notes |
+| ------- | ---------------- | ----- | ---------------- | ----- |
+| DNCC    | mEETING + CODING | 6     | mEETING + CODING |       |
 
 🧠 **Reflection**
 
@@ -382,8 +381,9 @@ PUSH Notifications
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity | Hours | Type     | Notes |
+| ------- | -------- | ----- | -------- | ----- |
+| DNCC    | Training | 6     | Training |       |
 
 🧠 **Reflection**
 
