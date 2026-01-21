@@ -399,9 +399,9 @@ PUSH Notifications
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
+🎯 **Top 3 Outcomes :**
 
- DNCC db update 
+ DNCC db update
 
 ✅ **Done Log**
 
@@ -423,7 +423,12 @@ PUSH Notifications
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :
+DNCC CLEAN DB -> CATEGORY update** 
+
+birendranagar push notifications 
+
+dncc -> multi trip mobile app
 
 ✅ **Done Log**
 
