@@ -415,7 +415,7 @@ PUSH Notifications
 
 ---
 
-## 📓 January 25, 2026 (Sunday)
+## 📓 January 22, 2026 (Wednesday)
 
 💡 **Quote of the Day**
 
@@ -424,16 +424,18 @@ PUSH Notifications
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :
-DNCC CLEAN DB -> CATEGORY update** 
+DNCC CLEAN DB -> CATEGORY update**
 
-birendranagar push notifications 
+birendranagar push notifications
 
 dncc -> multi trip mobile app
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type | Notes |
-| ------- | -------- | ----- | ---- | ----- |
+| Project | Activity                                                | Hours | Type            | Notes |
+| ------- | ------------------------------------------------------- | ----- | --------------- | ----- |
+| SMIS    | SMIS Module prefix update                               | 1     | CODE + rESEARCH |       |
+| DNCC    | fucntions update + crredntials fixes + role based fixes | 5     | CODE            |       |
 
 🧠 **Reflection**
 
@@ -441,7 +443,7 @@ dncc -> multi trip mobile app
 
 ---
 
-## 📓 January 26, 2026 (Monday)
+## 📓 January 23, 2026 (Thursday)
 
 💡 **Quote of the Day**
 
@@ -449,7 +451,13 @@ dncc -> multi trip mobile app
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes**
+🎯 **Top 3 Outcomes :**
+
+MULTI trip api 
+
+push notification testing 
+
+db -> category query update 
 
 ✅ **Done Log**
 
