@@ -453,17 +453,18 @@ dncc -> multi trip mobile app
 
 🎯 **Top 3 Outcomes :**
 
-MULTI trip api 
+MULTI trip api
 
-push notification testing 
+push notification testing
 
-db -> category query update 
+~~db -> category query update~~
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project | Activity                       | Hours | Type                  | Notes |
+| ------- | ------------------------------ | ----- | --------------------- | ----- |
+| smis    | SCREENSHOT PPT                 | 2     | Documentation        |       |
+| dncc    | multitrip chnages + db updates | 5     | Code + Research + db |       |
 
 🧠 **Reflection**
 
