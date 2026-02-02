@@ -18,9 +18,10 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project | Activity        | Hours | Type                                                          | Notes |
+| ------- | --------------- | ----- | ------------------------------------------------------------- | ----- |
+| Meeting | Retrospect      | 1     | ☐ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| SMIS    | Scheduling part | 5     | ✅ Code                                                       |       |
 
 🧠 **Reflection**
 
@@ -37,6 +38,9 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- smis code fixes
+- react -> leaflest + tailwind error fixes
 
 ✅ **Done Log**
 
