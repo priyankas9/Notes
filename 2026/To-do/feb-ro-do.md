@@ -44,9 +44,9 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project | Activity                      | Hours | Type                                                           | Notes |
+| ------- | ----------------------------- | ----- | -------------------------------------------------------------- | ----- |
+| SMIS    | Bug fixes + new project works | 6     | ✅ Code ☐ Research ✅ Meeting ☐ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
@@ -64,6 +64,10 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+-> react maps dsplay 
+
+-> users datable dsplay
 
 ✅ **Done Log**
 
