@@ -65,15 +65,15 @@
 
 🎯 **Top 3 Outcomes :**
 
--> react maps dsplay 
+-> react maps dsplay
 
 -> users datable dsplay
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project    | Activity                                | Hours | Type                                                           | Notes |
+| ---------- | --------------------------------------- | ----- | -------------------------------------------------------------- | ----- |
+| COLD CHAIN | react maps dsplay + frontend code fixes | 6     | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
@@ -90,6 +90,10 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+-> react : datatable display
+
+-> compelete prototypes 
 
 ✅ **Done Log**
 
