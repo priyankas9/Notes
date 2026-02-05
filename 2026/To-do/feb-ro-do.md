@@ -93,13 +93,13 @@
 
 -> react : datatable display
 
--> compelete prototypes 
+-> compelete prototypes
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project    | Activity                                 | Hours | Type                                                           | Notes |
+| ---------- | ---------------------------------------- | ----- | -------------------------------------------------------------- | ----- |
+| COLD CHAIN | Datatable display + type script research | 6     | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
@@ -116,6 +116,9 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- typescript -> api handles
+- prototype -> chart fixes
 
 ✅ **Done Log**
 
