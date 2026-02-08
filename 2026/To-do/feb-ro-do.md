@@ -119,6 +119,7 @@
 
 - typescript -> api handles
 - prototype -> chart fixes
+- jira tickets
 
 ✅ **Done Log**
 
@@ -164,6 +165,8 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+geojson dsplay
 
 ✅ **Done Log**
 
