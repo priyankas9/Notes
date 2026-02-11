@@ -166,7 +166,9 @@
 
 🎯 **Top 3 Outcomes :**
 
-geojson dsplay
+geojson dsplay -> bar chart display more and use colors different types of colors
+
+cold chain points -> add form chalne garnu paryo
 
 ✅ **Done Log**
 
@@ -233,6 +235,10 @@ geojson dsplay
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- jira ticket for cold chan project
+- code push
+- type script , d3 and geojson fetches research
 
 ✅ **Done Log**
 
