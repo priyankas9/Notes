@@ -242,9 +242,11 @@ cold chain points -> add form chalne garnu paryo
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project           | Activity            | Hours | Type                                                          | Notes |
+| ----------------- | ------------------- | ----- | ------------------------------------------------------------- | ----- |
+| Birendranagar     | Emptying form fixes | 1.30  | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| DNCC + Cold Chain | Jira Tickets        | 1.30  | ✅ Code                                                      |       |
+| Birendranagar     | Meeting             | 3     | ✅ Meeting                                                   |       |
 
 🧠 **Reflection**
 
@@ -262,11 +264,15 @@ cold chain points -> add form chalne garnu paryo
 
 🎯 **Top 3 Outcomes :**
 
+- type script , d3 and geojson fetches research
+- dasboard design fixes
+- birendranagar meeting minute
+
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project       | Activity                      | Hours | Type                                                           | Notes |
+| ------------- | ----------------------------- | ----- | -------------------------------------------------------------- | ----- |
+| Birendranagar | Team meeting + meeting minute | 2     | ☐ Code ☐ Research ✅ Meeting ✅ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
