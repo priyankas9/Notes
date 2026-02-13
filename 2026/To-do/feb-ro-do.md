@@ -273,6 +273,7 @@ cold chain points -> add form chalne garnu paryo
 | Project       | Activity                      | Hours | Type                                                           | Notes |
 | ------------- | ----------------------------- | ----- | -------------------------------------------------------------- | ----- |
 | Birendranagar | Team meeting + meeting minute | 2     | ☐ Code ☐ Research ✅ Meeting ✅ Documentation ☐ Bug Fixes |       |
+| Reasearch     | Type script                   | 4     | ✅ Research                                                    |       |
 
 🧠 **Reflection**
 
@@ -289,6 +290,10 @@ cold chain points -> add form chalne garnu paryo
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- tye scrpt reasearch
+- rbac -> suraj sir project
+- bnm -> mapping
 
 ✅ **Done Log**
 
