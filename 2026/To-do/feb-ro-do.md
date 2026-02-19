@@ -340,6 +340,9 @@ cold chain points -> add form chalne garnu paryo
 
 🎯 **Top 3 Outcomes :**
 
+- shankey diagram
+- dasboard ui fixes
+
 ✅ **Done Log**
 
 | Project | Activity | Hours | Type                                                         | Notes |
@@ -405,6 +408,9 @@ cold chain points -> add form chalne garnu paryo
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- cold chain
+- birendranagar
 
 ✅ **Done Log**
 
