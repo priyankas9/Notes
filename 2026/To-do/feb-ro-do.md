@@ -414,9 +414,10 @@ cold chain points -> add form chalne garnu paryo
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project       | Activity                      | Hours | Type                                                          | Notes |
+| ------------- | ----------------------------- | ----- | ------------------------------------------------------------- | ----- |
+| cold chain    | Dashboard -> chart fixes      | 3     | ✅ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| birendranagar | mapping for address not found | 3     | ✅ Research                                                  |       |
 
 🧠 **Reflection**
 
@@ -434,11 +435,16 @@ cold chain points -> add form chalne garnu paryo
 
 🎯 **Top 3 Outcomes :**
 
+cold chain -> user module
+
+birendranagar
+
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project       | Activity                               | Hours | Type                                                           | Notes |
+| ------------- | -------------------------------------- | ----- | -------------------------------------------------------------- | ----- |
+| Birendarnagar | Impact Analysis                        | 3     | ☐ Code ✅ Research ☐ Meeting ✅ Documentation ☐ Bug Fixes |       |
+| Cold chain    | User Management page + bar chart fixes | 3     | ✅ Code                                                        |       |
 
 🧠 **Reflection**
 
@@ -456,6 +462,10 @@ cold chain points -> add form chalne garnu paryo
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- user management
+- charts in general (tooltip, labels)
+- birendranagar -> jira tickets
 
 ✅ **Done Log**
 
