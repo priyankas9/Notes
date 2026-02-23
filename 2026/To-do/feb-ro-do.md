@@ -469,9 +469,10 @@ birendranagar
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project    | Activity         | Hours | Type                                                           | Notes |
+| ---------- | ---------------- | ----- | -------------------------------------------------------------- | ----- |
+| Cold Chain | Cold chan charts | 6     | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| meeting    | retrospect       | 30    |                                                                |       |
 
 🧠 **Reflection**
 
@@ -488,6 +489,9 @@ birendranagar
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- cold chain (dashboard compelte)
+- birendranagar -> address not foundd
 
 ✅ **Done Log**
 
