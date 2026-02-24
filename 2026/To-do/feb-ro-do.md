@@ -495,9 +495,9 @@ birendranagar
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project    | Activity                | Hours | Type                                                           | Notes |
+| ---------- | ----------------------- | ----- | -------------------------------------------------------------- | ----- |
+| Cold Chain | Dashboard + users table | 6     | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
@@ -514,6 +514,10 @@ birendranagar
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+Brendrangar -> process for address not found 
+
+cold chain user management and map features
 
 ✅ **Done Log**
 
