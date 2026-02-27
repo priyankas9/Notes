@@ -571,9 +571,9 @@ cold chain user management and map features
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project    | Activity               | Hours | Type                                                         | Notes |
+| ---------- | ---------------------- | ----- | ------------------------------------------------------------ | ----- |
+| Cold Chain | User Manangement + Map | 6     | ✅Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
@@ -590,6 +590,12 @@ cold chain user management and map features
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+Cold Chain -> map -> legend 
+
+Map researcH 
+
+bIRENDRANAGAR > jira ticket 
 
 ✅ **Done Log**
 
