@@ -591,11 +591,11 @@ cold chain user management and map features
 
 🎯 **Top 3 Outcomes :**
 
-Cold Chain -> map -> legend 
+Cold Chain -> map -> legend
 
-Map researcH 
+Map researcH
 
-bIRENDRANAGAR > jira ticket 
+bIRENDRANAGAR > jira ticket
 
 ✅ **Done Log**
 
@@ -619,6 +619,9 @@ bIRENDRANAGAR > jira ticket
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- Cold Chain its bits
+- Birendranagar business process
 
 ✅ **Done Log**
 
