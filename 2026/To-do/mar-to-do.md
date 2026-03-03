@@ -56,6 +56,9 @@
 
 🎯 **Top 3 Outcomes :**
 
+- bnm jira ticket
+- cold chain login api integration
+
 ✅ **Done Log**
 
 | Project | Activity | Hours | Type                                                         | Notes |
