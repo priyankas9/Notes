@@ -176,6 +176,9 @@
 
 🎯 **Top 3 Outcomes :**
 
+- cold chain -> user crud
+- birendranagar -> jira ticket and work start
+
 ✅ **Done Log**
 
 | Project | Activity | Hours | Type                                                         | Notes |
