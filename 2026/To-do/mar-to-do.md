@@ -199,16 +199,17 @@
 
 🟢 **Daily Outcome:**
 
-🎯 **Top 3 Outcomes :** 
+🎯 **Top 3 Outcomes :**
 
 - cold chain : roles crud
 - brendranagar -> application form fixes (address not found )
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project       | Activity                             | Hours | Type                                                           | Notes |
+| ------------- | ------------------------------------ | ----- | -------------------------------------------------------------- | ----- |
+| cold chain    | meeting + role api + live deployment | 4     | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Birendranagar | anf mockup                           | 2     | ✅ Code                                                       |       |
 
 🧠 **Reflection**
 
@@ -225,6 +226,9 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- cold chain api all compelete
+- bredranagar af logic
 
 ✅ **Done Log**
 
