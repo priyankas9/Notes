@@ -232,9 +232,9 @@
 
 ✅ **Done Log**
 
-| Project | Activity | Hours | Type                                                         | Notes |
-| ------- | -------- | ----- | ------------------------------------------------------------ | ----- |
-|         |          |       | ☐ Code ☐ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
+| Project    | Activity             | Hours | Type                                                           | Notes |
+| ---------- | -------------------- | ----- | -------------------------------------------------------------- | ----- |
+| Cold Chain | Cold Chain compelete | 6     | ✅ Code ✅ Research ☐ Meeting ☐ Documentation ☐ Bug Fixes |       |
 
 🧠 **Reflection**
 
@@ -251,6 +251,10 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+
+- cold chain demo
+- bredranagar af logic
 
 ✅ **Done Log**
 
