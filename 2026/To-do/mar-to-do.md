@@ -252,7 +252,6 @@
 
 🎯 **Top 3 Outcomes :**
 
-
 - cold chain demo
 - bredranagar af logic
 
@@ -437,6 +436,9 @@
 🟢 **Daily Outcome:**
 
 🎯 **Top 3 Outcomes :**
+
+- birendranagar -> application's form finish
+- cold chain -> mono app + map features
 
 ✅ **Done Log**
 
